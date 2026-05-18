@@ -1,0 +1,416 @@
+[
+  {
+    "id": "258919",
+    "name": "Dean Henderson",
+    "position": "Dean HendersonGoalkeeper",
+    "number": "1",
+    "age": "",
+    "nationality": [],
+    "market_value": "€28.00m"
+  },
+  {
+    "id": "258919",
+    "name": "Dean Henderson",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "296802",
+    "name": "Walter Benítez",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "196722",
+    "name": "Remi Matthews",
+    "position": "Remi MatthewsGoalkeeper",
+    "number": "31",
+    "age": "",
+    "nationality": [],
+    "market_value": "€300k"
+  },
+  {
+    "id": "196722",
+    "name": "Remi Matthews",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "434224",
+    "name": "Maxence Lacroix",
+    "position": "Maxence LacroixCentre-Back",
+    "number": "5",
+    "age": "",
+    "nationality": [],
+    "market_value": "€40.00m"
+  },
+  {
+    "id": "434224",
+    "name": "Maxence Lacroix",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "578539",
+    "name": "Chris Richards",
+    "position": "Chris RichardsCentre-Back",
+    "number": "26",
+    "age": "",
+    "nationality": [],
+    "market_value": "€25.00m"
+  },
+  {
+    "id": "578539",
+    "name": "Chris Richards",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "1006411",
+    "name": "Jaydee Canvot",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "689637",
+    "name": "Chadi Riad",
+    "position": "Chadi RiadCentre-Back",
+    "number": "34",
+    "age": "",
+    "nationality": [],
+    "market_value": "€12.00m"
+  },
+  {
+    "id": "689637",
+    "name": "Chadi Riad",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "730893",
+    "name": "Tyrick Mitchell",
+    "position": "Tyrick MitchellLeft-Back",
+    "number": "3",
+    "age": "",
+    "nationality": [],
+    "market_value": "€25.00m"
+  },
+  {
+    "id": "730893",
+    "name": "Tyrick Mitchell",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "293194",
+    "name": "Borna Sosa",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "1047257",
+    "name": "Rio Cardines",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "493003",
+    "name": "Daniel Muñoz",
+    "position": "Daniel MuñozRight-Back",
+    "number": "2",
+    "age": "",
+    "nationality": [],
+    "market_value": "€27.00m"
+  },
+  {
+    "id": "493003",
+    "name": "Daniel Muñoz",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "1047261",
+    "name": "Caleb Kporha",
+    "position": "Caleb KporhaRight-Back",
+    "number": "58",
+    "age": "",
+    "nationality": [],
+    "market_value": "€1.00m"
+  },
+  {
+    "id": "1047261",
+    "name": "Caleb Kporha",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "85177",
+    "name": "Nathaniel Clyne",
+    "position": "Nathaniel ClyneRight-Back",
+    "number": "17",
+    "age": "",
+    "nationality": [],
+    "market_value": "€500k"
+  },
+  {
+    "id": "85177",
+    "name": "Nathaniel Clyne",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "744149",
+    "name": "Adam Wharton",
+    "position": "Adam WhartonDefensive Midfield",
+    "number": "20",
+    "age": "",
+    "nationality": [],
+    "market_value": "€60.00m"
+  },
+  {
+    "id": "744149",
+    "name": "Adam Wharton",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "543387",
+    "name": "Cheick Doucouré",
+    "position": "Cheick DoucouréDefensive Midfield",
+    "number": "28",
+    "age": "",
+    "nationality": [],
+    "market_value": "€13.00m"
+  },
+  {
+    "id": "543387",
+    "name": "Cheick Doucouré",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "262980",
+    "name": "Jefferson Lerma",
+    "position": "Jefferson LermaDefensive Midfield",
+    "number": "8",
+    "age": "",
+    "nationality": [],
+    "market_value": "€8.00m"
+  },
+  {
+    "id": "262980",
+    "name": "Jefferson Lerma",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "860078",
+    "name": "Kaden Rodney",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "207014",
+    "name": "Will Hughes",
+    "position": "Will HughesCentral Midfield",
+    "number": "19",
+    "age": "",
+    "nationality": [],
+    "market_value": "€6.00m"
+  },
+  {
+    "id": "207014",
+    "name": "Will Hughes",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "356141",
+    "name": "Daichi Kamada",
+    "position": "Daichi KamadaAttacking Midfield",
+    "number": "18",
+    "age": "",
+    "nationality": [],
+    "market_value": "€12.00m"
+  },
+  {
+    "id": "356141",
+    "name": "Daichi Kamada",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "747009",
+    "name": "Justin Devenny",
+    "position": "Justin DevennyAttacking Midfield",
+    "number": "55",
+    "age": "",
+    "nationality": [],
+    "market_value": "€12.00m"
+  },
+  {
+    "id": "747009",
+    "name": "Justin Devenny",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "410225",
+    "name": "Ismaïla Sarr",
+    "position": "Ismaïla SarrRight Winger",
+    "number": "7",
+    "age": "",
+    "nationality": [],
+    "market_value": "€35.00m"
+  },
+  {
+    "id": "410225",
+    "name": "Ismaïla Sarr",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "568157",
+    "name": "Yéremy Pino",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "470607",
+    "name": "Brennan Johnson",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "500689",
+    "name": "Evann Guessand",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "429983",
+    "name": "Jørgen Strand Larsen",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "420002",
+    "name": "Jean-Philippe Mateta",
+    "position": "Jean-Philippe MatetaCentre-Forward",
+    "number": "14",
+    "age": "",
+    "nationality": [],
+    "market_value": "€35.00m"
+  },
+  {
+    "id": "420002",
+    "name": "Jean-Philippe Mateta",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "1124005",
+    "name": "Christantus Uche",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "340324",
+    "name": "Eddie Nketiah",
+    "position": "Eddie NketiahCentre-Forward",
+    "number": "9",
+    "age": "",
+    "nationality": [],
+    "market_value": "€14.00m"
+  },
+  {
+    "id": "340324",
+    "name": "Eddie Nketiah",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "262749",
+    "name": "David Raya",
+    "position": "David RayaGoalkeeper",
+    "number": "1",
+    "age": "",
+    "nationality": [],
+    "market_value": "€35.00m"
+  },
+  {
+    "id": "262749",
+    "name": "David Raya",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "192279",
+    "name": "Kepa Arrizabalaga",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "848753",
+    "name": "Tommy Setford",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "495666",
+    "name": "William Saliba",
+    "position": "William SalibaCentre-Back",
+    "number": "2",
+    "age": "",
+    "nationality": [],
+    "market_value": "€90.00m"
+  },
+  {
+    "id": "495666",
+    "name": "William Saliba",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "435338",
+    "name": "Gabriel",
+    "position": "GabrielCentre-Back",
+    "number": "6",
+    "age": "",
+    "nationality": [],
+    "market_value": "€75.00m"
+  },
+  {
+    "id": "435338",
+    "name": "Gabriel",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "659813",
+    "name": "Piero Hincapié",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "646750",
+    "name": "Cristhian Mosquera",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "502821",
+    "name": "Riccardo Calafiori",
+    "position": "Riccardo CalafioriLeft-Back",
+    "number": "33",
+    "age": "",
+    "nationality": [],
+    "market_value": "€50.00m"
+  },
+  {
+    "id": "502821",
+    "name": "Riccardo Calafiori",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "890721",
+    "name": "Myles Lewis-Skelly",
+    "position": "Myles Lewis-SkellyLeft-Back",
+    "number": "49",
+    "age": "",
+    "nationality": [],
+    "market_value": "€35.00m"
+  },
+  {
+    "id": "890721",
+    "name": "Myles Lewis-Skelly",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "420243",
+    "name": "Jurriën Timber",
+    "position": "Jurriën TimberRight-Back",
+    "number": "12",
+    "age": "",
+    "nationality": [],
+    "market_value": "€70.00m"
+  },
+  {
+    "id": "420243",
+    "name": "Jurriën Timber",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "335721",
+    "name": "Ben White",
+    "position": "Ben WhiteRight-Back",
+    "number": "4",
+    "age": "",
+    "nationality": [],
+    "market_value": "€30.00m"
+  },
+  {
+    "id": "335721",
+    "name": "Ben White",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "423440",
+    "name": "Martín Zubimendi",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "148367",
+    "name": "Christian Nørgaard",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "357662",
+    "name": "Declan Rice",
+    "position": "Declan RiceCentral Midfield",
+    "number": "41",
+    "age": "",
+    "nationality": [],
+    "market_value": "€120.00m"
+  },
+  {
+    "id": "357662",
+    "name": "Declan Rice",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "338424",
+    "name": "Mikel Merino",
+    "position": "Mikel MerinoCentral Midfield",
+    "number": "23",
+    "age": "",
+    "nationality": [],
+    "market_value": "€30.00m"
+  },
+  {
+    "id": "338424",
+    "name": "Mikel Merino",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "316264",
+    "name": "Martin Ødegaard",
+    "position": "Martin ØdegaardAttacking Midfield",
+    "number": "8",
+    "age": "",
+    "nationality": [],
+    "market_value": "€65.00m"
+  },
+  {
+    "id": "316264",
+    "name": "Martin Ødegaard",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "479999",
+    "name": "Eberechi Eze",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "655488",
+    "name": "Gabriel Martinelli",
+    "position": "Gabriel MartinelliLeft Winger",
+    "number": "11",
+    "age": "",
+    "nationality": [],
+    "market_value": "€45.00m"
+  },
+  {
+    "id": "655488",
+    "name": "Gabriel Martinelli",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "144028",
+    "name": "Leandro Trossard",
+    "position": "Leandro TrossardLeft Winger",
+    "number": "19",
+    "age": "",
+    "nationality": [],
+    "market_value": "€20.00m"
+  },
+  {
+    "id": "144028",
+    "name": "Leandro Trossard",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "433177",
+    "name": "Bukayo Saka",
+    "position": "Bukayo SakaRight Winger",
+    "number": "7",
+    "age": "",
+    "nationality": [],
+    "market_value": "€120.00m"
+  },
+  {
+    "id": "433177",
+    "name": "Bukayo Saka",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "503987",
+    "name": "Noni Madueke",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "1187629",
+    "name": "Max Dowman",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "325443",
+    "name": "Viktor Gyökeres",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "309400",
+    "name": "Kai Havertz",
+    "position": "Kai HavertzCentre-Forward",
+    "number": "29",
+    "age": "",
+    "nationality": [],
+    "market_value": "€50.00m"
+  },
+  {
+    "id": "309400",
+    "name": "Kai Havertz",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "363205",
+    "name": "Gabriel Jesus",
+    "position": "Gabriel JesusCentre-Forward",
+    "number": "9",
+    "age": "",
+    "nationality": [],
+    "market_value": "€20.00m"
+  },
+  {
+    "id": "363205",
+    "name": "Gabriel Jesus",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  }
+]

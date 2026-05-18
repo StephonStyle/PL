@@ -1,0 +1,407 @@
+[
+  {
+    "id": "565093",
+    "name": "Bart Verbruggen",
+    "position": "Bart VerbruggenGoalkeeper",
+    "number": "1",
+    "age": "",
+    "nationality": [],
+    "market_value": "€40.00m"
+  },
+  {
+    "id": "565093",
+    "name": "Bart Verbruggen",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "73564",
+    "name": "Jason Steele",
+    "position": "Jason SteeleGoalkeeper",
+    "number": "23",
+    "age": "",
+    "nationality": [],
+    "market_value": "€750k"
+  },
+  {
+    "id": "73564",
+    "name": "Jason Steele",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "406556",
+    "name": "Tom McGill",
+    "position": "Tom McGillGoalkeeper",
+    "number": "38",
+    "age": "",
+    "nationality": [],
+    "market_value": "€500k"
+  },
+  {
+    "id": "406556",
+    "name": "Tom McGill",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "576314",
+    "name": "Jan Paul van Hecke",
+    "position": "Jan Paul van HeckeCentre-Back",
+    "number": "6",
+    "age": "",
+    "nationality": [],
+    "market_value": "€35.00m"
+  },
+  {
+    "id": "576314",
+    "name": "Jan Paul van Hecke",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "318508",
+    "name": "Olivier Boscagli",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "380350",
+    "name": "Igor Julio",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "212847",
+    "name": "Adam Webster",
+    "position": "Adam WebsterCentre-Back",
+    "number": "4",
+    "age": "",
+    "nationality": [],
+    "market_value": "€5.00m"
+  },
+  {
+    "id": "212847",
+    "name": "Adam Webster",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "148153",
+    "name": "Lewis Dunk",
+    "position": "Lewis DunkCentre-Back",
+    "number": "5",
+    "age": "",
+    "nationality": [],
+    "market_value": "€4.00m"
+  },
+  {
+    "id": "148153",
+    "name": "Lewis Dunk",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "369316",
+    "name": "Ferdi Kadıoğlu",
+    "position": "Ferdi KadıoğluLeft-Back",
+    "number": "24",
+    "age": "",
+    "nationality": [],
+    "market_value": "€30.00m"
+  },
+  {
+    "id": "369316",
+    "name": "Ferdi Kadıoğlu",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "429915",
+    "name": "Maxim De Cuyper",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "415381",
+    "name": "Mats Wieffer",
+    "position": "Mats WiefferRight-Back",
+    "number": "27",
+    "age": "",
+    "nationality": [],
+    "market_value": "€25.00m"
+  },
+  {
+    "id": "415381",
+    "name": "Mats Wieffer",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "111195",
+    "name": "Joël Veltman",
+    "position": "Joël VeltmanRight-Back",
+    "number": "34",
+    "age": "",
+    "nationality": [],
+    "market_value": "€2.50m"
+  },
+  {
+    "id": "111195",
+    "name": "Joël Veltman",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "973085",
+    "name": "Carlos Baleba",
+    "position": "Carlos BalebaDefensive Midfield",
+    "number": "17",
+    "age": "",
+    "nationality": [],
+    "market_value": "€55.00m"
+  },
+  {
+    "id": "973085",
+    "name": "Carlos Baleba",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "867688",
+    "name": "Jack Hinshelwood",
+    "position": "Jack HinshelwoodDefensive Midfield",
+    "number": "13",
+    "age": "",
+    "nationality": [],
+    "market_value": "€22.00m"
+  },
+  {
+    "id": "867688",
+    "name": "Jack Hinshelwood",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "667287",
+    "name": "Yasin Ayari",
+    "position": "Yasin AyariCentral Midfield",
+    "number": "26",
+    "age": "",
+    "nationality": [],
+    "market_value": "€30.00m"
+  },
+  {
+    "id": "667287",
+    "name": "Yasin Ayari",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "996897",
+    "name": "Diego Gómez",
+    "position": "Diego GómezCentral Midfield",
+    "number": "25",
+    "age": "",
+    "nationality": [],
+    "market_value": "€25.00m"
+  },
+  {
+    "id": "996897",
+    "name": "Diego Gómez",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "406634",
+    "name": "Matt O'Riley",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "82873",
+    "name": "Pascal Groß",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "3333",
+    "name": "James Milner",
+    "position": "James MilnerCentral Midfield",
+    "number": "20",
+    "age": "",
+    "nationality": [],
+    "market_value": "€750k"
+  },
+  {
+    "id": "3333",
+    "name": "James Milner",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "504849",
+    "name": "Kaoru Mitoma",
+    "position": "Kaoru MitomaLeft Winger",
+    "number": "22",
+    "age": "",
+    "nationality": [],
+    "market_value": "€25.00m"
+  },
+  {
+    "id": "504849",
+    "name": "Kaoru Mitoma",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "1012534",
+    "name": "Yankuba Minteh",
+    "position": "Yankuba MintehRight Winger",
+    "number": "11",
+    "age": "",
+    "nationality": [],
+    "market_value": "€40.00m"
+  },
+  {
+    "id": "1012534",
+    "name": "Yankuba Minteh",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "209212",
+    "name": "Solly March",
+    "position": "Solly MarchRight Winger",
+    "number": "7",
+    "age": "",
+    "nationality": [],
+    "market_value": "€2.00m"
+  },
+  {
+    "id": "209212",
+    "name": "Solly March",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "538977",
+    "name": "Georginio Rutter",
+    "position": "Georginio RutterCentre-Forward",
+    "number": "10",
+    "age": "",
+    "nationality": [],
+    "market_value": "€30.00m"
+  },
+  {
+    "id": "538977",
+    "name": "Georginio Rutter",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "1060087",
+    "name": "Charalampos Kostoulas",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "950091",
+    "name": "Stefanos Tzimas",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "67063",
+    "name": "Danny Welbeck",
+    "position": "Danny WelbeckCentre-Forward",
+    "number": "18",
+    "age": "",
+    "nationality": [],
+    "market_value": "€4.00m"
+  },
+  {
+    "id": "67063",
+    "name": "Danny Welbeck",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  }
+]

@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+<title>Premier League · Database</title>
+<style>
+:root {
+  --bg: #0b0e17; --card: #131826; --card2: #1a2035;
+  --primary: #00e676; --primary-dim: rgba(0,230,118,0.12);
+  --gold: #ffd740; --gold-dim: rgba(255,215,64,0.12);
+  --blue: #448aff; --blue-dim: rgba(68,138,255,0.12);
+  --red: #ff5252; --text: #eceff4; --text2: #7a82a0;
+  --border: rgba(255,255,255,0.06);
+  --radius: 14px;
+  --shadow: 0 4px 24px rgba(0,0,0,0.5);
+  --font: -apple-system,"PingFang SC","Microsoft YaHei","Noto Sans SC",sans-serif;
+  --font-en: "Inter",-apple-system,sans-serif;
+}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{
+  font-family:var(--font);background:var(--bg);color:var(--text);
+  min-height:100vh;padding-bottom:76px;
+  -webkit-font-smoothing:antialiased;
+}
+/* Header */
+.header{
+  position:sticky;top:0;z-index:100;
+  background:linear-gradient(135deg,#0b0e17 0%,#0f1525 100%);
+  padding:12px 16px;border-bottom:1px solid var(--border);
+  display:flex;align-items:center;gap:8px;
+}
+.header h1{
+  font-size:20px;font-weight:800;
+  background:linear-gradient(135deg,var(--gold),var(--primary));
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+  flex-shrink:0;
+}
+.header h1 span{font-size:11px;background:var(--gold-dim);color:var(--gold);padding:2px 6px;border-radius:4px;-webkit-text-fill-color:var(--gold);margin-left:6px;}
+.search-bar{
+  flex:1;margin-left:8px;
+  background:var(--card2);border:1px solid var(--border);border-radius:10px;
+  padding:6px 12px;color:var(--text);font-size:13px;outline:none;
+  font-family:var(--font);
+}
+.search-bar:focus{border-color:var(--primary-dim);}
+.search-bar::placeholder{color:var(--text2);}
+/* Back bar */
+.back-bar{
+  display:none;padding:6px 16px;background:var(--card);
+  border-bottom:1px solid var(--border);align-items:center;gap:8px;
+}
+.back-bar.show{display:flex;}
+.back-btn{
+  background:none;border:none;color:var(--text2);font-size:16px;cursor:pointer;padding:4px;
+}
+.back-bar .title{font-size:13px;font-weight:600;flex:1;}
+/* Tabs */
+.tabs{
+  position:fixed;bottom:0;left:0;right:0;z-index:100;
+  background:linear-gradient(0deg,#0b0e17,rgba(11,14,23,0.98));
+  border-top:1px solid var(--border);
+  display:flex;padding:4px 0 env(safe-area-inset-bottom);
+}
+.tab{flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;padding:6px 0 4px;cursor:pointer;color:var(--text2);font-size:10px;transition:color .2s;border:none;background:none;}
+.tab.active{color:var(--primary);}
+.tab .icon{font-size:20px;line-height:1.2;}
+/* Content */
+.content{display:none;padding:12px 14px;}
+.content.active{display:block;}
+/* Loading */
+.loading{text-align:center;padding:60px 20px;color:var(--text2);}
+.loading .spin{display:inline-block;width:32px;height:32px;border:3px solid var(--card2);border-top-color:var(--primary);border-radius:50%;animation:spin .8s linear infinite;margin-bottom:12px;}
+@keyframes spin{to{transform:rotate(360deg)}}
+/* Cards */
+.card{
+  background:var(--card);border-radius:var(--radius);padding:14px 16px;
+  margin-bottom:10px;border:1px solid var(--border);
+  cursor:pointer;transition:all .2s;
+}
+.card:active{background:var(--card2);}
+.team-row{
+  display:flex;align-items:center;gap:12px;
+}
+.team-badge{
+  width:40px;height:40px;border-radius:10px;
+  display:flex;align-items:center;justify-content:center;
+  font-size:14px;font-weight:800;flex-shrink:0;
+}
+.team-info{flex:1;min-width:0;}
+.team-name{font-size:15px;font-weight:700;}
+.team-meta{font-size:11px;color:var(--text2);margin-top:2px;}
+.team-value{font-size:14px;font-weight:700;color:var(--gold);white-space:nowrap;}
+/* Player row */
+.player-row{
+  display:flex;align-items:center;gap:10px;
+}
+.player-num{
+  width:28px;text-align:center;font-size:12px;font-weight:700;color:var(--text2);
+  flex-shrink:0;
+}
+.player-avatar{
+  width:36px;height:36px;border-radius:50%;
+  display:flex;align-items:center;justify-content:center;
+  font-size:13px;font-weight:700;flex-shrink:0;
+}
+.player-info{flex:1;min-width:0;}
+.player-name{font-size:14px;font-weight:600;}
+.player-name .cn{font-size:11px;color:var(--text2);font-weight:400;margin-left:4px;}
+.player-meta{font-size:11px;color:var(--text2);margin-top:1px;}
+.player-value{font-size:13px;font-weight:700;color:var(--gold);white-space:nowrap;}
+.value-up{color:var(--primary);}
+.value-down{color:var(--red);}
+/* Stats box */
+.stats-grid{
+  display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-bottom:14px;
+}
+.stat-box{
+  background:var(--card);border-radius:12px;padding:12px;text-align:center;
+  border:1px solid var(--border);
+}
+.stat-box .num{font-size:22px;font-weight:800;}
+.stat-box .label{font-size:10px;color:var(--text2);margin-top:2px;}
+.stat-box .num.gold{color:var(--gold);}
+/* Search results */
+.search-result{animation:fadeIn .2s ease;}
+@keyframes fadeIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+/* Player detail */
+.detail-header{text-align:center;padding:20px 0 16px;}
+.detail-header .big-avatar{
+  width:72px;height:72px;border-radius:50%;margin:0 auto 10px;
+  display:flex;align-items:center;justify-content:center;
+  font-size:24px;font-weight:800;
+}
+.detail-header .name{font-size:20px;font-weight:800;}
+.detail-header .name .cn{display:block;font-size:13px;color:var(--text2);font-weight:400;margin-top:2px;}
+.detail-header .team-label{font-size:12px;color:var(--primary);margin-top:4px;}
+.info-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:12px 0;}
+.info-item{background:var(--card2);border-radius:10px;padding:10px;}
+.info-item .label{font-size:10px;color:var(--text2);text-transform:uppercase;letter-spacing:.5px;}
+.info-item .value{font-size:14px;font-weight:600;margin-top:2px;word-break:break-all;}
+.transfer-list{margin-top:12px;}
+.transfer-row{display:flex;align-items:center;gap:8px;padding:8px 0;border-bottom:1px solid var(--border);font-size:12px;}
+.transfer-row .tf-date{color:var(--text2);width:70px;flex-shrink:0;}
+.transfer-row .tf-club{flex:1;min-width:0;}
+.transfer-row .tf-fee{text-align:right;font-weight:600;color:var(--gold);white-space:nowrap;}
+/* Team detail */
+.position-group{margin-bottom:16px;}
+.position-group .pos-title{font-size:12px;font-weight:700;color:var(--text2);text-transform:uppercase;letter-spacing:1px;margin-bottom:6px;padding-left:4px;}
+/* Filter chips */
+.filter-row{display:flex;gap:6px;margin-bottom:12px;flex-wrap:wrap;}
+.chip{
+  padding:4px 12px;border-radius:16px;font-size:11px;font-weight:600;
+  background:var(--card2);border:1px solid var(--border);color:var(--text2);
+  cursor:pointer;transition:all .2s;
+}
+.chip.active{background:var(--primary-dim);border-color:var(--primary);color:var(--primary);}
+/* Toast */
+.toast{
+  position:fixed;bottom:90px;left:50%;transform:translateX(-50%);
+  background:var(--card2);color:var(--text);padding:10px 20px;
+  border-radius:10px;font-size:13px;z-index:300;
+  border:1px solid var(--border);box-shadow:var(--shadow);
+  animation:toastIn .3s ease;
+}
+@keyframes toastIn{from{opacity:0;transform:translateX(-50%) translateY(20px)}to{opacity:1;transform:translateX(-50%) translateY(0)}}
+/* Value display */
+.value-tag{
+  display:inline-block;padding:2px 8px;border-radius:6px;
+  font-size:11px;font-weight:700;
+}
+.value-tag.gold{background:var(--gold-dim);color:var(--gold);}
+.value-tag.green{background:var(--primary-dim);color:var(--primary);}
+/* Empty state */
+.empty-state{text-align:center;padding:40px 20px;color:var(--text2);}
+.empty-state .icon{font-size:40px;margin-bottom:10px;opacity:.5;}
+/* Scrollable */
+.scroll-x{overflow-x:auto;-webkit-overflow-scrolling:touch;}
+@media(min-width:600px){.content{max-width:640px;margin:0 auto;}}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Premier League<span>DB</span></h1>
+  <input class="search-bar" id="searchBar" placeholder="搜索球队或球员..." autocomplete="off">
+</div>
+<div class="back-bar" id="backBar">
+  <button class="back-btn" id="backBtn">←</button>
+  <span class="title" id="backTitle">返回</span>
+</div>
+
+<div id="tabOverview" class="content active"><div id="overviewContent"><div class="loading"><div class="spin"></div><p>加载中...</p></div></div></div>
+<div id="tabTeams" class="content"><div id="teamsContent"><div class="loading"><div class="spin"></div><p>加载中...</p></div></div></div>
+<div id="tabPlayers" class="content"><div id="playersContent"><div class="loading"><div class="spin"></div><p>加载中...</p></div></div></div>
+
+<div class="tabs">
+  <button class="tab active" data-tab="Overview"><span class="icon">🏆</span><span>总览</span></button>
+  <button class="tab" data-tab="Teams"><span class="icon">⚽</span><span>球队</span></button>
+  <button class="tab" data-tab="Players"><span class="icon">👤</span><span>球员</span></button>
+</div>
+
+<script>
+// ======================== STATE ========================
+const TEAM_COLORS = {
+  'Arsenal': ['#ef0107','#db0007'], 'Aston Villa': ['#670e36','#95bfe5'],
+  'Bournemouth': ['#b50e2c','#000'], 'Brentford': ['#d40000','#fff'],
+  'Brighton': ['#0057b8','#ffcd00'], 'Chelsea': ['#034694','#fff'],
+  'Crystal Palace': ['#1b458f','#c4122e'], 'Everton': ['#003399','#fff'],
+  'Fulham': ['#000','#fff'], 'Ipswich': ['#0033a0','#fff'],
+  'Leicester': ['#003090','#fdbb30'], 'Liverpool': ['#c8102e','#fff'],
+  'Man City': ['#6cabdd','#fff'], 'Man United': ['#da291c','#fbe122'],
+  'Newcastle': ['#241f20','#fff'], "Nott'm Forest": ['#d40000','#fff'],
+  'Southampton': ['#d71920','#fff'], 'Spurs': ['#132257','#fff'],
+  'West Ham': ['#7a263a','#1bb1e7'], 'Wolves': ['#fdb913','#231f20'],
+};
+const TEAM_SHORT = {
+  'Arsenal':'ARS','Aston Villa':'AVL','Bournemouth':'BOU','Brentford':'BRE',
+  'Brighton':'BHA','Chelsea':'CHE','Crystal Palace':'CRY','Everton':'EVE',
+  'Fulham':'FUL','Ipswich':'IPS','Leicester':'LEI','Liverpool':'LIV',
+  'Man City':'MCI','Man United':'MUN','Newcastle':'NEW',"Nott'm Forest":'NFO',
+  'Southampton':'SOU','Spurs':'TOT','West Ham':'WHU','Wolves':'WOL',
+};
+const POS_ORDER = ['Goalkeeper','Defender','Midfield','Forward'];
+const POS_MAP = {
+  'Goalkeeper':['Goalkeeper'],
+  'Defender':['Centre-Back','Left-Back','Right-Back','Defender'],
+  'Midfield':['Defensive Midfield','Central Midfield','Left Midfield','Right Midfield','Attacking Midfield','Midfield'],
+  'Forward':['Left Winger','Right Winger','Centre-Forward','Forward'],
+};
+
+let teams = [], players = [], summary = null;
+let currentView = 'overview';
+let viewStack = []; // For back navigation
+
+// ======================== DATA LOADING ========================
+async function loadData(){
+  try {
+    let [t, p, s] = await Promise.all([
+      fetch('data/teams.json').then(r=>r.json()).catch(()=>[]),
+      fetch('data/players_details.json').then(r=>r.json()).catch(()=>[]),
+      fetch('data/summary.json').then(r=>r.json()).catch(()=>null),
+    ]);
+    teams = t; players = p; summary = s;
+
+    // Build player lookup by team
+    if (players.length === 0 && teams.length > 0) {
+      // Build from team data
+      for (const team of teams) {
+        if (team.players) {
+          for (const p of team.players) {
+            p.team_id = team.id;
+            p.team_name = team.name;
+            players.push(p);
+          }
+        }
+      }
+    }
+
+    renderAll();
+    document.getElementById('searchBar').addEventListener('input', function(){
+      renderCurrentView();
+    });
+
+    if (teams.length > 0) {
+      showToast('✅ 数据加载完成 · ' + teams.length + '队 ' + players.length + '名球员');
+    }
+  } catch(e) {
+    document.querySelectorAll('.content').forEach(el => {
+      el.innerHTML = '<div class="empty-state"><div class="icon">⚠️</div><p>数据加载失败</p><p style="font-size:11px;color:var(--text2);margin-top:6px;">'+e.message+'</p></div>';
+    });
+  }
+}
+
+// ======================== UTILITY ========================
+function tc(name){
+  const c = TEAM_COLORS[name] || ['#333','#fff'];
+  return 'background:'+c[0]+';color:'+c[1];
+}
+function ts(name){ return TEAM_SHORT[name] || name.slice(0,3).toUpperCase(); }
+function formatMV(mv){
+  if (!mv || mv === '-') return '—';
+  let n = parseFloat(mv.replace(/[€mMkKbB,\s]/g,''));
+  if (mv.includes('k')) return (n/1000).toFixed(1)+'m';
+  return mv;
+}
+function getPositionGroup(pos){
+  if (!pos) return 'Midfield';
+  for (const [group, values] of Object.entries(POS_MAP)) {
+    for (const v of values) {
+      if (pos.includes(v)) return group;
+    }
+  }
+  return 'Midfield';
+}
+function playerAge(birthInfo){
+  if (!birthInfo) return '';
+  // Try to extract year
+  const m = birthInfo.match(/(\d{4})/);
+  if (m) {
+    const age = 2025 - parseInt(m[1]);
+    return age > 0 && age < 50 ? age + '岁' : '';
+  }
+  return '';
+}
+function teamTotalValue(t){
+  if (!t.players) return '';
+  let total = 0;
+  for (const p of t.players) {
+    const v = parseFloat((p.market_value||'').replace(/[€mMkK,\s]/g,''));
+    if (!isNaN(v)) total += v;
+  }
+  if (total > 1000) return '€'+(total/1000).toFixed(2)+'B';
+  return '€'+total.toFixed(0)+'m';
+}
+
+// ======================== ROUTING ========================
+function showView(view, data){
+  viewStack.push({view: currentView, data: null});
+  currentView = view;
+  document.getElementById('backBar').classList.add('show');
+  const titles = {team:'球队详情',player:'球员详情'};
+  document.getElementById('backTitle').textContent = titles[view] || '';
+  // Show the right content area
+  document.querySelectorAll('.content').forEach(el => el.classList.remove('active'));
+  document.getElementById('tabOverview').classList.add('active');
+  renderDetail(view, data);
+}
+
+function goBack(){
+  if (viewStack.length === 0) return;
+  const prev = viewStack.pop();
+  currentView = prev.view;
+  document.getElementById('backBar').classList.toggle('show', viewStack.length > 0);
+  document.querySelectorAll('.content').forEach(el => el.classList.remove('active'));
+  document.getElementById('tabOverview').classList.add('active');
+  renderAll();
+}
+
+// ======================== RENDER ========================
+function renderAll(){
+  renderOverview();
+  renderTeams();
+  renderPlayers();
+}
+function renderCurrentView(){
+  if (currentView === 'overview') renderOverview();
+  else if (currentView === 'teams') renderTeams();
+  else if (currentView === 'players') renderPlayers();
+}
+
+function renderOverview(){
+  const el = document.getElementById('overviewContent');
+  if (!teams.length) { el.innerHTML = '<div class="loading"><div class="spin"></div><p>加载中...</p></div>'; return; }
+
+  const sorted = [...teams].sort((a,b) => {
+    const va = parseFloat((b.players||[]).reduce((s,p) => s + (parseFloat((p.market_value||'').replace(/[€mM,\s]/g,''))||0), 0));
+    const vb = parseFloat((a.players||[]).reduce((s,p) => s + (parseFloat((p.market_value||'').replace(/[€mM,\s]/g,''))||0), 0));
+    return va - vb;
+  });
+
+  el.innerHTML = `
+    <div class="stats-grid">
+      <div class="stat-box"><div class="num gold">${teams.length}</div><div class="label">🏆 球队</div></div>
+      <div class="stat-box"><div class="num gold">${players.length}</div><div class="label">👤 球员</div></div>
+      <div class="stat-box"><div class="num gold">2024/25</div><div class="label">📅 赛季</div></div>
+    </div>
+    <div style="font-size:13px;font-weight:600;margin-bottom:8px;padding-left:4px;">📋 球队总身价排名</div>
+    ${sorted.map(t => {
+      const tmv = teamTotalValue(t);
+      const count = t.player_count || (t.players||[]).length;
+      const avgAge = count > 0 ? Math.round((t.players||[]).reduce((s,p) => s + (parseInt(p.age)||25), 0)/count) : '';
+      return `<div class="card" onclick="showTeam('${t.id}')">
+        <div class="team-row">
+          <div class="team-badge" style="${tc(t.name)}">${ts(t.name).charAt(0)}</div>
+          <div class="team-info">
+            <div class="team-name">${t.name}</div>
+            <div class="team-meta">${count}名球员${avgAge ? ' · 平均年龄 '+avgAge : ''}</div>
+          </div>
+          <div class="team-value">${tmv}</div>
+        </div>
+      </div>`;
+    }).join('')}`;
+}
+
+function renderTeams(){
+  const el = document.getElementById('teamsContent');
+  if (!teams.length) { el.innerHTML = '<div class="loading"><div class="spin"></div><p>加载中...</p></div>'; return; }
+  const q = (document.getElementById('searchBar').value||'').toLowerCase();
+  let filtered = teams;
+  if (q) filtered = teams.filter(t => t.name.toLowerCase().includes(q));
+
+  el.innerHTML = `<div style="font-size:13px;font-weight:600;margin-bottom:8px;padding-left:4px;">⚽ 全部球队</div>
+    ${filtered.map(t => {
+      const count = t.player_count || (t.players||[]).length;
+      return `<div class="card" onclick="showTeam('${t.id}')">
+        <div class="team-row">
+          <div class="team-badge" style="${tc(t.name)}">${ts(t.name).charAt(0)}</div>
+          <div class="team-info">
+            <div class="team-name">${t.name}</div>
+            <div class="team-meta">${count}名球员</div>
+          </div>
+          <div class="team-value">${teamTotalValue(t)}</div>
+        </div>
+      </div>`;
+    }).join('')}
+    ${filtered.length === 0 ? '<div class="empty-state"><div class="icon">🔍</div><p>未找到匹配球队</p></div>' : ''}`;
+}
+
+function renderPlayers(){
+  const el = document.getElementById('playersContent');
+  if (!players.length) { el.innerHTML = '<div class="loading"><div class="spin"></div><p>加载中...</p></div>'; return; }
+  const q = (document.getElementById('searchBar').value||'').toLowerCase();
+
+  let filtered = players;
+  if (q) {
+    filtered = players.filter(p =>
+      p.name.toLowerCase().includes(q) ||
+      (p.cn_name||'').includes(q) ||
+      (p.team_name||'').toLowerCase().includes(q) ||
+      (p.position||'').toLowerCase().includes(q)
+    );
+  }
+
+  // Sort by market value descending
+  filtered = [...filtered].sort((a,b) => {
+    const va = parseFloat((b.market_value||'').replace(/[€mMkK,\s]/g,''))||0;
+    const vb = parseFloat((a.market_value||'').replace(/[€mMkK,\s]/g,''))||0;
+    return va - vb;
+  });
+
+  el.innerHTML = `<div style="font-size:13px;font-weight:600;margin-bottom:8px;padding-left:4px;">👤 ${q ? '搜索结果' : '全部球员（按身价）'}</div>
+    ${filtered.slice(0, 200).map(p => {
+      const pos = p.position || '';
+      const age = playerAge(p.birth_date);
+      return `<div class="card" onclick="showPlayer('${p.id}')">
+        <div class="player-row">
+          <div class="player-avatar" style="background:var(--primary-dim);color:var(--primary);font-size:12px;">${(p.cn_name||p.name.charAt(0))}</div>
+          <div class="player-info">
+            <div class="player-name">${p.name}<span class="cn">${p.cn_name||''}</span></div>
+            <div class="player-meta">${p.team_name||''} ${pos?' · '+pos:''} ${age?' · '+age:''}</div>
+          </div>
+          <div class="player-value">${p.market_value||'—'}</div>
+        </div>
+      </div>`;
+    }).join('')}
+    ${filtered.length === 0 ? '<div class="empty-state"><div class="icon">🔍</div><p>未找到匹配球员</p></div>' : filtered.length > 200 ? '<div style="text-align:center;padding:12px;color:var(--text2);font-size:12px;">仅显示前200名，使用搜索缩小范围</div>' : ''}`;
+}
+
+// ======================== DETAIL VIEWS ========================
+function showTeam(tid){
+  const t = teams.find(x => x.id === tid);
+  if (!t) return;
+  showView('team', t);
+
+  const squad = t.players || [];
+  const byPos = {};
+  for (const p of squad) {
+    const g = getPositionGroup(p.position);
+    if (!byPos[g]) byPos[g] = [];
+    byPos[g].push(p);
+  }
+
+  const el = document.getElementById('overviewContent');
+  el.innerHTML = `
+    <div class="detail-header">
+      <div class="big-avatar" style="${tc(t.name)}">${ts(t.name).charAt(0)}</div>
+      <div class="name">${t.name}</div>
+      <div class="team-label">${squad.length}名球员 · 总身价 ${teamTotalValue(t)}</div>
+    </div>
+
+    <div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px;">
+      <div class="chip active" onclick="filterTeamPos(this,'${tid}','all')">全部</div>
+      ${POS_ORDER.map(g => `<div class="chip" onclick="filterTeamPos(this,'${tid}','${g}')">${g==='Goalkeeper'?'门将':g==='Defender'?'后卫':g==='Midfield'?'中场':'前锋'}</div>`).join('')}
+    </div>
+    <div id="teamSquad">
+    ${POS_ORDER.map(g => {
+      const ps = byPos[g] || [];
+      if (!ps.length) return '';
+      return `<div class="position-group">
+        <div class="pos-title">${g==='Goalkeeper'?'🧤 门将':g==='Defender'?'🛡️ 后卫':g==='Midfield'?'🎯 中场':'⚡ 前锋'} (${ps.length})</div>
+        ${ps.map(p => {
+          const age = playerAge(p.birth_date);
+          return `<div class="card" onclick="showPlayer('${p.id}')">
+            <div class="player-row">
+              <div class="player-num">${p.number||''}</div>
+              <div class="player-avatar" style="background:var(--blue-dim);color:var(--blue);font-size:12px;">${(p.cn_name||p.name.charAt(0))}</div>
+              <div class="player-info">
+                <div class="player-name">${p.name}<span class="cn">${p.cn_name||''}</span></div>
+                <div class="player-meta">${p.position||''}${age?' · '+age:''}</div>
+              </div>
+              <div class="player-value">${p.market_value||'—'}</div>
+            </div>
+          </div>`;
+        }).join('')}
+      </div>`;
+    }).join('')}
+    </div>`;
+}
+
+function filterTeamPos(btn, tid, pos){
+  btn.parentElement.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+  btn.classList.add('active');
+
+  const t = teams.find(x => x.id === tid);
+  if (!t) return;
+  let squad = t.players || [];
+  if (pos !== 'all') squad = squad.filter(p => getPositionGroup(p.position) === pos);
+
+  const el = document.getElementById('teamSquad');
+  el.innerHTML = squad.map(p => {
+    const age = playerAge(p.birth_date);
+    return `<div class="card" onclick="showPlayer('${p.id}')">
+      <div class="player-row">
+        <div class="player-num">${p.number||''}</div>
+        <div class="player-avatar" style="background:var(--blue-dim);color:var(--blue);font-size:12px;">${(p.cn_name||p.name.charAt(0))}</div>
+        <div class="player-info">
+          <div class="player-name">${p.name}<span class="cn">${p.cn_name||''}</span></div>
+          <div class="player-meta">${p.position||''}${age?' · '+age:''}</div>
+        </div>
+        <div class="player-value">${p.market_value||'—'}</div>
+      </div>
+    </div>`;
+  }).join('');
+  if (!squad.length) el.innerHTML = '<div class="empty-state"><div class="icon">🔍</div><p>该位置暂无球员</p></div>';
+}
+
+function showPlayer(pid){
+  const p = players.find(x => x.id === pid);
+  if (!p) return;
+  showView('player', p);
+
+  const tname = p.team_name || '';
+  const el = document.getElementById('overviewContent');
+
+  // Build info items
+  const infoItems = [
+    {label:'国籍', value: (p.nationality||[]).join(', ') || '—'},
+    {label:'出生日期', value: p.birth_date || '—'},
+    {label:'出生地', value: p.birth_place || '—'},
+    {label:'身高', value: p.height || '—'},
+    {label:'惯用脚', value: p.foot || '—'},
+    {label:'身价', value: p.market_value || '—'},
+    {label:'合同到期', value: p.contract_expiry || '—'},
+    {label:'经纪人', value: p.agent || '—'},
+  ];
+
+  el.innerHTML = `
+    <div class="detail-header">
+      <div class="big-avatar" style="${tname ? tc(tname) : 'background:var(--primary-dim);color:var(--primary)'}">${(p.cn_name||p.name).charAt(0)}</div>
+      <div class="name">${p.name}</div>
+      ${p.cn_name ? '<div class="name cn" style="font-size:14px;color:var(--text2);font-weight:400;">'+p.cn_name+'</div>' : ''}
+      <div class="team-label" onclick="showTeam('${p.team_id}')" style="cursor:pointer;">${tname ? '⚽ ' + tname : ''}${p.position ? ' · '+p.position : ''}</div>
+    </div>
+    <div class="info-grid">
+      ${infoItems.map(item => `
+        <div class="info-item">
+          <div class="label">${item.label}</div>
+          <div class="value">${item.value}</div>
+        </div>
+      `).join('')}
+    </div>
+    ${p.transfers && p.transfers.length ? `
+      <div style="font-size:13px;font-weight:600;margin:8px 0 4px;padding-left:4px;">🔄 转会历史</div>
+      <div class="transfer-list">${p.transfers.map(t => `
+        <div class="transfer-row">
+          <span class="tf-date">${t.date||''}</span>
+          <span class="tf-club">${t.from||'?'} → ${t.to||'?'}</span>
+          <span class="tf-fee">${t.fee||'—'}</span>
+        </div>
+      `).join('')}</div>
+    ` : ''}
+    <div style="height:20px;"></div>`;
+}
+
+// ======================== UI ========================
+function showToast(m){
+  const t = document.createElement('div');
+  t.className = 'toast';
+  t.textContent = m;
+  document.body.appendChild(t);
+  setTimeout(() => t.remove(), 2200);
+}
+
+// ======================== INIT ========================
+document.addEventListener('DOMContentLoaded', () => {
+  loadData();
+
+  // Tab switching
+  document.querySelectorAll('.tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      if (viewStack.length > 0) {
+        viewStack = [];
+        document.getElementById('backBar').classList.remove('show');
+      }
+      document.querySelectorAll('.tab').forEach(x => x.classList.remove('active'));
+      document.querySelectorAll('.content').forEach(x => x.classList.remove('active'));
+      tab.classList.add('active');
+      currentView = tab.dataset.tab.toLowerCase();
+      document.getElementById('tab'+tab.dataset.tab).classList.add('active');
+      renderCurrentView();
+    });
+  });
+
+  // Back button
+  document.getElementById('backBtn').addEventListener('click', goBack);
+
+  // Search
+  document.getElementById('searchBar').addEventListener('input', () => {
+    if (viewStack.length > 0) {
+      viewStack = [];
+      document.getElementById('backBar').classList.remove('show');
+      currentView = 'overview';
+      document.querySelectorAll('.tab').forEach(x => x.classList.remove('active'));
+      document.querySelectorAll('.content').forEach(x => x.classList.remove('active'));
+      document.querySelector('.tab[data-tab="Players"]').classList.add('active');
+      document.getElementById('tabPlayers').classList.add('active');
+    }
+    renderCurrentView();
+  });
+});
+</script>
+</body>
+</html>

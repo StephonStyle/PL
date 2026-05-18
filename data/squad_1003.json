@@ -1,0 +1,389 @@
+[
+  {
+    "id": "486144",
+    "name": "Jakub Stolarczyk",
+    "position": "Jakub StolarczykGoalkeeper",
+    "number": "1",
+    "age": "",
+    "nationality": [],
+    "market_value": "€1.80m"
+  },
+  {
+    "id": "486144",
+    "name": "Jakub Stolarczyk",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "551182",
+    "name": "Fran Vieites",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "33873",
+    "name": "Asmir Begovic",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "461833",
+    "name": "Caleb Okoli",
+    "position": "Caleb OkoliCentre-Back",
+    "number": "5",
+    "age": "",
+    "nationality": [],
+    "market_value": "€12.00m"
+  },
+  {
+    "id": "461833",
+    "name": "Caleb Okoli",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "298091",
+    "name": "Harry Souttar",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "99331",
+    "name": "Jannik Vestergaard",
+    "position": "Jannik VestergaardCentre-Back",
+    "number": "23",
+    "age": "",
+    "nationality": [],
+    "market_value": "€1.80m"
+  },
+  {
+    "id": "99331",
+    "name": "Jannik Vestergaard",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "714458",
+    "name": "Ben Nelson",
+    "position": "Ben NelsonCentre-Back",
+    "number": "4",
+    "age": "",
+    "nationality": [],
+    "market_value": "€1.20m"
+  },
+  {
+    "id": "714458",
+    "name": "Ben Nelson",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "183318",
+    "name": "Jamaal Lascelles",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "564529",
+    "name": "Victor Kristiansen",
+    "position": "Victor KristiansenLeft-Back",
+    "number": "16",
+    "age": "",
+    "nationality": [],
+    "market_value": "€12.00m"
+  },
+  {
+    "id": "564529",
+    "name": "Victor Kristiansen",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "505194",
+    "name": "Luke Thomas",
+    "position": "Luke ThomasLeft-Back",
+    "number": "33",
+    "age": "",
+    "nationality": [],
+    "market_value": "€6.00m"
+  },
+  {
+    "id": "505194",
+    "name": "Luke Thomas",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "215876",
+    "name": "Ricardo Pereira",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "1135364",
+    "name": "Olabade Aluko",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "406638",
+    "name": "Oliver Skipp",
+    "position": "Oliver SkippDefensive Midfield",
+    "number": "22",
+    "age": "",
+    "nationality": [],
+    "market_value": "€7.00m"
+  },
+  {
+    "id": "406638",
+    "name": "Oliver Skipp",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "249126",
+    "name": "Harry Winks",
+    "position": "Harry WinksDefensive Midfield",
+    "number": "8",
+    "age": "",
+    "nationality": [],
+    "market_value": "€5.00m"
+  },
+  {
+    "id": "249126",
+    "name": "Harry Winks",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "341501",
+    "name": "Hamza Choudhury",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "667517",
+    "name": "Jordan James",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "468198",
+    "name": "Joe Aribo",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "1078155",
+    "name": "Louis Page",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "936842",
+    "name": "Michael Golding",
+    "position": "Michael GoldingCentral Midfield",
+    "number": "34",
+    "age": "",
+    "nationality": [],
+    "market_value": "€1.50m"
+  },
+  {
+    "id": "936842",
+    "name": "Michael Golding",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "646658",
+    "name": "Aaron Ramsey",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "1047280",
+    "name": "Divine Mukasa",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "186186",
+    "name": "Bobby De Cordova-Reid",
+    "position": "Bobby De Cordova-ReidAttacking Midfield",
+    "number": "14",
+    "age": "",
+    "nationality": [],
+    "market_value": "€1.00m"
+  },
+  {
+    "id": "186186",
+    "name": "Bobby De Cordova-Reid",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "1245948",
+    "name": "Jeremy Monga",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "340328",
+    "name": "Stephy Mavididi",
+    "position": "Stephy MavididiLeft Winger",
+    "number": "10",
+    "age": "",
+    "nationality": [],
+    "market_value": "€8.00m"
+  },
+  {
+    "id": "340328",
+    "name": "Stephy Mavididi",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "864121",
+    "name": "Abdul Fatawu",
+    "position": "Abdul FatawuRight Winger",
+    "number": "7",
+    "age": "",
+    "nationality": [],
+    "market_value": "€24.00m"
+  },
+  {
+    "id": "864121",
+    "name": "Abdul Fatawu",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "670988",
+    "name": "Wanya Marçal",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "365172",
+    "name": "Patson Daka",
+    "position": "Patson DakaCentre-Forward",
+    "number": "20",
+    "age": "",
+    "nationality": [],
+    "market_value": "€5.00m"
+  },
+  {
+    "id": "365172",
+    "name": "Patson Daka",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "108354",
+    "name": "Jordan Ayew",
+    "position": "Jordan AyewCentre-Forward",
+    "number": "9",
+    "age": "",
+    "nationality": [],
+    "market_value": "€1.80m"
+  },
+  {
+    "id": "108354",
+    "name": "Jordan Ayew",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "1020267",
+    "name": "Dujuan Richards",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  }
+]

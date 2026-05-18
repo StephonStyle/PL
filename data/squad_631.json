@@ -1,0 +1,452 @@
+[
+  {
+    "id": "403151",
+    "name": "Robert Sánchez",
+    "position": "Robert SánchezGoalkeeper",
+    "number": "1",
+    "age": "",
+    "nationality": [],
+    "market_value": "€22.00m"
+  },
+  {
+    "id": "403151",
+    "name": "Robert Sánchez",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "585323",
+    "name": "Filip Jørgensen",
+    "position": "Filip JørgensenGoalkeeper",
+    "number": "12",
+    "age": "",
+    "nationality": [],
+    "market_value": "€15.00m"
+  },
+  {
+    "id": "585323",
+    "name": "Filip Jørgensen",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "656316",
+    "name": "Gabriel Slonina",
+    "position": "Gabriel SloninaGoalkeeper",
+    "number": "44",
+    "age": "",
+    "nationality": [],
+    "market_value": "€3.50m"
+  },
+  {
+    "id": "656316",
+    "name": "Gabriel Slonina",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "731466",
+    "name": "Teddy Sharman-Lowe",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "503765",
+    "name": "James Hillson",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "614258",
+    "name": "Levi Colwill",
+    "position": "Levi ColwillCentre-Back",
+    "number": "6",
+    "age": "",
+    "nationality": [],
+    "market_value": "€50.00m"
+  },
+  {
+    "id": "614258",
+    "name": "Levi Colwill",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "346314",
+    "name": "Trevoh Chalobah",
+    "position": "Trevoh ChalobahCentre-Back",
+    "number": "23",
+    "age": "",
+    "nationality": [],
+    "market_value": "€40.00m"
+  },
+  {
+    "id": "346314",
+    "name": "Trevoh Chalobah",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "475411",
+    "name": "Wesley Fofana",
+    "position": "Wesley FofanaCentre-Back",
+    "number": "29",
+    "age": "",
+    "nationality": [],
+    "market_value": "€28.00m"
+  },
+  {
+    "id": "475411",
+    "name": "Wesley Fofana",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "910905",
+    "name": "Mamadou Sarr",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "258878",
+    "name": "Tosin Adarabioyo",
+    "position": "Tosin AdarabioyoCentre-Back",
+    "number": "4",
+    "age": "",
+    "nationality": [],
+    "market_value": "€18.00m"
+  },
+  {
+    "id": "258878",
+    "name": "Tosin Adarabioyo",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "463603",
+    "name": "Benoît Badiashile",
+    "position": "Benoît BadiashileCentre-Back",
+    "number": "5",
+    "age": "",
+    "nationality": [],
+    "market_value": "€18.00m"
+  },
+  {
+    "id": "463603",
+    "name": "Benoît Badiashile",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "284857",
+    "name": "Marc Cucurella",
+    "position": "Marc CucurellaLeft-Back",
+    "number": "3",
+    "age": "",
+    "nationality": [],
+    "market_value": "€50.00m"
+  },
+  {
+    "id": "284857",
+    "name": "Marc Cucurella",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "904802",
+    "name": "Jorrel Hato",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "746833",
+    "name": "Caleb Wiley",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "472423",
+    "name": "Reece James",
+    "position": "Reece JamesRight-Back",
+    "number": "24",
+    "age": "",
+    "nationality": [],
+    "market_value": "€60.00m"
+  },
+  {
+    "id": "472423",
+    "name": "Reece James",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "620322",
+    "name": "Malo Gusto",
+    "position": "Malo GustoRight-Back",
+    "number": "27",
+    "age": "",
+    "nationality": [],
+    "market_value": "€35.00m"
+  },
+  {
+    "id": "620322",
+    "name": "Malo Gusto",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "1004708",
+    "name": "Josh Acheampong",
+    "position": "Josh AcheampongRight-Back",
+    "number": "34",
+    "age": "",
+    "nationality": [],
+    "market_value": "€25.00m"
+  },
+  {
+    "id": "1004708",
+    "name": "Josh Acheampong",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "687626",
+    "name": "Moisés Caicedo",
+    "position": "Moisés CaicedoDefensive Midfield",
+    "number": "25",
+    "age": "",
+    "nationality": [],
+    "market_value": "€110.00m"
+  },
+  {
+    "id": "687626",
+    "name": "Moisés Caicedo",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "628451",
+    "name": "Roméo Lavia",
+    "position": "Roméo LaviaDefensive Midfield",
+    "number": "45",
+    "age": "",
+    "nationality": [],
+    "market_value": "€25.00m"
+  },
+  {
+    "id": "628451",
+    "name": "Roméo Lavia",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "670717",
+    "name": "Dário Essugo",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "648195",
+    "name": "Enzo Fernández",
+    "position": "Enzo FernándezCentral Midfield",
+    "number": "8",
+    "age": "",
+    "nationality": [],
+    "market_value": "€90.00m"
+  },
+  {
+    "id": "648195",
+    "name": "Enzo Fernández",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "743600",
+    "name": "Andrey Santos",
+    "position": "Andrey SantosCentral Midfield",
+    "number": "17",
+    "age": "",
+    "nationality": [],
+    "market_value": "€45.00m"
+  },
+  {
+    "id": "743600",
+    "name": "Andrey Santos",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "568177",
+    "name": "Cole Palmer",
+    "position": "Cole PalmerAttacking Midfield",
+    "number": "10",
+    "age": "",
+    "nationality": [],
+    "market_value": "€110.00m"
+  },
+  {
+    "id": "568177",
+    "name": "Cole Palmer",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "811779",
+    "name": "Alejandro Garnacho",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "670882",
+    "name": "Jamie Gittens",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "537860",
+    "name": "Mykhaylo Mudryk",
+    "position": "Mykhaylo MudrykLeft Winger",
+    "number": "-",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "537860",
+    "name": "Mykhaylo Mudryk",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "1056993",
+    "name": "Estêvão",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "487465",
+    "name": "Pedro Neto",
+    "position": "Pedro NetoRight Winger",
+    "number": "7",
+    "age": "",
+    "nationality": [],
+    "market_value": "€60.00m"
+  },
+  {
+    "id": "487465",
+    "name": "Pedro Neto",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "626724",
+    "name": "João Pedro",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "610849",
+    "name": "Liam Delap",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "938158",
+    "name": "Marc Guiu",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  }
+]

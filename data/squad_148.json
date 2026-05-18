@@ -1,0 +1,434 @@
+[
+  {
+    "id": "286047",
+    "name": "Guglielmo Vicario",
+    "position": "Guglielmo VicarioGoalkeeper",
+    "number": "1",
+    "age": "",
+    "nationality": [],
+    "market_value": "€23.00m"
+  },
+  {
+    "id": "286047",
+    "name": "Guglielmo Vicario",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "725912",
+    "name": "Antonín Kinský",
+    "position": "Antonín KinskýGoalkeeper",
+    "number": "31",
+    "age": "",
+    "nationality": [],
+    "market_value": "€13.00m"
+  },
+  {
+    "id": "725912",
+    "name": "Antonín Kinský",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "428016",
+    "name": "Brandon Austin",
+    "position": "Brandon AustinGoalkeeper",
+    "number": "40",
+    "age": "",
+    "nationality": [],
+    "market_value": "€500k"
+  },
+  {
+    "id": "428016",
+    "name": "Brandon Austin",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "557459",
+    "name": "Micky van de Ven",
+    "position": "Micky van de VenCentre-Back",
+    "number": "37",
+    "age": "",
+    "nationality": [],
+    "market_value": "€65.00m"
+  },
+  {
+    "id": "557459",
+    "name": "Micky van de Ven",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "355915",
+    "name": "Cristian Romero",
+    "position": "Cristian RomeroCentre-Back",
+    "number": "17",
+    "age": "",
+    "nationality": [],
+    "market_value": "€50.00m"
+  },
+  {
+    "id": "355915",
+    "name": "Cristian Romero",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "568559",
+    "name": "Radu Drăgușin",
+    "position": "Radu DrăgușinCentre-Back",
+    "number": "3",
+    "age": "",
+    "nationality": [],
+    "market_value": "€20.00m"
+  },
+  {
+    "id": "568559",
+    "name": "Radu Drăgușin",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "263236",
+    "name": "Kevin Danso",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "192765",
+    "name": "Ben Davies",
+    "position": "Ben DaviesCentre-Back",
+    "number": "33",
+    "age": "",
+    "nationality": [],
+    "market_value": "€5.00m"
+  },
+  {
+    "id": "192765",
+    "name": "Ben Davies",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "556385",
+    "name": "Destiny Udogie",
+    "position": "Destiny UdogieLeft-Back",
+    "number": "13",
+    "age": "",
+    "nationality": [],
+    "market_value": "€35.00m"
+  },
+  {
+    "id": "556385",
+    "name": "Destiny Udogie",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "483348",
+    "name": "Djed Spence",
+    "position": "Djed SpenceLeft-Back",
+    "number": "24",
+    "age": "",
+    "nationality": [],
+    "market_value": "€30.00m"
+  },
+  {
+    "id": "483348",
+    "name": "Djed Spence",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "1086258",
+    "name": "Souza",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "553875",
+    "name": "Pedro Porro",
+    "position": "Pedro PorroRight-Back",
+    "number": "23",
+    "age": "",
+    "nationality": [],
+    "market_value": "€40.00m"
+  },
+  {
+    "id": "553875",
+    "name": "Pedro Porro",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "354362",
+    "name": "Rodrigo Bentancur",
+    "position": "Rodrigo BentancurDefensive Midfield",
+    "number": "30",
+    "age": "",
+    "nationality": [],
+    "market_value": "€22.00m"
+  },
+  {
+    "id": "354362",
+    "name": "Rodrigo Bentancur",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "257455",
+    "name": "João Palhinha",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "410425",
+    "name": "Yves Bissouma",
+    "position": "Yves BissoumaDefensive Midfield",
+    "number": "8",
+    "age": "",
+    "nationality": [],
+    "market_value": "€12.00m"
+  },
+  {
+    "id": "410425",
+    "name": "Yves Bissouma",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "866246",
+    "name": "Lucas Bergvall",
+    "position": "Lucas BergvallCentral Midfield",
+    "number": "15",
+    "age": "",
+    "nationality": [],
+    "market_value": "€40.00m"
+  },
+  {
+    "id": "866246",
+    "name": "Lucas Bergvall",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "922693",
+    "name": "Archie Gray",
+    "position": "Archie GrayCentral Midfield",
+    "number": "14",
+    "age": "",
+    "nationality": [],
+    "market_value": "€35.00m"
+  },
+  {
+    "id": "922693",
+    "name": "Archie Gray",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "488362",
+    "name": "Conor Gallagher",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "568693",
+    "name": "Pape Matar Sarr",
+    "position": "Pape Matar SarrCentral Midfield",
+    "number": "29",
+    "age": "",
+    "nationality": [],
+    "market_value": "€32.00m"
+  },
+  {
+    "id": "568693",
+    "name": "Pape Matar Sarr",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "566931",
+    "name": "Xavi Simons",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "431755",
+    "name": "Dejan Kulusevski",
+    "position": "Dejan KulusevskiAttacking Midfield",
+    "number": "21",
+    "age": "",
+    "nationality": [],
+    "market_value": "€35.00m"
+  },
+  {
+    "id": "431755",
+    "name": "Dejan Kulusevski",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "294057",
+    "name": "James Maddison",
+    "position": "James MaddisonAttacking Midfield",
+    "number": "10",
+    "age": "",
+    "nationality": [],
+    "market_value": "€25.00m"
+  },
+  {
+    "id": "294057",
+    "name": "James Maddison",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "743498",
+    "name": "Wilson Odobert",
+    "position": "Wilson OdobertLeft Winger",
+    "number": "28",
+    "age": "",
+    "nationality": [],
+    "market_value": "€20.00m"
+  },
+  {
+    "id": "743498",
+    "name": "Wilson Odobert",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "543499",
+    "name": "Mohammed Kudus",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "258889",
+    "name": "Dominic Solanke",
+    "position": "Dominic SolankeCentre-Forward",
+    "number": "19",
+    "age": "",
+    "nationality": [],
+    "market_value": "€35.00m"
+  },
+  {
+    "id": "258889",
+    "name": "Dominic Solanke",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "378710",
+    "name": "Richarlison",
+    "position": "RicharlisonCentre-Forward",
+    "number": "9",
+    "age": "",
+    "nationality": [],
+    "market_value": "€28.00m"
+  },
+  {
+    "id": "378710",
+    "name": "Richarlison",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "801734",
+    "name": "Mathys Tel",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  },
+  {
+    "id": "487969",
+    "name": "Randal Kolo Muani",
+    "position": "",
+    "number": "",
+    "age": "",
+    "nationality": [],
+    "market_value": ""
+  }
+]
