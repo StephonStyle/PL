@@ -2,343 +2,150 @@
   {
     "id": "130164",
     "name": "Jordan Pickford",
-    "position": "Jordan PickfordGoalkeeper",
+    "position": "Goalkeeper",
     "number": "1",
-    "age": "",
-    "nationality": [],
+    "age": "32",
+    "nationality": [
+      "England"
+    ],
     "market_value": "€15.00m"
-  },
-  {
-    "id": "130164",
-    "name": "Jordan Pickford",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "357658",
-    "name": "Mark Travers",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "215810",
-    "name": "Tom King",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   },
   {
     "id": "661053",
     "name": "Jarrad Branthwaite",
-    "position": "Jarrad BranthwaiteCentre-Back",
+    "position": "Centre-Back",
     "number": "32",
-    "age": "",
-    "nationality": [],
+    "age": "23",
+    "nationality": [
+      "England"
+    ],
     "market_value": "€45.00m"
   },
   {
-    "id": "661053",
-    "name": "Jarrad Branthwaite",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "173504",
     "name": "James Tarkowski",
-    "position": "James TarkowskiCentre-Back",
+    "position": "Centre-Back",
     "number": "6",
-    "age": "",
-    "nationality": [],
+    "age": "33",
+    "nationality": [
+      "England",
+      "Poland"
+    ],
     "market_value": "€7.00m"
   },
   {
-    "id": "173504",
-    "name": "James Tarkowski",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "118534",
     "name": "Michael Keane",
-    "position": "Michael KeaneCentre-Back",
+    "position": "Centre-Back",
     "number": "5",
-    "age": "",
-    "nationality": [],
+    "age": "33",
+    "nationality": [
+      "England",
+      "Ireland"
+    ],
     "market_value": "€4.00m"
   },
   {
-    "id": "118534",
-    "name": "Michael Keane",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "404842",
     "name": "Vitaliy Mykolenko",
-    "position": "Vitaliy MykolenkoLeft-Back",
+    "position": "Left-Back",
     "number": "16",
-    "age": "",
-    "nationality": [],
+    "age": "26",
+    "nationality": [
+      "Ukraine"
+    ],
     "market_value": "€25.00m"
   },
   {
-    "id": "404842",
-    "name": "Vitaliy Mykolenko",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "938146",
-    "name": "Adam Aznou",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "711544",
     "name": "Jake O'Brien",
-    "position": "Jake O'BrienRight-Back",
+    "position": "Right-Back",
     "number": "15",
-    "age": "",
-    "nationality": [],
+    "age": "25",
+    "nationality": [
+      "Ireland"
+    ],
     "market_value": "€18.00m"
   },
   {
-    "id": "711544",
-    "name": "Jake O'Brien",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "424015",
     "name": "Nathan Patterson",
-    "position": "Nathan PattersonRight-Back",
+    "position": "Right-Back",
     "number": "2",
-    "age": "",
-    "nationality": [],
+    "age": "24",
+    "nationality": [
+      "Scotland"
+    ],
     "market_value": "€10.00m"
   },
   {
-    "id": "424015",
-    "name": "Nathan Patterson",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "68390",
-    "name": "Séamus Coleman",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "505219",
     "name": "James Garner",
-    "position": "James GarnerDefensive Midfield",
+    "position": "Defensive Midfield",
     "number": "37",
-    "age": "",
-    "nationality": [],
+    "age": "25",
+    "nationality": [
+      "England"
+    ],
     "market_value": "€35.00m"
   },
   {
-    "id": "505219",
-    "name": "James Garner",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "126665",
     "name": "Idrissa Gueye",
-    "position": "Idrissa GueyeDefensive Midfield",
+    "position": "Defensive Midfield",
     "number": "27",
-    "age": "",
-    "nationality": [],
+    "age": "36",
+    "nationality": [
+      "Senegal"
+    ],
     "market_value": "€1.00m"
   },
   {
-    "id": "126665",
-    "name": "Idrissa Gueye",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "475188",
-    "name": "Kiernan Dewsbury-Hall",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "748319",
-    "name": "Carlos Alcaraz",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "696589",
     "name": "Tim Iroegbunam",
-    "position": "Tim IroegbunamCentral Midfield",
+    "position": "Central Midfield",
     "number": "42",
-    "age": "",
-    "nationality": [],
+    "age": "22",
+    "nationality": [
+      "England",
+      "Nigeria"
+    ],
     "market_value": "€15.00m"
   },
   {
-    "id": "696589",
-    "name": "Tim Iroegbunam",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "1107733",
-    "name": "Harrison Armstrong",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "608832",
-    "name": "Merlin Röhl",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "203460",
-    "name": "Jack Grealish",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "936874",
-    "name": "Tyrique George",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "584769",
     "name": "Dwight McNeil",
-    "position": "Dwight McNeilLeft Winger",
+    "position": "Left Winger",
     "number": "7",
-    "age": "",
-    "nationality": [],
+    "age": "26",
+    "nationality": [
+      "England",
+      "Jamaica"
+    ],
     "market_value": "€20.00m"
-  },
-  {
-    "id": "584769",
-    "name": "Dwight McNeil",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   },
   {
     "id": "623570",
     "name": "Iliman Ndiaye",
-    "position": "Iliman NdiayeRight Winger",
+    "position": "Right Winger",
     "number": "10",
-    "age": "",
-    "nationality": [],
+    "age": "26",
+    "nationality": [
+      "Senegal",
+      "France"
+    ],
     "market_value": "€50.00m"
   },
   {
-    "id": "623570",
-    "name": "Iliman Ndiaye",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "866655",
-    "name": "Tyler Dibling",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "937941",
-    "name": "Thierno Barry",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "595809",
     "name": "Beto",
-    "position": "BetoCentre-Forward",
+    "position": "Centre-Forward",
     "number": "9",
-    "age": "",
-    "nationality": [],
+    "age": "28",
+    "nationality": [
+      "Guinea-Bissau",
+      "Portugal"
+    ],
     "market_value": "€20.00m"
-  },
-  {
-    "id": "595809",
-    "name": "Beto",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   }
 ]

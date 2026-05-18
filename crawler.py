@@ -32,7 +32,7 @@ TEAMS = [
     {'id': '281', 'name': 'Man City'},
     {'id': '985', 'name': 'Man United'},
     {'id': '762', 'name': 'Newcastle'},
-    {'id': '703', 'name': 'Nott\'m Forest'},
+    {'id': '703', 'name': "Nott'm Forest"},
     {'id': '180', 'name': 'Southampton'},
     {'id': '148', 'name': 'Spurs'},
     {'id': '379', 'name': 'West Ham'},
@@ -71,14 +71,6 @@ def load_checkpoint():
             return json.load(f)
     return {}
 
-def extract_name(soup):
-    """Extract team/player name from page header"""
-    for sel in ['h1.verein-headline', 'h1.spielername-header', 'div.data-header__headline-container h1']:
-        el = soup.select_one(sel)
-        if el:
-            return el.get_text(strip=True).split('-')[0].strip()
-    return ''
-
 # ==================== STEP 1: Crawl team squads ====================
 def crawl_squads():
     log("=== Step 1: Crawling team squads ===")
@@ -97,9 +89,15 @@ def crawl_squads():
 
         if html:
             soup = BeautifulSoup(html, 'lxml')
-            # Squad table
+            # Squad table rows
             for row in soup.select('table.wp tbody tr, table.items tbody tr'):
-                name_link = row.select_one('a[href*="/profil/spieler/"], td a')
+                tds = row.select('td')
+                if len(tds) < 8:
+                    # Check if it's a non-player row (filter, heading, etc.)
+                    continue
+
+                # td[3] = player name with link
+                name_link = tds[3].select_one('a[href*="/profil/spieler/"]')
                 if not name_link:
                     continue
                 href = name_link.get('href', '')
@@ -111,32 +109,34 @@ def crawl_squads():
                 if not name or len(name) < 2:
                     continue
 
-                # Read position from the row
-                tds = row.select('td')
-                pos = ''
-                num = ''
+                # Filter out recommended players from other teams.
+                # Real squad: td[1] has 1 link (player profile).
+                # Recommeded: td[1] has extra team links.
+                if len(tds[1].select('a')) > 1:
+                    continue
+
+                # td[0] = shirt number
+                num = tds[0].get_text(strip=True)
+
+                # td[4] = position
+                pos = tds[4].get_text(strip=True)
+
+                # td[5] = "15/09/1995 (30)" — birth date + age
+                birth_info = tds[5].get_text(strip=True)
                 age = ''
-                mv = ''
+                m_age = re.search(r'\((\d+)\)', birth_info)
+                if m_age:
+                    age = m_age.group(1)
+
+                # td[6] = nationality flags
                 nations = []
-                for flag in row.select('img.flaggen'):
+                for flag in tds[6].select('img.flaggenrahmen, img.flaggen'):
                     alt = flag.get('alt', '')
                     if alt:
                         nations.append(alt)
 
-                # Try extracting from data attributes or columns
-                cells_text = [c.get_text(strip=True) for c in tds]
-                if len(cells_text) >= 2:
-                    num = cells_text[0]
-                if len(cells_text) >= 3:
-                    pos = cells_text[1] if not cells_text[1].isdigit() else ''
-                # Find market value in the row (it's usually in a span)
-                mv_el = row.select_one('td.rechts a, td.marktwert a, span.marktwert')
-                if mv_el:
-                    mv = mv_el.get_text(strip=True)
-                # Age
-                age_el = row.select_one('td.zentriert:nth-child(5)')
-                if age_el:
-                    age = age_el.get_text(strip=True)
+                # td[7] = market value
+                mv = tds[7].get_text(strip=True)
 
                 players.append({
                     'id': pid,
@@ -147,18 +147,6 @@ def crawl_squads():
                     'nationality': nations,
                     'market_value': mv,
                 })
-
-        # If no players found via selector, try alternative parsing
-        if not players:
-            log(f"  WARNING: No players extracted for {team['name']}, trying alternative...")
-            # Direct regex approach for player links
-            for a in soup.select('a[href*="/profil/spieler/"]'):
-                href = a.get('href', '')
-                m = re.search(r'/spieler/(\d+)', href)
-                if m:
-                    name = a.get_text(strip=True)
-                    if name:
-                        players.append({'id': m.group(1), 'name': name})
 
         team['players'] = players
         team['player_count'] = len(players)
@@ -220,44 +208,48 @@ def crawl_player_details():
 
         if html:
             soup = BeautifulSoup(html, 'lxml')
-            player['cn_name'] = ''
 
-            # Chinese name from header
-            h1 = soup.select_one('h1.spielername-header, div.data-header__headline-container h1')
-            if h1:
-                text = h1.get_text(strip=True)
-                parts = text.split()
-                for p in parts:
-                    if re.search(r'[一-鿿]', p):
-                        player['cn_name'] = p
-                        break
-
-            # Info table
-            for row in soup.select('table.auflistung tr'):
-                label = row.select_one('th')
-                value = row.select_one('td')
-                if not label or not value:
-                    continue
-                l = label.get_text(strip=True).lower()
-                v = value.get_text(strip=True)
-                if 'date of birth' in l:
-                    player['birth_date'] = v
-                elif 'place of birth' in l:
-                    player['birth_place'] = v
-                elif 'height' in l:
-                    player['height'] = v
-                elif 'foot' in l or 'foot' in v.lower() if False else 'foot' in l:
-                    player['foot'] = v
-                elif 'agent' in l:
-                    player['agent'] = v
-                elif 'contract' in l:
-                    player['contract_expiry'] = v
-                elif 'joined' in l:
-                    player['joined'] = v
+            # Info table (div.info-table with span pairs)
+            info_table = soup.select_one('div.info-table')
+            if info_table:
+                spans = info_table.select('span.info-table__content')
+                for j in range(0, len(spans) - 1, 2):
+                    label = spans[j].get_text(strip=True).lower()
+                    value = spans[j + 1].get_text(strip=True)
+                    if 'date of birth' in label:
+                        m_dob = re.search(r'(\d{2}/\d{2}/\d{4})', value)
+                        if m_dob:
+                            player['birth_date'] = m_dob.group(1)
+                    elif 'place of birth' in label:
+                        player['birth_place'] = value
+                    elif 'height' in label:
+                        player['height'] = value
+                    elif 'citizenship' in label:
+                        flags = spans[j + 1].select('img.flaggenrahmen')
+                        player['nationality'] = [img.get('alt', '') for img in flags if img.get('alt')]
+                        if not player['nationality']:
+                            player['nationality'] = [value.split()[-1]]
+                    elif 'position' in label and 'player agent' not in label:
+                        player['position'] = value
+                    elif 'foot' in label:
+                        player['foot'] = value
+                    elif 'player agent' in label:
+                        player['agent'] = value
+                    elif 'current club' in label:
+                        player['club'] = value
+                    elif 'joined' in label:
+                        player['joined'] = value
+                    elif 'contract expires' in label:
+                        player['contract_expiry'] = value
+                    elif 'name in home' in label:
+                        player['full_name'] = value
 
             # Market value
-            mv_el = soup.select_one('div.marktwert-header a, a.marktwert-header')
+            mv_el = soup.select_one('a.data-header__market-value-wrapper')
             if mv_el:
+                last_update = mv_el.select_one('p.data-header__last-update')
+                if last_update:
+                    last_update.decompose()
                 player['market_value'] = mv_el.get_text(strip=True)
         else:
             player['detail_error'] = True
@@ -299,7 +291,7 @@ def main():
     step = cp.get('step', '')
     log(f"Resuming from checkpoint: step={step}")
 
-    if step in ('', 'squads', 'squads_done') or 'details' not in str(step):
+    if step in ('', 'squads') or 'squads_done' not in str(step):
         total = crawl_squads()
         log(f"Teams done. Ready for player details.")
     else:

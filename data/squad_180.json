@@ -1,335 +1,115 @@
 [
   {
-    "id": "468539",
-    "name": "Daniel Peretz",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "95976",
     "name": "Alex McCarthy",
-    "position": "Alex McCarthyGoalkeeper",
+    "position": "Goalkeeper",
     "number": "1",
-    "age": "",
-    "nationality": [],
+    "age": "36",
+    "nationality": [
+      "England"
+    ],
     "market_value": "€300k"
   },
   {
-    "id": "95976",
-    "name": "Alex McCarthy",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "151334",
-    "name": "George Long",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "57057",
-    "name": "Jamie Jones",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "503977",
     "name": "Taylor Harwood-Bellis",
-    "position": "Taylor Harwood-BellisCentre-Back",
+    "position": "Centre-Back",
     "number": "6",
-    "age": "",
-    "nationality": [],
+    "age": "24",
+    "nationality": [
+      "England"
+    ],
     "market_value": "€20.00m"
   },
   {
-    "id": "503977",
-    "name": "Taylor Harwood-Bellis",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "503990",
     "name": "Nathan Wood",
-    "position": "Nathan WoodCentre-Back",
+    "position": "Centre-Back",
     "number": "15",
-    "age": "",
-    "nationality": [],
+    "age": "23",
+    "nationality": [
+      "England",
+      "Jamaica"
+    ],
     "market_value": "€6.00m"
   },
   {
-    "id": "503990",
-    "name": "Nathan Wood",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "790918",
-    "name": "Joshua Quarshie",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "163744",
     "name": "Jack Stephens",
-    "position": "Jack StephensCentre-Back",
+    "position": "Centre-Back",
     "number": "5",
-    "age": "",
-    "nationality": [],
+    "age": "32",
+    "nationality": [
+      "England"
+    ],
     "market_value": "€1.20m"
   },
   {
-    "id": "163744",
-    "name": "Jack Stephens",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "986298",
-    "name": "Joachim Kayi Sanda",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "729264",
     "name": "Welington",
-    "position": "WelingtonLeft-Back",
+    "position": "Left-Back",
     "number": "34",
-    "age": "",
-    "nationality": [],
+    "age": "25",
+    "nationality": [
+      "Brazil"
+    ],
     "market_value": "€3.00m"
   },
   {
-    "id": "729264",
-    "name": "Welington",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "262300",
     "name": "Ryan Manning",
-    "position": "Ryan ManningLeft-Back",
+    "position": "Left-Back",
     "number": "3",
-    "age": "",
-    "nationality": [],
+    "age": "29",
+    "nationality": [
+      "Ireland"
+    ],
     "market_value": "€2.80m"
   },
   {
-    "id": "262300",
-    "name": "Ryan Manning",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "646478",
-    "name": "Elias Jelert",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "391005",
-    "name": "Mads Roerslev",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "324223",
-    "name": "James Bree",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "506189",
     "name": "Flynn Downes",
-    "position": "Flynn DownesDefensive Midfield",
+    "position": "Defensive Midfield",
     "number": "4",
-    "age": "",
-    "nationality": [],
+    "age": "27",
+    "nationality": [
+      "England"
+    ],
     "market_value": "€12.00m"
-  },
-  {
-    "id": "506189",
-    "name": "Flynn Downes",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   },
   {
     "id": "747951",
     "name": "Shea Charles",
-    "position": "Shea CharlesDefensive Midfield",
+    "position": "Defensive Midfield",
     "number": "24",
-    "age": "",
-    "nationality": [],
+    "age": "22",
+    "nationality": [
+      "Northern Ireland",
+      "England"
+    ],
     "market_value": "€12.00m"
-  },
-  {
-    "id": "747951",
-    "name": "Shea Charles",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "66100",
-    "name": "Oriol Romeu",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "696116",
-    "name": "Caspar Jander",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "626319",
-    "name": "Tom Fellows",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "480723",
-    "name": "Finn Azaz",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "804219",
-    "name": "Léo Scienza",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "902021",
-    "name": "Kuryu Matsuki",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "1045124",
-    "name": "Jay Robinson",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "680806",
-    "name": "Samuel Edozie",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   },
   {
     "id": "533662",
     "name": "Cameron Archer",
-    "position": "Cameron ArcherCentre-Forward",
+    "position": "Centre-Forward",
     "number": "19",
-    "age": "",
-    "nationality": [],
+    "age": "24",
+    "nationality": [
+      "England",
+      "Jamaica"
+    ],
     "market_value": "€8.00m"
   },
   {
-    "id": "533662",
-    "name": "Cameron Archer",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "343463",
-    "name": "Cyle Larin",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "447995",
     "name": "Ross Stewart",
-    "position": "Ross StewartCentre-Forward",
+    "position": "Centre-Forward",
     "number": "11",
-    "age": "",
-    "nationality": [],
+    "age": "29",
+    "nationality": [
+      "Scotland"
+    ],
     "market_value": "€2.80m"
-  },
-  {
-    "id": "447995",
-    "name": "Ross Stewart",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   }
 ]

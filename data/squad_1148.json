@@ -1,371 +1,172 @@
 [
   {
-    "id": "340918",
-    "name": "Caoimhín Kelleher",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "488935",
     "name": "Hákon Valdimarsson",
-    "position": "Hákon ValdimarssonGoalkeeper",
+    "position": "Goalkeeper",
     "number": "12",
-    "age": "",
-    "nationality": [],
+    "age": "24",
+    "nationality": [
+      "Iceland"
+    ],
     "market_value": "€2.50m"
   },
   {
-    "id": "488935",
-    "name": "Hákon Valdimarsson",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "456292",
-    "name": "Ellery Balcombe",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "1008553",
-    "name": "Julian Eyestone",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "541231",
     "name": "Sepp van den Berg",
-    "position": "Sepp van den BergCentre-Back",
+    "position": "Centre-Back",
     "number": "4",
-    "age": "",
-    "nationality": [],
+    "age": "24",
+    "nationality": [
+      "Netherlands"
+    ],
     "market_value": "€32.00m"
   },
   {
-    "id": "541231",
-    "name": "Sepp van den Berg",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "469050",
     "name": "Nathan Collins",
-    "position": "Nathan CollinsCentre-Back",
+    "position": "Centre-Back",
     "number": "22",
-    "age": "",
-    "nationality": [],
+    "age": "25",
+    "nationality": [
+      "Ireland"
+    ],
     "market_value": "€30.00m"
   },
   {
-    "id": "469050",
-    "name": "Nathan Collins",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "328658",
     "name": "Kristoffer Ajer",
-    "position": "Kristoffer AjerCentre-Back",
+    "position": "Centre-Back",
     "number": "20",
-    "age": "",
-    "nationality": [],
+    "age": "28",
+    "nationality": [
+      "Norway"
+    ],
     "market_value": "€18.00m"
-  },
-  {
-    "id": "328658",
-    "name": "Kristoffer Ajer",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   },
   {
     "id": "442248",
     "name": "Ethan Pinnock",
-    "position": "Ethan PinnockCentre-Back",
+    "position": "Centre-Back",
     "number": "5",
-    "age": "",
-    "nationality": [],
+    "age": "32",
+    "nationality": [
+      "Jamaica",
+      "England"
+    ],
     "market_value": "€4.00m"
   },
   {
-    "id": "442248",
-    "name": "Ethan Pinnock",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "339556",
     "name": "Rico Henry",
-    "position": "Rico HenryLeft-Back",
+    "position": "Left-Back",
     "number": "3",
-    "age": "",
-    "nationality": [],
+    "age": "28",
+    "nationality": [
+      "Jamaica",
+      "England"
+    ],
     "market_value": "€15.00m"
   },
   {
-    "id": "339556",
-    "name": "Rico Henry",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "823486",
-    "name": "Michael Kayode",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "591949",
     "name": "Aaron Hickey",
-    "position": "Aaron HickeyRight-Back",
+    "position": "Right-Back",
     "number": "2",
-    "age": "",
-    "nationality": [],
+    "age": "23",
+    "nationality": [
+      "Scotland"
+    ],
     "market_value": "€16.00m"
   },
   {
-    "id": "591949",
-    "name": "Aaron Hickey",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "270171",
     "name": "Vitaly Janelt",
-    "position": "Vitaly JaneltDefensive Midfield",
+    "position": "Defensive Midfield",
     "number": "27",
-    "age": "",
-    "nationality": [],
+    "age": "28",
+    "nationality": [
+      "Germany",
+      "Bosnia-Herzegovina"
+    ],
     "market_value": "€18.00m"
   },
   {
-    "id": "270171",
-    "name": "Vitaly Janelt",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "61651",
-    "name": "Jordan Henderson",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "717411",
     "name": "Yegor Yarmolyuk",
-    "position": "Yegor YarmolyukCentral Midfield",
+    "position": "Central Midfield",
     "number": "18",
-    "age": "",
-    "nationality": [],
+    "age": "22",
+    "nationality": [
+      "Ukraine"
+    ],
     "market_value": "€30.00m"
-  },
-  {
-    "id": "717411",
-    "name": "Yegor Yarmolyuk",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   },
   {
     "id": "319859",
     "name": "Mathias Jensen",
-    "position": "Mathias JensenCentral Midfield",
+    "position": "Central Midfield",
     "number": "8",
-    "age": "",
-    "nationality": [],
+    "age": "30",
+    "nationality": [
+      "Denmark"
+    ],
     "market_value": "€12.00m"
   },
   {
-    "id": "319859",
-    "name": "Mathias Jensen",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "340321",
-    "name": "Josh Dasilva",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "644401",
     "name": "Keane Lewis-Potter",
-    "position": "Keane Lewis-PotterLeft Midfield",
+    "position": "Left Midfield",
     "number": "23",
-    "age": "",
-    "nationality": [],
+    "age": "25",
+    "nationality": [
+      "England"
+    ],
     "market_value": "€25.00m"
   },
   {
-    "id": "644401",
-    "name": "Keane Lewis-Potter",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "540941",
     "name": "Mikkel Damsgaard",
-    "position": "Mikkel DamsgaardAttacking Midfield",
+    "position": "Attacking Midfield",
     "number": "24",
-    "age": "",
-    "nationality": [],
+    "age": "25",
+    "nationality": [
+      "Denmark"
+    ],
     "market_value": "€30.00m"
   },
   {
-    "id": "540941",
-    "name": "Mikkel Damsgaard",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "683620",
-    "name": "Antoni Milambo",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "559263",
     "name": "Fábio Carvalho",
-    "position": "Fábio CarvalhoAttacking Midfield",
+    "position": "Attacking Midfield",
     "number": "14",
-    "age": "",
-    "nationality": [],
+    "age": "23",
+    "nationality": [
+      "Portugal"
+    ],
     "market_value": "€10.00m"
   },
   {
-    "id": "559263",
-    "name": "Fábio Carvalho",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "473050",
     "name": "Kevin Schade",
-    "position": "Kevin SchadeLeft Winger",
+    "position": "Left Winger",
     "number": "7",
-    "age": "",
-    "nationality": [],
+    "age": "24",
+    "nationality": [
+      "Germany",
+      "Nigeria"
+    ],
     "market_value": "€35.00m"
   },
   {
-    "id": "473050",
-    "name": "Kevin Schade",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "340325",
-    "name": "Reiss Nelson",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "823231",
-    "name": "Dango Ouattara",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "1091562",
-    "name": "Romelle Donovan",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "739443",
     "name": "Igor Thiago",
-    "position": "Igor ThiagoCentre-Forward",
+    "position": "Centre-Forward",
     "number": "9",
-    "age": "",
-    "nationality": [],
+    "age": "24",
+    "nationality": [
+      "Brazil",
+      "Bulgaria"
+    ],
     "market_value": "€50.00m"
-  },
-  {
-    "id": "739443",
-    "name": "Igor Thiago",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "1011936",
-    "name": "Kaye Furo",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   }
 ]

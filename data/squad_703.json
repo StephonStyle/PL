@@ -1,398 +1,173 @@
 [
   {
-    "id": "432914",
-    "name": "John Victor",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "85941",
-    "name": "Stefan Ortega",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "127202",
     "name": "Matz Sels",
-    "position": "Matz SelsGoalkeeper",
+    "position": "Goalkeeper",
     "number": "26",
-    "age": "",
-    "nationality": [],
+    "age": "34",
+    "nationality": [
+      "Belgium"
+    ],
     "market_value": "€4.00m"
   },
   {
-    "id": "127202",
-    "name": "Matz Sels",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "201574",
-    "name": "Angus Gunn",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "1005649",
     "name": "Murillo",
-    "position": "MurilloCentre-Back",
+    "position": "Centre-Back",
     "number": "5",
-    "age": "",
-    "nationality": [],
+    "age": "23",
+    "nationality": [
+      "Brazil"
+    ],
     "market_value": "€50.00m"
   },
   {
-    "id": "1005649",
-    "name": "Murillo",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "413507",
     "name": "Nikola Milenković",
-    "position": "Nikola MilenkovićCentre-Back",
+    "position": "Centre-Back",
     "number": "31",
-    "age": "",
-    "nationality": [],
+    "age": "28",
+    "nationality": [
+      "Serbia"
+    ],
     "market_value": "€30.00m"
-  },
-  {
-    "id": "413507",
-    "name": "Nikola Milenković",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   },
   {
     "id": "673492",
     "name": "Morato",
-    "position": "MoratoCentre-Back",
+    "position": "Centre-Back",
     "number": "4",
-    "age": "",
-    "nationality": [],
+    "age": "24",
+    "nationality": [
+      "Brazil"
+    ],
     "market_value": "€14.00m"
   },
   {
-    "id": "673492",
-    "name": "Morato",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "984096",
-    "name": "Jair Cunha",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "933017",
-    "name": "Zach Abbott",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "142310",
     "name": "Willy Boly",
-    "position": "Willy BolyCentre-Back",
+    "position": "Centre-Back",
     "number": "30",
-    "age": "",
-    "nationality": [],
+    "age": "35",
+    "nationality": [
+      "Cote d'Ivoire",
+      "France"
+    ],
     "market_value": "€500k"
   },
   {
-    "id": "142310",
-    "name": "Willy Boly",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "503680",
     "name": "Neco Williams",
-    "position": "Neco WilliamsLeft-Back",
+    "position": "Left-Back",
     "number": "3",
-    "age": "",
-    "nationality": [],
+    "age": "25",
+    "nationality": [
+      "Wales"
+    ],
     "market_value": "€25.00m"
   },
   {
-    "id": "503680",
-    "name": "Neco Williams",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "524285",
-    "name": "Luca Netz",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "236490",
     "name": "Ola Aina",
-    "position": "Ola AinaRight-Back",
+    "position": "Right-Back",
     "number": "34",
-    "age": "",
-    "nationality": [],
+    "age": "29",
+    "nationality": [
+      "Nigeria",
+      "England"
+    ],
     "market_value": "€20.00m"
   },
   {
-    "id": "236490",
-    "name": "Ola Aina",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "708072",
-    "name": "Nicolò Savona",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "897481",
-    "name": "Eric da Silva Moreira",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "375885",
     "name": "Ibrahim Sangaré",
-    "position": "Ibrahim SangaréDefensive Midfield",
+    "position": "Defensive Midfield",
     "number": "6",
-    "age": "",
-    "nationality": [],
+    "age": "28",
+    "nationality": [
+      "Cote d'Ivoire"
+    ],
     "market_value": "€22.00m"
   },
   {
-    "id": "375885",
-    "name": "Ibrahim Sangaré",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "567576",
     "name": "Elliot Anderson",
-    "position": "Elliot AndersonCentral Midfield",
+    "position": "Central Midfield",
     "number": "8",
-    "age": "",
-    "nationality": [],
+    "age": "23",
+    "nationality": [
+      "England",
+      "Scotland"
+    ],
     "market_value": "€60.00m"
-  },
-  {
-    "id": "567576",
-    "name": "Elliot Anderson",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   },
   {
     "id": "497291",
     "name": "Nicolás Domínguez",
-    "position": "Nicolás DomínguezCentral Midfield",
+    "position": "Central Midfield",
     "number": "16",
-    "age": "",
-    "nationality": [],
+    "age": "27",
+    "nationality": [
+      "Argentina",
+      "Italy"
+    ],
     "market_value": "€16.00m"
   },
   {
-    "id": "497291",
-    "name": "Nicolás Domínguez",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "425902",
     "name": "Ryan Yates",
-    "position": "Ryan YatesCentral Midfield",
+    "position": "Central Midfield",
     "number": "22",
-    "age": "",
-    "nationality": [],
+    "age": "28",
+    "nationality": [
+      "England"
+    ],
     "market_value": "€8.00m"
   },
   {
-    "id": "425902",
-    "name": "Ryan Yates",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "429014",
     "name": "Morgan Gibbs-White",
-    "position": "Morgan Gibbs-WhiteAttacking Midfield",
+    "position": "Attacking Midfield",
     "number": "10",
-    "age": "",
-    "nationality": [],
+    "age": "26",
+    "nationality": [
+      "England",
+      "Jamaica"
+    ],
     "market_value": "€60.00m"
   },
   {
-    "id": "429014",
-    "name": "Morgan Gibbs-White",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "741238",
-    "name": "Omari Hutchinson",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "583199",
-    "name": "James McAtee",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "392768",
     "name": "Callum Hudson-Odoi",
-    "position": "Callum Hudson-OdoiLeft Winger",
+    "position": "Left Winger",
     "number": "7",
-    "age": "",
-    "nationality": [],
+    "age": "25",
+    "nationality": [
+      "England",
+      "Ghana"
+    ],
     "market_value": "€30.00m"
   },
   {
-    "id": "392768",
-    "name": "Callum Hudson-Odoi",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "365108",
-    "name": "Dan Ndoye",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "540664",
-    "name": "Dilane Bakwa",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "572265",
-    "name": "Lorenzo Lucca",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "432164",
-    "name": "Igor Jesus",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "295313",
     "name": "Taiwo Awoniyi",
-    "position": "Taiwo AwoniyiCentre-Forward",
+    "position": "Centre-Forward",
     "number": "9",
-    "age": "",
-    "nationality": [],
+    "age": "28",
+    "nationality": [
+      "Nigeria"
+    ],
     "market_value": "€9.00m"
   },
   {
-    "id": "295313",
-    "name": "Taiwo Awoniyi",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "108725",
     "name": "Chris Wood",
-    "position": "Chris WoodCentre-Forward",
+    "position": "Centre-Forward",
     "number": "11",
-    "age": "",
-    "nationality": [],
+    "age": "34",
+    "nationality": [
+      "New Zealand"
+    ],
     "market_value": "€6.00m"
-  },
-  {
-    "id": "108725",
-    "name": "Chris Wood",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   }
 ]

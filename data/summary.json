@@ -1,0 +1,108 @@
+{
+  "league": "Premier League",
+  "season": "2024/2025",
+  "teams": [
+    {
+      "id": "11",
+      "name": "Arsenal",
+      "player_count": 0
+    },
+    {
+      "id": "405",
+      "name": "Aston Villa",
+      "player_count": 0
+    },
+    {
+      "id": "989",
+      "name": "Bournemouth",
+      "player_count": 0
+    },
+    {
+      "id": "1148",
+      "name": "Brentford",
+      "player_count": 0
+    },
+    {
+      "id": "1237",
+      "name": "Brighton",
+      "player_count": 0
+    },
+    {
+      "id": "631",
+      "name": "Chelsea",
+      "player_count": 0
+    },
+    {
+      "id": "873",
+      "name": "Crystal Palace",
+      "player_count": 0
+    },
+    {
+      "id": "29",
+      "name": "Everton",
+      "player_count": 0
+    },
+    {
+      "id": "931",
+      "name": "Fulham",
+      "player_count": 0
+    },
+    {
+      "id": "677",
+      "name": "Ipswich",
+      "player_count": 0
+    },
+    {
+      "id": "1003",
+      "name": "Leicester",
+      "player_count": 0
+    },
+    {
+      "id": "31",
+      "name": "Liverpool",
+      "player_count": 0
+    },
+    {
+      "id": "281",
+      "name": "Man City",
+      "player_count": 0
+    },
+    {
+      "id": "985",
+      "name": "Man United",
+      "player_count": 0
+    },
+    {
+      "id": "762",
+      "name": "Newcastle",
+      "player_count": 0
+    },
+    {
+      "id": "703",
+      "name": "Nott'm Forest",
+      "player_count": 0
+    },
+    {
+      "id": "180",
+      "name": "Southampton",
+      "player_count": 0
+    },
+    {
+      "id": "148",
+      "name": "Spurs",
+      "player_count": 0
+    },
+    {
+      "id": "379",
+      "name": "West Ham",
+      "player_count": 0
+    },
+    {
+      "id": "543",
+      "name": "Wolves",
+      "player_count": 0
+    }
+  ],
+  "total_players": 302,
+  "last_updated": "2026-05-19 00:42:32"
+}

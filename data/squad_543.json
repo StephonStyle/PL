@@ -2,334 +2,159 @@
   {
     "id": "249994",
     "name": "José Sá",
-    "position": "José SáGoalkeeper",
+    "position": "Goalkeeper",
     "number": "1",
-    "age": "",
-    "nationality": [],
+    "age": "33",
+    "nationality": [
+      "Portugal"
+    ],
     "market_value": "€5.00m"
   },
   {
-    "id": "249994",
-    "name": "José Sá",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "110864",
     "name": "Sam Johnstone",
-    "position": "Sam JohnstoneGoalkeeper",
+    "position": "Goalkeeper",
     "number": "31",
-    "age": "",
-    "nationality": [],
+    "age": "33",
+    "nationality": [
+      "England"
+    ],
     "market_value": "€3.00m"
-  },
-  {
-    "id": "110864",
-    "name": "Sam Johnstone",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   },
   {
     "id": "136401",
     "name": "Daniel Bentley",
-    "position": "Daniel BentleyGoalkeeper",
+    "position": "Goalkeeper",
     "number": "25",
-    "age": "",
-    "nationality": [],
+    "age": "32",
+    "nationality": [
+      "England"
+    ],
     "market_value": "€1.00m"
   },
   {
-    "id": "136401",
-    "name": "Daniel Bentley",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "345911",
-    "name": "Ladislav Krejčí",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "606718",
     "name": "Toti",
-    "position": "TotiCentre-Back",
+    "position": "Centre-Back",
     "number": "24",
-    "age": "",
-    "nationality": [],
+    "age": "27",
+    "nationality": [
+      "Portugal",
+      "Guinea-Bissau"
+    ],
     "market_value": "€20.00m"
   },
   {
-    "id": "606718",
-    "name": "Toti",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "716276",
     "name": "Yerson Mosquera",
-    "position": "Yerson MosqueraCentre-Back",
+    "position": "Centre-Back",
     "number": "15",
-    "age": "",
-    "nationality": [],
+    "age": "25",
+    "nationality": [
+      "Colombia"
+    ],
     "market_value": "€12.00m"
   },
   {
-    "id": "716276",
-    "name": "Yerson Mosquera",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "438001",
     "name": "Santiago Bueno",
-    "position": "Santiago BuenoCentre-Back",
+    "position": "Centre-Back",
     "number": "4",
-    "age": "",
-    "nationality": [],
+    "age": "27",
+    "nationality": [
+      "Uruguay",
+      "Italy"
+    ],
     "market_value": "€10.00m"
   },
   {
-    "id": "438001",
-    "name": "Santiago Bueno",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "698678",
-    "name": "Hugo Bueno",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "661427",
-    "name": "David Møller Wolfe",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "848509",
-    "name": "Jackson Tchatchoua",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "1193867",
-    "name": "Pedro Lima",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "171679",
     "name": "Matt Doherty",
-    "position": "Matt DohertyRight-Back",
+    "position": "Right-Back",
     "number": "2",
-    "age": "",
-    "nationality": [],
+    "age": "34",
+    "nationality": [
+      "Ireland"
+    ],
     "market_value": "€1.50m"
   },
   {
-    "id": "171679",
-    "name": "Matt Doherty",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "800176",
     "name": "André",
-    "position": "AndréDefensive Midfield",
+    "position": "Defensive Midfield",
     "number": "7",
-    "age": "",
-    "nationality": [],
+    "age": "24",
+    "nationality": [
+      "Brazil"
+    ],
     "market_value": "€25.00m"
   },
   {
-    "id": "800176",
-    "name": "André",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "735570",
     "name": "João Gomes",
-    "position": "João GomesCentral Midfield",
+    "position": "Central Midfield",
     "number": "8",
-    "age": "",
-    "nationality": [],
+    "age": "25",
+    "nationality": [
+      "Brazil"
+    ],
     "market_value": "€35.00m"
   },
   {
-    "id": "735570",
-    "name": "João Gomes",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "450050",
     "name": "Jean-Ricner Bellegarde",
-    "position": "Jean-Ricner BellegardeCentral Midfield",
+    "position": "Central Midfield",
     "number": "27",
-    "age": "",
-    "nationality": [],
+    "age": "27",
+    "nationality": [
+      "Haiti",
+      "France"
+    ],
     "market_value": "€16.00m"
   },
   {
-    "id": "450050",
-    "name": "Jean-Ricner Bellegarde",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "667121",
     "name": "Rodrigo Gomes",
-    "position": "Rodrigo GomesLeft Midfield",
+    "position": "Left Midfield",
     "number": "21",
-    "age": "",
-    "nationality": [],
+    "age": "22",
+    "nationality": [
+      "Portugal"
+    ],
     "market_value": "€15.00m"
   },
   {
-    "id": "667121",
-    "name": "Rodrigo Gomes",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "1230661",
-    "name": "Mateus Mané",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "392770",
-    "name": "Angel Gomes",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "1060740",
     "name": "Enso González",
-    "position": "Enso GonzálezLeft Winger",
+    "position": "Left Winger",
     "number": "30",
-    "age": "",
-    "nationality": [],
+    "age": "21",
+    "nationality": [
+      "Paraguay"
+    ],
     "market_value": "€3.00m"
   },
   {
-    "id": "1060740",
-    "name": "Enso González",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "683571",
-    "name": "Tolu Arokodare",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "250426",
-    "name": "Adam Armstrong",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "292246",
     "name": "Hee-chan Hwang",
-    "position": "Hee-chan HwangCentre-Forward",
+    "position": "Centre-Forward",
     "number": "11",
-    "age": "",
-    "nationality": [],
+    "age": "30",
+    "nationality": [
+      "Korea, South"
+    ],
     "market_value": "€8.00m"
   },
   {
-    "id": "292246",
-    "name": "Hee-chan Hwang",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "863741",
     "name": "Nathan Fraser",
-    "position": "Nathan FraserCentre-Forward",
+    "position": "Centre-Forward",
     "number": "63",
-    "age": "",
-    "nationality": [],
+    "age": "21",
+    "nationality": [
+      "Ireland",
+      "England"
+    ],
     "market_value": "€600k"
-  },
-  {
-    "id": "863741",
-    "name": "Nathan Fraser",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   }
 ]

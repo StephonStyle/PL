@@ -2,370 +2,185 @@
   {
     "id": "111873",
     "name": "Emiliano Martínez",
-    "position": "Emiliano MartínezGoalkeeper",
+    "position": "Goalkeeper",
     "number": "23",
-    "age": "",
-    "nationality": [],
+    "age": "33",
+    "nationality": [
+      "Argentina",
+      "Spain"
+    ],
     "market_value": "€15.00m"
   },
   {
-    "id": "111873",
-    "name": "Emiliano Martínez",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "124884",
-    "name": "Marco Bizot",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "413403",
     "name": "Ezri Konsa",
-    "position": "Ezri KonsaCentre-Back",
+    "position": "Centre-Back",
     "number": "4",
-    "age": "",
-    "nationality": [],
+    "age": "28",
+    "nationality": [
+      "England",
+      "DR Congo"
+    ],
     "market_value": "€40.00m"
   },
   {
-    "id": "413403",
-    "name": "Ezri Konsa",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "399776",
     "name": "Pau Torres",
-    "position": "Pau TorresCentre-Back",
+    "position": "Centre-Back",
     "number": "14",
-    "age": "",
-    "nationality": [],
+    "age": "29",
+    "nationality": [
+      "Spain"
+    ],
     "market_value": "€22.00m"
-  },
-  {
-    "id": "399776",
-    "name": "Pau Torres",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "184573",
-    "name": "Victor Lindelöf",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   },
   {
     "id": "253677",
     "name": "Tyrone Mings",
-    "position": "Tyrone MingsCentre-Back",
+    "position": "Centre-Back",
     "number": "5",
-    "age": "",
-    "nationality": [],
+    "age": "33",
+    "nationality": [
+      "England"
+    ],
     "market_value": "€4.00m"
   },
   {
-    "id": "253677",
-    "name": "Tyrone Mings",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "485585",
     "name": "Ian Maatsen",
-    "position": "Ian MaatsenLeft-Back",
+    "position": "Left-Back",
     "number": "22",
-    "age": "",
-    "nationality": [],
+    "age": "24",
+    "nationality": [
+      "Netherlands",
+      "Suriname"
+    ],
     "market_value": "€30.00m"
-  },
-  {
-    "id": "485585",
-    "name": "Ian Maatsen",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   },
   {
     "id": "126664",
     "name": "Lucas Digne",
-    "position": "Lucas DigneLeft-Back",
+    "position": "Left-Back",
     "number": "12",
-    "age": "",
-    "nationality": [],
+    "age": "32",
+    "nationality": [
+      "France"
+    ],
     "market_value": "€8.00m"
   },
   {
-    "id": "126664",
-    "name": "Lucas Digne",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "425334",
     "name": "Matty Cash",
-    "position": "Matty CashRight-Back",
+    "position": "Right-Back",
     "number": "2",
-    "age": "",
-    "nationality": [],
+    "age": "28",
+    "nationality": [
+      "Poland",
+      "England"
+    ],
     "market_value": "€22.00m"
   },
   {
-    "id": "425334",
-    "name": "Matty Cash",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "1063329",
     "name": "Andrés García",
-    "position": "Andrés GarcíaRight-Back",
+    "position": "Right-Back",
     "number": "16",
-    "age": "",
-    "nationality": [],
+    "age": "23",
+    "nationality": [
+      "Spain"
+    ],
     "market_value": "€7.00m"
   },
   {
-    "id": "1063329",
-    "name": "Andrés García",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "485706",
     "name": "Amadou Onana",
-    "position": "Amadou OnanaDefensive Midfield",
+    "position": "Defensive Midfield",
     "number": "24",
-    "age": "",
-    "nationality": [],
+    "age": "24",
+    "nationality": [
+      "Belgium",
+      "Senegal"
+    ],
     "market_value": "€45.00m"
   },
   {
-    "id": "485706",
-    "name": "Amadou Onana",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "394327",
     "name": "Boubacar Kamara",
-    "position": "Boubacar KamaraDefensive Midfield",
+    "position": "Defensive Midfield",
     "number": "44",
-    "age": "",
-    "nationality": [],
+    "age": "26",
+    "nationality": [
+      "France",
+      "Senegal"
+    ],
     "market_value": "€40.00m"
   },
   {
-    "id": "394327",
-    "name": "Boubacar Kamara",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "645686",
     "name": "Lamare Bogarde",
-    "position": "Lamare BogardeDefensive Midfield",
+    "position": "Defensive Midfield",
     "number": "26",
-    "age": "",
-    "nationality": [],
+    "age": "22",
+    "nationality": [
+      "Netherlands",
+      "Suriname"
+    ],
     "market_value": "€15.00m"
-  },
-  {
-    "id": "645686",
-    "name": "Lamare Bogarde",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   },
   {
     "id": "249565",
     "name": "Youri Tielemans",
-    "position": "Youri TielemansCentral Midfield",
+    "position": "Central Midfield",
     "number": "8",
-    "age": "",
-    "nationality": [],
+    "age": "29",
+    "nationality": [
+      "Belgium",
+      "DR Congo"
+    ],
     "market_value": "€35.00m"
   },
   {
-    "id": "249565",
-    "name": "Youri Tielemans",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "447661",
-    "name": "Douglas Luiz",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "193116",
     "name": "John McGinn",
-    "position": "John McGinnCentral Midfield",
+    "position": "Central Midfield",
     "number": "7",
-    "age": "",
-    "nationality": [],
+    "age": "31",
+    "nationality": [
+      "Scotland"
+    ],
     "market_value": "€15.00m"
   },
   {
-    "id": "193116",
-    "name": "John McGinn",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "131978",
     "name": "Ross Barkley",
-    "position": "Ross BarkleyCentral Midfield",
+    "position": "Central Midfield",
     "number": "6",
-    "age": "",
-    "nationality": [],
+    "age": "32",
+    "nationality": [
+      "England"
+    ],
     "market_value": "€5.00m"
   },
   {
-    "id": "131978",
-    "name": "Ross Barkley",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "503743",
     "name": "Morgan Rogers",
-    "position": "Morgan RogersAttacking Midfield",
+    "position": "Attacking Midfield",
     "number": "27",
-    "age": "",
-    "nationality": [],
+    "age": "23",
+    "nationality": [
+      "England"
+    ],
     "market_value": "€80.00m"
   },
   {
-    "id": "503743",
-    "name": "Morgan Rogers",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "565822",
-    "name": "Harvey Elliott",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "321247",
-    "name": "Emiliano Buendía",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "401173",
-    "name": "Jadon Sancho",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "387626",
-    "name": "Leon Bailey",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "1005583",
-    "name": "Alysson",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "324358",
     "name": "Ollie Watkins",
-    "position": "Ollie WatkinsCentre-Forward",
+    "position": "Centre-Forward",
     "number": "11",
-    "age": "",
-    "nationality": [],
+    "age": "30",
+    "nationality": [
+      "England"
+    ],
     "market_value": "€30.00m"
-  },
-  {
-    "id": "324358",
-    "name": "Ollie Watkins",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "331726",
-    "name": "Tammy Abraham",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   }
 ]

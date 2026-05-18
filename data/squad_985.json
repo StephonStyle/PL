@@ -1,371 +1,196 @@
 [
   {
-    "id": "503883",
-    "name": "Senne Lammens",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "336077",
     "name": "Altay Bayındır",
-    "position": "Altay BayındırGoalkeeper",
+    "position": "Goalkeeper",
     "number": "1",
-    "age": "",
-    "nationality": [],
+    "age": "28",
+    "nationality": [
+      "Türkiye"
+    ],
     "market_value": "€7.00m"
   },
   {
-    "id": "336077",
-    "name": "Altay Bayındır",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "34130",
     "name": "Tom Heaton",
-    "position": "Tom HeatonGoalkeeper",
+    "position": "Goalkeeper",
     "number": "22",
-    "age": "",
-    "nationality": [],
+    "age": "40",
+    "nationality": [
+      "England"
+    ],
     "market_value": "€150k"
   },
   {
-    "id": "34130",
-    "name": "Tom Heaton",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "923831",
     "name": "Leny Yoro",
-    "position": "Leny YoroCentre-Back",
+    "position": "Centre-Back",
     "number": "15",
-    "age": "",
-    "nationality": [],
+    "age": "20",
+    "nationality": [
+      "France",
+      "Cote d'Ivoire"
+    ],
     "market_value": "€50.00m"
   },
   {
-    "id": "923831",
-    "name": "Leny Yoro",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "326031",
     "name": "Matthijs de Ligt",
-    "position": "Matthijs de LigtCentre-Back",
+    "position": "Centre-Back",
     "number": "4",
-    "age": "",
-    "nationality": [],
+    "age": "26",
+    "nationality": [
+      "Netherlands"
+    ],
     "market_value": "€40.00m"
-  },
-  {
-    "id": "326031",
-    "name": "Matthijs de Ligt",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   },
   {
     "id": "480762",
     "name": "Lisandro Martínez",
-    "position": "Lisandro MartínezCentre-Back",
+    "position": "Centre-Back",
     "number": "6",
-    "age": "",
-    "nationality": [],
+    "age": "28",
+    "nationality": [
+      "Argentina"
+    ],
     "market_value": "€40.00m"
-  },
-  {
-    "id": "480762",
-    "name": "Lisandro Martínez",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   },
   {
     "id": "1078163",
     "name": "Ayden Heaven",
-    "position": "Ayden HeavenCentre-Back",
+    "position": "Centre-Back",
     "number": "26",
-    "age": "",
-    "nationality": [],
+    "age": "19",
+    "nationality": [
+      "England",
+      "Ghana"
+    ],
     "market_value": "€20.00m"
   },
   {
-    "id": "1078163",
-    "name": "Ayden Heaven",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "177907",
     "name": "Harry Maguire",
-    "position": "Harry MaguireCentre-Back",
+    "position": "Centre-Back",
     "number": "5",
-    "age": "",
-    "nationality": [],
+    "age": "33",
+    "nationality": [
+      "England"
+    ],
     "market_value": "€10.00m"
-  },
-  {
-    "id": "177907",
-    "name": "Harry Maguire",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   },
   {
     "id": "926952",
     "name": "Patrick Dorgu",
-    "position": "Patrick DorguLeft-Back",
+    "position": "Left-Back",
     "number": "13",
-    "age": "",
-    "nationality": [],
+    "age": "21",
+    "nationality": [
+      "Denmark",
+      "Nigeria"
+    ],
     "market_value": "€35.00m"
   },
   {
-    "id": "926952",
-    "name": "Patrick Dorgu",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "183288",
     "name": "Luke Shaw",
-    "position": "Luke ShawLeft-Back",
+    "position": "Left-Back",
     "number": "23",
-    "age": "",
-    "nationality": [],
+    "age": "30",
+    "nationality": [
+      "England"
+    ],
     "market_value": "€10.00m"
   },
   {
-    "id": "183288",
-    "name": "Luke Shaw",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "339340",
-    "name": "Tyrell Malacia",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "357147",
     "name": "Diogo Dalot",
-    "position": "Diogo DalotRight-Back",
+    "position": "Right-Back",
     "number": "2",
-    "age": "",
-    "nationality": [],
+    "age": "27",
+    "nationality": [
+      "Portugal"
+    ],
     "market_value": "€30.00m"
-  },
-  {
-    "id": "357147",
-    "name": "Diogo Dalot",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   },
   {
     "id": "340456",
     "name": "Noussair Mazraoui",
-    "position": "Noussair MazraouiRight-Back",
+    "position": "Right-Back",
     "number": "3",
-    "age": "",
-    "nationality": [],
+    "age": "28",
+    "nationality": [
+      "Morocco",
+      "Netherlands"
+    ],
     "market_value": "€20.00m"
   },
   {
-    "id": "340456",
-    "name": "Noussair Mazraoui",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "476701",
     "name": "Manuel Ugarte",
-    "position": "Manuel UgarteDefensive Midfield",
+    "position": "Defensive Midfield",
     "number": "25",
-    "age": "",
-    "nationality": [],
+    "age": "25",
+    "nationality": [
+      "Uruguay"
+    ],
     "market_value": "€30.00m"
   },
   {
-    "id": "476701",
-    "name": "Manuel Ugarte",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "16306",
-    "name": "Casemiro",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "820374",
     "name": "Kobbie Mainoo",
-    "position": "Kobbie MainooCentral Midfield",
+    "position": "Central Midfield",
     "number": "37",
-    "age": "",
-    "nationality": [],
+    "age": "21",
+    "nationality": [
+      "England",
+      "Ghana"
+    ],
     "market_value": "€50.00m"
-  },
-  {
-    "id": "820374",
-    "name": "Kobbie Mainoo",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   },
   {
     "id": "240306",
     "name": "Bruno Fernandes",
-    "position": "Bruno FernandesAttacking Midfield",
+    "position": "Attacking Midfield",
     "number": "8",
-    "age": "",
-    "nationality": [],
+    "age": "31",
+    "nationality": [
+      "Portugal"
+    ],
     "market_value": "€40.00m"
   },
   {
-    "id": "240306",
-    "name": "Bruno Fernandes",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "346483",
     "name": "Mason Mount",
-    "position": "Mason MountAttacking Midfield",
+    "position": "Attacking Midfield",
     "number": "7",
-    "age": "",
-    "nationality": [],
+    "age": "27",
+    "nationality": [
+      "England"
+    ],
     "market_value": "€30.00m"
   },
   {
-    "id": "346483",
-    "name": "Mason Mount",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "413039",
-    "name": "Bryan Mbeumo",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "536835",
     "name": "Amad Diallo",
-    "position": "Amad DialloRight Winger",
+    "position": "Right Winger",
     "number": "16",
-    "age": "",
-    "nationality": [],
+    "age": "23",
+    "nationality": [
+      "Cote d'Ivoire",
+      "Italy"
+    ],
     "market_value": "€50.00m"
   },
   {
-    "id": "536835",
-    "name": "Amad Diallo",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "517894",
-    "name": "Matheus Cunha",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "627442",
-    "name": "Benjamin Sesko",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
     "id": "435648",
     "name": "Joshua Zirkzee",
-    "position": "Joshua ZirkzeeCentre-Forward",
+    "position": "Centre-Forward",
     "number": "11",
-    "age": "",
-    "nationality": [],
+    "age": "24",
+    "nationality": [
+      "Netherlands",
+      "Nigeria"
+    ],
     "market_value": "€22.00m"
-  },
-  {
-    "id": "435648",
-    "name": "Joshua Zirkzee",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
-  },
-  {
-    "id": "1042886",
-    "name": "Chido Obi",
-    "position": "",
-    "number": "",
-    "age": "",
-    "nationality": [],
-    "market_value": ""
   }
 ]
