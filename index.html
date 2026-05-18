@@ -231,7 +231,7 @@ const POS_MAP = {
 
 let teams = [], players = [], summary = null;
 let currentView = 'overview';
-let viewStack = []; // For back navigation
+let viewStack = [];
 
 // ======================== DATA LOADING ========================
 async function loadData(){
@@ -243,9 +243,8 @@ async function loadData(){
     ]);
     teams = t; players = p; summary = s;
 
-    // Build player lookup by team
+    // Build player lookup by team (fallback if details didn't load)
     if (players.length === 0 && teams.length > 0) {
-      // Build from team data
       for (const team of teams) {
         if (team.players) {
           for (const p of team.players) {
@@ -258,9 +257,6 @@ async function loadData(){
     }
 
     renderAll();
-    document.getElementById('searchBar').addEventListener('input', function(){
-      renderCurrentView();
-    });
 
     if (teams.length > 0) {
       showToast('✅ 数据加载完成 · ' + teams.length + '队 ' + players.length + '名球员');
@@ -295,10 +291,9 @@ function getPositionGroup(pos){
 }
 function playerAge(birthInfo){
   if (!birthInfo) return '';
-  // Try to extract year
   const m = birthInfo.match(/(\d{4})/);
   if (m) {
-    const age = 2025 - parseInt(m[1]);
+    const age = new Date().getFullYear() - parseInt(m[1]);
     return age > 0 && age < 50 ? age + '岁' : '';
   }
   return '';
@@ -321,10 +316,8 @@ function showView(view, data){
   document.getElementById('backBar').classList.add('show');
   const titles = {team:'球队详情',player:'球员详情'};
   document.getElementById('backTitle').textContent = titles[view] || '';
-  // Show the right content area
   document.querySelectorAll('.content').forEach(el => el.classList.remove('active'));
   document.getElementById('tabOverview').classList.add('active');
-  renderDetail(view, data);
 }
 
 function goBack(){
@@ -605,17 +598,17 @@ document.addEventListener('DOMContentLoaded', () => {
   // Back button
   document.getElementById('backBtn').addEventListener('click', goBack);
 
-  // Search
+  // Search — switches to Players tab and filters
   document.getElementById('searchBar').addEventListener('input', () => {
     if (viewStack.length > 0) {
       viewStack = [];
       document.getElementById('backBar').classList.remove('show');
-      currentView = 'overview';
-      document.querySelectorAll('.tab').forEach(x => x.classList.remove('active'));
-      document.querySelectorAll('.content').forEach(x => x.classList.remove('active'));
-      document.querySelector('.tab[data-tab="Players"]').classList.add('active');
-      document.getElementById('tabPlayers').classList.add('active');
     }
+    document.querySelectorAll('.tab').forEach(x => x.classList.remove('active'));
+    document.querySelectorAll('.content').forEach(x => x.classList.remove('active'));
+    document.querySelector('.tab[data-tab="Players"]').classList.add('active');
+    document.getElementById('tabPlayers').classList.add('active');
+    currentView = 'players';
     renderCurrentView();
   });
 });
