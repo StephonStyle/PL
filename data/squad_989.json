@@ -1,5 +1,73 @@
 [
   {
+    "id": "465555",
+    "name": "Djordje Petrovic",
+    "position": "Goalkeeper",
+    "number": "1",
+    "age": "26",
+    "nationality": [
+      "Serbia"
+    ],
+    "market_value": "€28.00m"
+  },
+  {
+    "id": "481675",
+    "name": "Christos Mandas",
+    "position": "Goalkeeper",
+    "number": "29",
+    "age": "24",
+    "nationality": [
+      "Greece"
+    ],
+    "market_value": "€10.00m"
+  },
+  {
+    "id": "52570",
+    "name": "Fraser Forster",
+    "position": "Goalkeeper",
+    "number": "17",
+    "age": "38",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€600k"
+  },
+  {
+    "id": "463605",
+    "name": "Bafodé Diakité",
+    "position": "Centre-Back",
+    "number": "18",
+    "age": "25",
+    "nationality": [
+      "France",
+      "Guinea"
+    ],
+    "market_value": "€30.00m"
+  },
+  {
+    "id": "469781",
+    "name": "Marcos Senesi",
+    "position": "Centre-Back",
+    "number": "5",
+    "age": "29",
+    "nationality": [
+      "Argentina",
+      "Italy"
+    ],
+    "market_value": "€22.00m"
+  },
+  {
+    "id": "989112",
+    "name": "Veljko Milosavljevic",
+    "position": "Centre-Back",
+    "number": "44",
+    "age": "18",
+    "nationality": [
+      "Serbia"
+    ],
+    "market_value": "€20.00m"
+  },
+  {
     "id": "611793",
     "name": "James Hill",
     "position": "Centre-Back",
@@ -23,6 +91,18 @@
     "market_value": "€1.00m"
   },
   {
+    "id": "654539",
+    "name": "Adrien Truffert",
+    "position": "Left-Back",
+    "number": "3",
+    "age": "24",
+    "nationality": [
+      "France",
+      "Belgium"
+    ],
+    "market_value": "€25.00m"
+  },
+  {
     "id": "1009658",
     "name": "Julio Soler",
     "position": "Left-Back",
@@ -33,6 +113,17 @@
       "Paraguay"
     ],
     "market_value": "€8.00m"
+  },
+  {
+    "id": "741257",
+    "name": "Álex Jiménez",
+    "position": "Right-Back",
+    "number": "20",
+    "age": "21",
+    "nationality": [
+      "Spain"
+    ],
+    "market_value": "€22.00m"
   },
   {
     "id": "61841",
@@ -80,6 +171,17 @@
     "market_value": "€13.00m"
   },
   {
+    "id": "998101",
+    "name": "Alex Tóth",
+    "position": "Central Midfield",
+    "number": "27",
+    "age": "20",
+    "nationality": [
+      "Hungary"
+    ],
+    "market_value": "€12.00m"
+  },
+  {
     "id": "188077",
     "name": "Ryan Christie",
     "position": "Central Midfield",
@@ -114,6 +216,40 @@
     "market_value": "€23.00m"
   },
   {
+    "id": "532776",
+    "name": "Amine Adli",
+    "position": "Left Winger",
+    "number": "21",
+    "age": "26",
+    "nationality": [
+      "Morocco",
+      "France"
+    ],
+    "market_value": "€20.00m"
+  },
+  {
+    "id": "1012564",
+    "name": "Rayan",
+    "position": "Right Winger",
+    "number": "37",
+    "age": "19",
+    "nationality": [
+      "Brazil"
+    ],
+    "market_value": "€40.00m"
+  },
+  {
+    "id": "719673",
+    "name": "Ben Gannon-Doak",
+    "position": "Right Winger",
+    "number": "11",
+    "age": "20",
+    "nationality": [
+      "Scotland"
+    ],
+    "market_value": "€16.00m"
+  },
+  {
     "id": "277033",
     "name": "David Brooks",
     "position": "Right Winger",
@@ -124,6 +260,18 @@
       "England"
     ],
     "market_value": "€14.00m"
+  },
+  {
+    "id": "955357",
+    "name": "Junior Kroupi",
+    "position": "Centre-Forward",
+    "number": "22",
+    "age": "19",
+    "nationality": [
+      "France",
+      "Portugal"
+    ],
+    "market_value": "€40.00m"
   },
   {
     "id": "711337",

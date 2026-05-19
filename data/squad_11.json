@@ -11,6 +11,29 @@
     "market_value": "€35.00m"
   },
   {
+    "id": "192279",
+    "name": "Kepa Arrizabalaga",
+    "position": "Goalkeeper",
+    "number": "13",
+    "age": "31",
+    "nationality": [
+      "Spain"
+    ],
+    "market_value": "€7.00m"
+  },
+  {
+    "id": "848753",
+    "name": "Tommy Setford",
+    "position": "Goalkeeper",
+    "number": "35",
+    "age": "20",
+    "nationality": [
+      "England",
+      "Netherlands"
+    ],
+    "market_value": "-"
+  },
+  {
     "id": "495666",
     "name": "William Saliba",
     "position": "Centre-Back",
@@ -32,6 +55,29 @@
       "Brazil"
     ],
     "market_value": "€75.00m"
+  },
+  {
+    "id": "659813",
+    "name": "Piero Hincapié",
+    "position": "Centre-Back",
+    "number": "5",
+    "age": "24",
+    "nationality": [
+      "Ecuador"
+    ],
+    "market_value": "€50.00m"
+  },
+  {
+    "id": "646750",
+    "name": "Cristhian Mosquera",
+    "position": "Centre-Back",
+    "number": "3",
+    "age": "21",
+    "nationality": [
+      "Spain",
+      "Colombia"
+    ],
+    "market_value": "€35.00m"
   },
   {
     "id": "502821",
@@ -80,6 +126,28 @@
     "market_value": "€30.00m"
   },
   {
+    "id": "423440",
+    "name": "Martín Zubimendi",
+    "position": "Defensive Midfield",
+    "number": "36",
+    "age": "27",
+    "nationality": [
+      "Spain"
+    ],
+    "market_value": "€80.00m"
+  },
+  {
+    "id": "148367",
+    "name": "Christian Nørgaard",
+    "position": "Defensive Midfield",
+    "number": "16",
+    "age": "32",
+    "nationality": [
+      "Denmark"
+    ],
+    "market_value": "€7.00m"
+  },
+  {
     "id": "357662",
     "name": "Declan Rice",
     "position": "Central Midfield",
@@ -112,6 +180,18 @@
       "Norway"
     ],
     "market_value": "€65.00m"
+  },
+  {
+    "id": "479999",
+    "name": "Eberechi Eze",
+    "position": "Attacking Midfield",
+    "number": "10",
+    "age": "27",
+    "nationality": [
+      "England",
+      "Nigeria"
+    ],
+    "market_value": "€60.00m"
   },
   {
     "id": "655488",
@@ -147,6 +227,41 @@
       "Nigeria"
     ],
     "market_value": "€120.00m"
+  },
+  {
+    "id": "503987",
+    "name": "Noni Madueke",
+    "position": "Right Winger",
+    "number": "20",
+    "age": "24",
+    "nationality": [
+      "England",
+      "Nigeria"
+    ],
+    "market_value": "€50.00m"
+  },
+  {
+    "id": "1187629",
+    "name": "Max Dowman",
+    "position": "Right Winger",
+    "number": "56",
+    "age": "16",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€20.00m"
+  },
+  {
+    "id": "325443",
+    "name": "Viktor Gyökeres",
+    "position": "Centre-Forward",
+    "number": "14",
+    "age": "27",
+    "nationality": [
+      "Sweden",
+      "Hungary"
+    ],
+    "market_value": "€65.00m"
   },
   {
     "id": "309400",

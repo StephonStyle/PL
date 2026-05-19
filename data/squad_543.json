@@ -33,6 +33,17 @@
     "market_value": "€1.00m"
   },
   {
+    "id": "345911",
+    "name": "Ladislav Krejčí",
+    "position": "Centre-Back",
+    "number": "37",
+    "age": "27",
+    "nationality": [
+      "Czech Republic"
+    ],
+    "market_value": "€22.00m"
+  },
+  {
     "id": "606718",
     "name": "Toti",
     "position": "Centre-Back",
@@ -66,6 +77,51 @@
       "Italy"
     ],
     "market_value": "€10.00m"
+  },
+  {
+    "id": "698678",
+    "name": "Hugo Bueno",
+    "position": "Left-Back",
+    "number": "3",
+    "age": "23",
+    "nationality": [
+      "Spain"
+    ],
+    "market_value": "€12.00m"
+  },
+  {
+    "id": "661427",
+    "name": "David Møller Wolfe",
+    "position": "Left-Back",
+    "number": "6",
+    "age": "24",
+    "nationality": [
+      "Norway"
+    ],
+    "market_value": "€10.00m"
+  },
+  {
+    "id": "848509",
+    "name": "Jackson Tchatchoua",
+    "position": "Right-Back",
+    "number": "38",
+    "age": "24",
+    "nationality": [
+      "Cameroon",
+      "Belgium"
+    ],
+    "market_value": "€12.00m"
+  },
+  {
+    "id": "1193867",
+    "name": "Pedro Lima",
+    "position": "Right-Back",
+    "number": "17",
+    "age": "19",
+    "nationality": [
+      "Brazil"
+    ],
+    "market_value": "€4.00m"
   },
   {
     "id": "171679",
@@ -124,6 +180,30 @@
     "market_value": "€15.00m"
   },
   {
+    "id": "1230661",
+    "name": "Mateus Mané",
+    "position": "Attacking Midfield",
+    "number": "36",
+    "age": "18",
+    "nationality": [
+      "Portugal",
+      "England"
+    ],
+    "market_value": "€20.00m"
+  },
+  {
+    "id": "392770",
+    "name": "Angel Gomes",
+    "position": "Attacking Midfield",
+    "number": "47",
+    "age": "25",
+    "nationality": [
+      "England",
+      "Portugal"
+    ],
+    "market_value": "€12.00m"
+  },
+  {
     "id": "1060740",
     "name": "Enso González",
     "position": "Left Winger",
@@ -133,6 +213,28 @@
       "Paraguay"
     ],
     "market_value": "€3.00m"
+  },
+  {
+    "id": "683571",
+    "name": "Tolu Arokodare",
+    "position": "Centre-Forward",
+    "number": "14",
+    "age": "25",
+    "nationality": [
+      "Nigeria"
+    ],
+    "market_value": "€22.00m"
+  },
+  {
+    "id": "250426",
+    "name": "Adam Armstrong",
+    "position": "Centre-Forward",
+    "number": "9",
+    "age": "29",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€8.00m"
   },
   {
     "id": "292246",

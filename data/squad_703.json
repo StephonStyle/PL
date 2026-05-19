@@ -1,5 +1,29 @@
 [
   {
+    "id": "432914",
+    "name": "John Victor",
+    "position": "Goalkeeper",
+    "number": "13",
+    "age": "30",
+    "nationality": [
+      "Brazil",
+      "Portugal"
+    ],
+    "market_value": "€7.00m"
+  },
+  {
+    "id": "85941",
+    "name": "Stefan Ortega",
+    "position": "Goalkeeper",
+    "number": "27",
+    "age": "33",
+    "nationality": [
+      "Germany",
+      "Spain"
+    ],
+    "market_value": "€5.00m"
+  },
+  {
     "id": "127202",
     "name": "Matz Sels",
     "position": "Goalkeeper",
@@ -9,6 +33,18 @@
       "Belgium"
     ],
     "market_value": "€4.00m"
+  },
+  {
+    "id": "201574",
+    "name": "Angus Gunn",
+    "position": "Goalkeeper",
+    "number": "18",
+    "age": "30",
+    "nationality": [
+      "Scotland",
+      "England"
+    ],
+    "market_value": "€1.50m"
   },
   {
     "id": "1005649",
@@ -44,6 +80,28 @@
     "market_value": "€14.00m"
   },
   {
+    "id": "984096",
+    "name": "Jair Cunha",
+    "position": "Centre-Back",
+    "number": "23",
+    "age": "21",
+    "nationality": [
+      "Brazil"
+    ],
+    "market_value": "€12.00m"
+  },
+  {
+    "id": "933017",
+    "name": "Zach Abbott",
+    "position": "Centre-Back",
+    "number": "44",
+    "age": "20",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€3.00m"
+  },
+  {
     "id": "142310",
     "name": "Willy Boly",
     "position": "Centre-Back",
@@ -67,6 +125,17 @@
     "market_value": "€25.00m"
   },
   {
+    "id": "524285",
+    "name": "Luca Netz",
+    "position": "Left-Back",
+    "number": "25",
+    "age": "23",
+    "nationality": [
+      "Germany"
+    ],
+    "market_value": "€6.00m"
+  },
+  {
     "id": "236490",
     "name": "Ola Aina",
     "position": "Right-Back",
@@ -77,6 +146,29 @@
       "England"
     ],
     "market_value": "€20.00m"
+  },
+  {
+    "id": "708072",
+    "name": "Nicolò Savona",
+    "position": "Right-Back",
+    "number": "37",
+    "age": "23",
+    "nationality": [
+      "Italy"
+    ],
+    "market_value": "€18.00m"
+  },
+  {
+    "id": "897481",
+    "name": "Eric da Silva Moreira",
+    "position": "Right-Back",
+    "number": "17",
+    "age": "20",
+    "nationality": [
+      "Germany",
+      "Portugal"
+    ],
+    "market_value": "€1.00m"
   },
   {
     "id": "375885",
@@ -137,6 +229,29 @@
     "market_value": "€60.00m"
   },
   {
+    "id": "741238",
+    "name": "Omari Hutchinson",
+    "position": "Attacking Midfield",
+    "number": "21",
+    "age": "22",
+    "nationality": [
+      "England",
+      "Jamaica"
+    ],
+    "market_value": "€30.00m"
+  },
+  {
+    "id": "583199",
+    "name": "James McAtee",
+    "position": "Attacking Midfield",
+    "number": "24",
+    "age": "23",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€20.00m"
+  },
+  {
     "id": "392768",
     "name": "Callum Hudson-Odoi",
     "position": "Left Winger",
@@ -147,6 +262,53 @@
       "Ghana"
     ],
     "market_value": "€30.00m"
+  },
+  {
+    "id": "365108",
+    "name": "Dan Ndoye",
+    "position": "Right Winger",
+    "number": "14",
+    "age": "25",
+    "nationality": [
+      "Switzerland",
+      "Senegal"
+    ],
+    "market_value": "€35.00m"
+  },
+  {
+    "id": "540664",
+    "name": "Dilane Bakwa",
+    "position": "Right Winger",
+    "number": "29",
+    "age": "23",
+    "nationality": [
+      "France",
+      "DR Congo"
+    ],
+    "market_value": "€28.00m"
+  },
+  {
+    "id": "572265",
+    "name": "Lorenzo Lucca",
+    "position": "Centre-Forward",
+    "number": "20",
+    "age": "25",
+    "nationality": [
+      "Italy"
+    ],
+    "market_value": "€25.00m"
+  },
+  {
+    "id": "432164",
+    "name": "Igor Jesus",
+    "position": "Centre-Forward",
+    "number": "19",
+    "age": "25",
+    "nationality": [
+      "Brazil",
+      "United Arab Emirates"
+    ],
+    "market_value": "€22.00m"
   },
   {
     "id": "295313",

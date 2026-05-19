@@ -1,6 +1,6 @@
 {
   "league": "Premier League",
-  "season": "2024/2025",
+  "season": "2025/2026",
   "teams": [
     {
       "id": "11",
@@ -103,6 +103,6 @@
       "player_count": 0
     }
   ],
-  "total_players": 302,
-  "last_updated": "2026-05-19 00:42:32"
+  "total_players": 527,
+  "last_updated": "2026-05-19 10:59:36"
 }

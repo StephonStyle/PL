@@ -16,6 +16,7 @@
   --shadow: 0 4px 24px rgba(0,0,0,0.5);
   --font: -apple-system,"PingFang SC","Microsoft YaHei","Noto Sans SC",sans-serif;
   --font-en: "Inter",-apple-system,sans-serif;
+  --header-h: 48px;
 }
 *{margin:0;padding:0;box-sizing:border-box;}
 body{
@@ -23,12 +24,12 @@ body{
   min-height:100vh;padding-bottom:76px;
   -webkit-font-smoothing:antialiased;
 }
-/* Header */
 .header{
   position:sticky;top:0;z-index:100;
   background:linear-gradient(135deg,#0b0e17 0%,#0f1525 100%);
   padding:12px 16px;border-bottom:1px solid var(--border);
   display:flex;align-items:center;gap:8px;
+  height:var(--header-h);
 }
 .header h1{
   font-size:20px;font-weight:800;
@@ -45,17 +46,16 @@ body{
 }
 .search-bar:focus{border-color:var(--primary-dim);}
 .search-bar::placeholder{color:var(--text2);}
-/* Back bar */
 .back-bar{
   display:none;padding:6px 16px;background:var(--card);
   border-bottom:1px solid var(--border);align-items:center;gap:8px;
+  position:sticky;top:var(--header-h);z-index:99;
 }
 .back-bar.show{display:flex;}
 .back-btn{
   background:none;border:none;color:var(--text2);font-size:16px;cursor:pointer;padding:4px;
 }
 .back-bar .title{font-size:13px;font-weight:600;flex:1;}
-/* Tabs */
 .tabs{
   position:fixed;bottom:0;left:0;right:0;z-index:100;
   background:linear-gradient(0deg,#0b0e17,rgba(11,14,23,0.98));
@@ -65,14 +65,11 @@ body{
 .tab{flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;padding:6px 0 4px;cursor:pointer;color:var(--text2);font-size:10px;transition:color .2s;border:none;background:none;}
 .tab.active{color:var(--primary);}
 .tab .icon{font-size:20px;line-height:1.2;}
-/* Content */
 .content{display:none;padding:12px 14px;}
 .content.active{display:block;}
-/* Loading */
 .loading{text-align:center;padding:60px 20px;color:var(--text2);}
 .loading .spin{display:inline-block;width:32px;height:32px;border:3px solid var(--card2);border-top-color:var(--primary);border-radius:50%;animation:spin .8s linear infinite;margin-bottom:12px;}
 @keyframes spin{to{transform:rotate(360deg)}}
-/* Cards */
 .card{
   background:var(--card);border-radius:var(--radius);padding:14px 16px;
   margin-bottom:10px;border:1px solid var(--border);
@@ -91,7 +88,6 @@ body{
 .team-name{font-size:15px;font-weight:700;}
 .team-meta{font-size:11px;color:var(--text2);margin-top:2px;}
 .team-value{font-size:14px;font-weight:700;color:var(--gold);white-space:nowrap;}
-/* Player row */
 .player-row{
   display:flex;align-items:center;gap:10px;
 }
@@ -111,7 +107,6 @@ body{
 .player-value{font-size:13px;font-weight:700;color:var(--gold);white-space:nowrap;}
 .value-up{color:var(--primary);}
 .value-down{color:var(--red);}
-/* Stats box */
 .stats-grid{
   display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-bottom:14px;
 }
@@ -122,10 +117,7 @@ body{
 .stat-box .num{font-size:22px;font-weight:800;}
 .stat-box .label{font-size:10px;color:var(--text2);margin-top:2px;}
 .stat-box .num.gold{color:var(--gold);}
-/* Search results */
-.search-result{animation:fadeIn .2s ease;}
 @keyframes fadeIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
-/* Player detail */
 .detail-header{text-align:center;padding:20px 0 16px;}
 .detail-header .big-avatar{
   width:72px;height:72px;border-radius:50%;margin:0 auto 10px;
@@ -144,10 +136,8 @@ body{
 .transfer-row .tf-date{color:var(--text2);width:70px;flex-shrink:0;}
 .transfer-row .tf-club{flex:1;min-width:0;}
 .transfer-row .tf-fee{text-align:right;font-weight:600;color:var(--gold);white-space:nowrap;}
-/* Team detail */
 .position-group{margin-bottom:16px;}
 .position-group .pos-title{font-size:12px;font-weight:700;color:var(--text2);text-transform:uppercase;letter-spacing:1px;margin-bottom:6px;padding-left:4px;}
-/* Filter chips */
 .filter-row{display:flex;gap:6px;margin-bottom:12px;flex-wrap:wrap;}
 .chip{
   padding:4px 12px;border-radius:16px;font-size:11px;font-weight:600;
@@ -155,7 +145,6 @@ body{
   cursor:pointer;transition:all .2s;
 }
 .chip.active{background:var(--primary-dim);border-color:var(--primary);color:var(--primary);}
-/* Toast */
 .toast{
   position:fixed;bottom:90px;left:50%;transform:translateX(-50%);
   background:var(--card2);color:var(--text);padding:10px 20px;
@@ -164,17 +153,14 @@ body{
   animation:toastIn .3s ease;
 }
 @keyframes toastIn{from{opacity:0;transform:translateX(-50%) translateY(20px)}to{opacity:1;transform:translateX(-50%) translateY(0)}}
-/* Value display */
 .value-tag{
   display:inline-block;padding:2px 8px;border-radius:6px;
   font-size:11px;font-weight:700;
 }
 .value-tag.gold{background:var(--gold-dim);color:var(--gold);}
 .value-tag.green{background:var(--primary-dim);color:var(--primary);}
-/* Empty state */
 .empty-state{text-align:center;padding:40px 20px;color:var(--text2);}
 .empty-state .icon{font-size:40px;margin-bottom:10px;opacity:.5;}
-/* Scrollable */
 .scroll-x{overflow-x:auto;-webkit-overflow-scrolling:touch;}
 @media(min-width:600px){.content{max-width:640px;margin:0 auto;}}
 </style>
@@ -201,7 +187,6 @@ body{
 </div>
 
 <script>
-// ======================== STATE ========================
 const TEAM_COLORS = {
   'Arsenal': ['#ef0107','#db0007'], 'Aston Villa': ['#670e36','#95bfe5'],
   'Bournemouth': ['#b50e2c','#000'], 'Brentford': ['#d40000','#fff'],
@@ -243,7 +228,6 @@ async function loadData(){
     ]);
     teams = t; players = p; summary = s;
 
-    // Build player lookup by team (fallback if details didn't load)
     if (players.length === 0 && teams.length > 0) {
       for (const team of teams) {
         if (team.players) {
@@ -257,9 +241,8 @@ async function loadData(){
     }
 
     renderAll();
-
     if (teams.length > 0) {
-      showToast('✅ 数据加载完成 · ' + teams.length + '队 ' + players.length + '名球员');
+      showToast('✅ ' + teams.length + '队 ' + players.length + '名球员 · 2025/26赛季');
     }
   } catch(e) {
     document.querySelectorAll('.content').forEach(el => {
@@ -274,12 +257,25 @@ function tc(name){
   return 'background:'+c[0]+';color:'+c[1];
 }
 function ts(name){ return TEAM_SHORT[name] || name.slice(0,3).toUpperCase(); }
-function formatMV(mv){
+
+function formatPlayerValue(mv){
   if (!mv || mv === '-') return '—';
-  let n = parseFloat(mv.replace(/[€mMkKbB,\s]/g,''));
-  if (mv.includes('k')) return (n/1000).toFixed(1)+'m';
-  return mv;
+  let num = parseFloat(mv.replace(/[€mMkKbB,\s]/g,''));
+  if (mv.includes('B')) return '€' + (num * 1000).toFixed(0) + 'M';
+  if (mv.includes('k')) return '€' + (num / 1000).toFixed(2) + 'M';
+  return '€' + (Number.isInteger(num) ? num.toFixed(0) : num.toFixed(1)) + 'M';
 }
+
+function teamTotalValue(t){
+  if (!t.players) return '';
+  let total = 0;
+  for (const p of t.players) {
+    const v = parseFloat((p.market_value||'').replace(/[€mMkK,\s]/g,''));
+    if (!isNaN(v)) total += v;
+  }
+  return '€' + (total / 1000).toFixed(2) + 'B';
+}
+
 function getPositionGroup(pos){
   if (!pos) return 'Midfield';
   for (const [group, values] of Object.entries(POS_MAP)) {
@@ -298,15 +294,20 @@ function playerAge(birthInfo){
   }
   return '';
 }
-function teamTotalValue(t){
-  if (!t.players) return '';
-  let total = 0;
-  for (const p of t.players) {
-    const v = parseFloat((p.market_value||'').replace(/[€mMkK,\s]/g,''));
-    if (!isNaN(v)) total += v;
-  }
-  if (total > 1000) return '€'+(total/1000).toFixed(2)+'B';
-  return '€'+total.toFixed(0)+'m';
+
+function playerCardHTML(p){
+  const age = playerAge(p.birth_date);
+  return `<div class="card" onclick="showPlayer('${p.id}')">
+    <div class="player-row">
+      <div class="player-num">${p.number||''}</div>
+      <div class="player-avatar" style="background:var(--blue-dim);color:var(--blue);font-size:12px;">${(p.cn_name||p.name.charAt(0))}</div>
+      <div class="player-info">
+        <div class="player-name">${p.name}<span class="cn">${p.cn_name||''}</span></div>
+        <div class="player-meta">${p.position||''}${age?' · '+age:''}</div>
+      </div>
+      <div class="player-value">${formatPlayerValue(p.market_value)}</div>
+    </div>
+  </div>`;
 }
 
 // ======================== ROUTING ========================
@@ -356,7 +357,7 @@ function renderOverview(){
     <div class="stats-grid">
       <div class="stat-box"><div class="num gold">${teams.length}</div><div class="label">🏆 球队</div></div>
       <div class="stat-box"><div class="num gold">${players.length}</div><div class="label">👤 球员</div></div>
-      <div class="stat-box"><div class="num gold">2024/25</div><div class="label">📅 赛季</div></div>
+      <div class="stat-box"><div class="num gold">2025/26</div><div class="label">📅 赛季</div></div>
     </div>
     <div style="font-size:13px;font-weight:600;margin-bottom:8px;padding-left:4px;">📋 球队总身价排名</div>
     ${sorted.map(t => {
@@ -415,7 +416,6 @@ function renderPlayers(){
     );
   }
 
-  // Sort by market value descending
   filtered = [...filtered].sort((a,b) => {
     const va = parseFloat((b.market_value||'').replace(/[€mMkK,\s]/g,''))||0;
     const vb = parseFloat((a.market_value||'').replace(/[€mMkK,\s]/g,''))||0;
@@ -423,7 +423,7 @@ function renderPlayers(){
   });
 
   el.innerHTML = `<div style="font-size:13px;font-weight:600;margin-bottom:8px;padding-left:4px;">👤 ${q ? '搜索结果' : '全部球员（按身价）'}</div>
-    ${filtered.slice(0, 200).map(p => {
+    ${filtered.slice(0, 300).map(p => {
       const pos = p.position || '';
       const age = playerAge(p.birth_date);
       return `<div class="card" onclick="showPlayer('${p.id}')">
@@ -433,11 +433,11 @@ function renderPlayers(){
             <div class="player-name">${p.name}<span class="cn">${p.cn_name||''}</span></div>
             <div class="player-meta">${p.team_name||''} ${pos?' · '+pos:''} ${age?' · '+age:''}</div>
           </div>
-          <div class="player-value">${p.market_value||'—'}</div>
+          <div class="player-value">${formatPlayerValue(p.market_value)}</div>
         </div>
       </div>`;
     }).join('')}
-    ${filtered.length === 0 ? '<div class="empty-state"><div class="icon">🔍</div><p>未找到匹配球员</p></div>' : filtered.length > 200 ? '<div style="text-align:center;padding:12px;color:var(--text2);font-size:12px;">仅显示前200名，使用搜索缩小范围</div>' : ''}`;
+    ${filtered.length === 0 ? '<div class="empty-state"><div class="icon">🔍</div><p>未找到匹配球员</p></div>' : filtered.length > 300 ? '<div style="text-align:center;padding:12px;color:var(--text2);font-size:12px;">仅显示前300名，使用搜索缩小范围</div>' : ''}`;
 }
 
 // ======================== DETAIL VIEWS ========================
@@ -461,7 +461,6 @@ function showTeam(tid){
       <div class="name">${t.name}</div>
       <div class="team-label">${squad.length}名球员 · 总身价 ${teamTotalValue(t)}</div>
     </div>
-
     <div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px;">
       <div class="chip active" onclick="filterTeamPos(this,'${tid}','all')">全部</div>
       ${POS_ORDER.map(g => `<div class="chip" onclick="filterTeamPos(this,'${tid}','${g}')">${g==='Goalkeeper'?'门将':g==='Defender'?'后卫':g==='Midfield'?'中场':'前锋'}</div>`).join('')}
@@ -472,20 +471,7 @@ function showTeam(tid){
       if (!ps.length) return '';
       return `<div class="position-group">
         <div class="pos-title">${g==='Goalkeeper'?'🧤 门将':g==='Defender'?'🛡️ 后卫':g==='Midfield'?'🎯 中场':'⚡ 前锋'} (${ps.length})</div>
-        ${ps.map(p => {
-          const age = playerAge(p.birth_date);
-          return `<div class="card" onclick="showPlayer('${p.id}')">
-            <div class="player-row">
-              <div class="player-num">${p.number||''}</div>
-              <div class="player-avatar" style="background:var(--blue-dim);color:var(--blue);font-size:12px;">${(p.cn_name||p.name.charAt(0))}</div>
-              <div class="player-info">
-                <div class="player-name">${p.name}<span class="cn">${p.cn_name||''}</span></div>
-                <div class="player-meta">${p.position||''}${age?' · '+age:''}</div>
-              </div>
-              <div class="player-value">${p.market_value||'—'}</div>
-            </div>
-          </div>`;
-        }).join('')}
+        ${ps.map(p => playerCardHTML(p)).join('')}
       </div>`;
     }).join('')}
     </div>`;
@@ -497,25 +483,33 @@ function filterTeamPos(btn, tid, pos){
 
   const t = teams.find(x => x.id === tid);
   if (!t) return;
+
   let squad = t.players || [];
-  if (pos !== 'all') squad = squad.filter(p => getPositionGroup(p.position) === pos);
+  if (pos !== 'all') {
+    squad = squad.filter(p => getPositionGroup(p.position) === pos);
+  }
 
   const el = document.getElementById('teamSquad');
-  el.innerHTML = squad.map(p => {
-    const age = playerAge(p.birth_date);
-    return `<div class="card" onclick="showPlayer('${p.id}')">
-      <div class="player-row">
-        <div class="player-num">${p.number||''}</div>
-        <div class="player-avatar" style="background:var(--blue-dim);color:var(--blue);font-size:12px;">${(p.cn_name||p.name.charAt(0))}</div>
-        <div class="player-info">
-          <div class="player-name">${p.name}<span class="cn">${p.cn_name||''}</span></div>
-          <div class="player-meta">${p.position||''}${age?' · '+age:''}</div>
-        </div>
-        <div class="player-value">${p.market_value||'—'}</div>
-      </div>
-    </div>`;
-  }).join('');
-  if (!squad.length) el.innerHTML = '<div class="empty-state"><div class="icon">🔍</div><p>该位置暂无球员</p></div>';
+  if (pos === 'all') {
+    // Restore grouped layout
+    const byPos = {};
+    for (const p of squad) {
+      const g = getPositionGroup(p.position);
+      if (!byPos[g]) byPos[g] = [];
+      byPos[g].push(p);
+    }
+    el.innerHTML = POS_ORDER.map(g => {
+      const ps = byPos[g] || [];
+      if (!ps.length) return '';
+      return `<div class="position-group">
+        <div class="pos-title">${g==='Goalkeeper'?'🧤 门将':g==='Defender'?'🛡️ 后卫':g==='Midfield'?'🎯 中场':'⚡ 前锋'} (${ps.length})</div>
+        ${ps.map(p => playerCardHTML(p)).join('')}
+      </div>`;
+    }).join('');
+  } else {
+    el.innerHTML = squad.map(p => playerCardHTML(p)).join('');
+    if (!squad.length) el.innerHTML = '<div class="empty-state"><div class="icon">🔍</div><p>该位置暂无球员</p></div>';
+  }
 }
 
 function showPlayer(pid){
@@ -526,14 +520,13 @@ function showPlayer(pid){
   const tname = p.team_name || '';
   const el = document.getElementById('overviewContent');
 
-  // Build info items
   const infoItems = [
     {label:'国籍', value: (p.nationality||[]).join(', ') || '—'},
     {label:'出生日期', value: p.birth_date || '—'},
     {label:'出生地', value: p.birth_place || '—'},
     {label:'身高', value: p.height || '—'},
     {label:'惯用脚', value: p.foot || '—'},
-    {label:'身价', value: p.market_value || '—'},
+    {label:'身价', value: formatPlayerValue(p.market_value)},
     {label:'合同到期', value: p.contract_expiry || '—'},
     {label:'经纪人', value: p.agent || '—'},
   ];
@@ -579,7 +572,6 @@ function showToast(m){
 document.addEventListener('DOMContentLoaded', () => {
   loadData();
 
-  // Tab switching
   document.querySelectorAll('.tab').forEach(tab => {
     tab.addEventListener('click', () => {
       if (viewStack.length > 0) {
@@ -595,10 +587,8 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
-  // Back button
   document.getElementById('backBtn').addEventListener('click', goBack);
 
-  // Search — switches to Players tab and filters
   document.getElementById('searchBar').addEventListener('input', () => {
     if (viewStack.length > 0) {
       viewStack = [];

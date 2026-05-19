@@ -1,5 +1,39 @@
 [
   {
+    "id": "315858",
+    "name": "Gianluigi Donnarumma",
+    "position": "Goalkeeper",
+    "number": "25",
+    "age": "27",
+    "nationality": [
+      "Italy"
+    ],
+    "market_value": "€45.00m"
+  },
+  {
+    "id": "566799",
+    "name": "James Trafford",
+    "position": "Goalkeeper",
+    "number": "1",
+    "age": "23",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€25.00m"
+  },
+  {
+    "id": "116648",
+    "name": "Marcus Bettinelli",
+    "position": "Goalkeeper",
+    "number": "13",
+    "age": "33",
+    "nationality": [
+      "England",
+      "Italy"
+    ],
+    "market_value": "€500k"
+  },
+  {
     "id": "475959",
     "name": "Josko Gvardiol",
     "position": "Centre-Back",
@@ -9,6 +43,18 @@
       "Croatia"
     ],
     "market_value": "€70.00m"
+  },
+  {
+    "id": "392757",
+    "name": "Marc Guéhi",
+    "position": "Centre-Back",
+    "number": "15",
+    "age": "25",
+    "nationality": [
+      "England",
+      "Cote d'Ivoire"
+    ],
+    "market_value": "€65.00m"
   },
   {
     "id": "258004",
@@ -33,6 +79,17 @@
     "market_value": "€35.00m"
   },
   {
+    "id": "186590",
+    "name": "John Stones",
+    "position": "Centre-Back",
+    "number": "5",
+    "age": "31",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€15.00m"
+  },
+  {
     "id": "177476",
     "name": "Nathan Aké",
     "position": "Centre-Back",
@@ -45,6 +102,18 @@
     "market_value": "€15.00m"
   },
   {
+    "id": "843595",
+    "name": "Max Alleyne",
+    "position": "Centre-Back",
+    "number": "68",
+    "age": "20",
+    "nationality": [
+      "England",
+      "Barbados"
+    ],
+    "market_value": "€8.00m"
+  },
+  {
     "id": "743413",
     "name": "Nico O'Reilly",
     "position": "Left-Back",
@@ -55,6 +124,18 @@
       "Jamaica"
     ],
     "market_value": "€50.00m"
+  },
+  {
+    "id": "578391",
+    "name": "Rayan Aït-Nouri",
+    "position": "Left-Back",
+    "number": "21",
+    "age": "24",
+    "nationality": [
+      "Algeria",
+      "France"
+    ],
+    "market_value": "€40.00m"
   },
   {
     "id": "601883",
@@ -103,6 +184,28 @@
     "market_value": "€45.00m"
   },
   {
+    "id": "460939",
+    "name": "Tijjani Reijnders",
+    "position": "Central Midfield",
+    "number": "4",
+    "age": "27",
+    "nationality": [
+      "Netherlands"
+    ],
+    "market_value": "€60.00m"
+  },
+  {
+    "id": "911736",
+    "name": "Sverre Nypan",
+    "position": "Central Midfield",
+    "number": "41",
+    "age": "19",
+    "nationality": [
+      "Norway"
+    ],
+    "market_value": "€15.00m"
+  },
+  {
     "id": "51471",
     "name": "Mateo Kovacic",
     "position": "Central Midfield",
@@ -123,6 +226,29 @@
       "England"
     ],
     "market_value": "€80.00m"
+  },
+  {
+    "id": "607223",
+    "name": "Rayan Cherki",
+    "position": "Attacking Midfield",
+    "number": "10",
+    "age": "22",
+    "nationality": [
+      "France",
+      "Algeria"
+    ],
+    "market_value": "€65.00m"
+  },
+  {
+    "id": "241641",
+    "name": "Bernardo Silva",
+    "position": "Attacking Midfield",
+    "number": "20",
+    "age": "31",
+    "nationality": [
+      "Portugal"
+    ],
+    "market_value": "€27.00m"
   },
   {
     "id": "486049",
@@ -146,6 +272,18 @@
       "Brazil"
     ],
     "market_value": "€40.00m"
+  },
+  {
+    "id": "583255",
+    "name": "Antoine Semenyo",
+    "position": "Right Winger",
+    "number": "42",
+    "age": "26",
+    "nationality": [
+      "Ghana",
+      "England"
+    ],
+    "market_value": "€75.00m"
   },
   {
     "id": "418560",

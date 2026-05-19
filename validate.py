@@ -119,10 +119,10 @@ if teams:
 
     avg = total_players / len(teams)
     for name, cnt in counts:
-        if cnt < 5:
-            err(f"{name} only has {cnt} players (very low)")
-        elif cnt < 8:
-            warn(f"{name} only has {cnt} players (low)")
+        if cnt < 18:
+            warn(f"{name} only has {cnt} players (small squad)")
+        elif cnt < 15:
+            err(f"{name} only has {cnt} players (very small)")
 
 print("\n========== PLAYER DETAILS VALIDATION ==========\n")
 

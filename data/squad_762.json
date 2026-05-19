@@ -1,5 +1,16 @@
 [
   {
+    "id": "427568",
+    "name": "Aaron Ramsdale",
+    "position": "Goalkeeper",
+    "number": "32",
+    "age": "28",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€12.00m"
+  },
+  {
     "id": "192080",
     "name": "Nick Pope",
     "position": "Goalkeeper",
@@ -31,6 +42,18 @@
       "England"
     ],
     "market_value": "€100k"
+  },
+  {
+    "id": "521964",
+    "name": "Malick Thiaw",
+    "position": "Centre-Back",
+    "number": "12",
+    "age": "24",
+    "nationality": [
+      "Germany",
+      "Finland"
+    ],
+    "market_value": "€45.00m"
   },
   {
     "id": "361093",
@@ -77,6 +100,17 @@
     "market_value": "€35.00m"
   },
   {
+    "id": "900601",
+    "name": "Alex Murphy",
+    "position": "Left-Back",
+    "number": "37",
+    "age": "21",
+    "nationality": [
+      "Ireland"
+    ],
+    "market_value": "€1.50m"
+  },
+  {
     "id": "503981",
     "name": "Tino Livramento",
     "position": "Right-Back",
@@ -87,6 +121,28 @@
       "Scotland"
     ],
     "market_value": "€40.00m"
+  },
+  {
+    "id": "95810",
+    "name": "Kieran Trippier",
+    "position": "Right-Back",
+    "number": "2",
+    "age": "35",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€2.50m"
+  },
+  {
+    "id": "184528",
+    "name": "Emil Krafth",
+    "position": "Right-Back",
+    "number": "17",
+    "age": "31",
+    "nationality": [
+      "Sweden"
+    ],
+    "market_value": "€1.00m"
   },
   {
     "id": "397033",
@@ -110,6 +166,17 @@
       "Spain"
     ],
     "market_value": "€75.00m"
+  },
+  {
+    "id": "503749",
+    "name": "Jacob Ramsey",
+    "position": "Central Midfield",
+    "number": "41",
+    "age": "24",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€35.00m"
   },
   {
     "id": "333241",
@@ -169,6 +236,18 @@
     "market_value": "€32.00m"
   },
   {
+    "id": "583189",
+    "name": "Anthony Elanga",
+    "position": "Right Winger",
+    "number": "20",
+    "age": "24",
+    "nationality": [
+      "Sweden",
+      "Cameroon"
+    ],
+    "market_value": "€40.00m"
+  },
+  {
     "id": "199527",
     "name": "Jacob Murphy",
     "position": "Right Winger",
@@ -179,6 +258,29 @@
       "Ireland"
     ],
     "market_value": "€15.00m"
+  },
+  {
+    "id": "455661",
+    "name": "Nick Woltemade",
+    "position": "Centre-Forward",
+    "number": "27",
+    "age": "24",
+    "nationality": [
+      "Germany"
+    ],
+    "market_value": "€65.00m"
+  },
+  {
+    "id": "388165",
+    "name": "Yoane Wissa",
+    "position": "Centre-Forward",
+    "number": "9",
+    "age": "29",
+    "nationality": [
+      "DR Congo",
+      "France"
+    ],
+    "market_value": "€30.00m"
   },
   {
     "id": "609556",

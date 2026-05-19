@@ -10,21 +10,39 @@
     ],
     "market_value": "€35.00m",
     "team_id": "11",
-    "team_name": "Arsenal",
-    "full_name": "David Raya Martín",
-    "birth_date": "15/09/1995",
-    "birth_place": "Barcelona",
-    "height": "1,83 m",
-    "foot": "right",
-    "agent": "FUTBOL21 AGENCY",
-    "club": "Arsenal FC",
-    "joined": "04/07/2024",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Arsenal"
+  },
+  {
+    "id": "192279",
+    "name": "Kepa Arrizabalaga",
+    "position": "Goalkeeper",
+    "number": "13",
+    "age": "31",
+    "nationality": [
+      "Spain"
+    ],
+    "market_value": "€7.00m",
+    "team_id": "11",
+    "team_name": "Arsenal"
+  },
+  {
+    "id": "848753",
+    "name": "Tommy Setford",
+    "position": "Goalkeeper",
+    "number": "35",
+    "age": "20",
+    "nationality": [
+      "England",
+      "Netherlands"
+    ],
+    "market_value": "-",
+    "team_id": "11",
+    "team_name": "Arsenal"
   },
   {
     "id": "495666",
     "name": "William Saliba",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "2",
     "age": "25",
     "nationality": [
@@ -33,21 +51,12 @@
     ],
     "market_value": "€90.00m",
     "team_id": "11",
-    "team_name": "Arsenal",
-    "full_name": "William Alain André Gabriel Saliba",
-    "birth_date": "24/03/2001",
-    "birth_place": "Bondy",
-    "height": "1,92 m",
-    "foot": "right",
-    "agent": "ND SPORTS MANAGEMENT",
-    "club": "Arsenal FC",
-    "joined": "25/07/2019",
-    "contract_expiry": "30/06/2030"
+    "team_name": "Arsenal"
   },
   {
     "id": "435338",
     "name": "Gabriel",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "6",
     "age": "28",
     "nationality": [
@@ -55,21 +64,39 @@
     ],
     "market_value": "€75.00m",
     "team_id": "11",
-    "team_name": "Arsenal",
-    "full_name": "Gabriel dos Santos Magalhães",
-    "birth_date": "19/12/1997",
-    "birth_place": "São Paulo",
-    "height": "1,90 m",
-    "foot": "left",
-    "agent": "Bertolucci Sports",
-    "club": "Arsenal FC",
-    "joined": "01/09/2020",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Arsenal"
+  },
+  {
+    "id": "659813",
+    "name": "Piero Hincapié",
+    "position": "Centre-Back",
+    "number": "5",
+    "age": "24",
+    "nationality": [
+      "Ecuador"
+    ],
+    "market_value": "€50.00m",
+    "team_id": "11",
+    "team_name": "Arsenal"
+  },
+  {
+    "id": "646750",
+    "name": "Cristhian Mosquera",
+    "position": "Centre-Back",
+    "number": "3",
+    "age": "21",
+    "nationality": [
+      "Spain",
+      "Colombia"
+    ],
+    "market_value": "€35.00m",
+    "team_id": "11",
+    "team_name": "Arsenal"
   },
   {
     "id": "502821",
     "name": "Riccardo Calafiori",
-    "position": "Defender - Left-Back",
+    "position": "Left-Back",
     "number": "33",
     "age": "24",
     "nationality": [
@@ -77,20 +104,12 @@
     ],
     "market_value": "€50.00m",
     "team_id": "11",
-    "team_name": "Arsenal",
-    "birth_date": "19/05/2002",
-    "birth_place": "Roma",
-    "height": "1,88 m",
-    "foot": "left",
-    "agent": "World Soccer Agency",
-    "club": "Arsenal FC",
-    "joined": "29/07/2024",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Arsenal"
   },
   {
     "id": "890721",
     "name": "Myles Lewis-Skelly",
-    "position": "Defender - Left-Back",
+    "position": "Left-Back",
     "number": "49",
     "age": "19",
     "nationality": [
@@ -99,21 +118,12 @@
     ],
     "market_value": "€35.00m",
     "team_id": "11",
-    "team_name": "Arsenal",
-    "full_name": "Myles Anthony Lewis-Skelly",
-    "birth_date": "26/09/2006",
-    "birth_place": "London",
-    "height": "1,78 m",
-    "foot": "left",
-    "agent": "Relatives",
-    "club": "Arsenal FC",
-    "joined": "01/07/2024",
-    "contract_expiry": "30/06/2030"
+    "team_name": "Arsenal"
   },
   {
     "id": "420243",
     "name": "Jurriën Timber",
-    "position": "Defender - Right-Back",
+    "position": "Right-Back",
     "number": "12",
     "age": "24",
     "nationality": [
@@ -122,21 +132,12 @@
     ],
     "market_value": "€70.00m",
     "team_id": "11",
-    "team_name": "Arsenal",
-    "full_name": "Jurriën David Norman Timber",
-    "birth_date": "17/06/2001",
-    "birth_place": "Utrecht",
-    "height": "1,79 m",
-    "foot": "right",
-    "agent": "Forza Sports Group",
-    "club": "Arsenal FC",
-    "joined": "14/07/2023",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Arsenal"
   },
   {
     "id": "335721",
     "name": "Ben White",
-    "position": "Defender - Right-Back",
+    "position": "Right-Back",
     "number": "4",
     "age": "28",
     "nationality": [
@@ -144,20 +145,38 @@
     ],
     "market_value": "€30.00m",
     "team_id": "11",
-    "team_name": "Arsenal",
-    "full_name": "Benjamin William White",
-    "birth_date": "08/10/1997",
-    "birth_place": "Poole",
-    "height": "1,86 m",
-    "foot": "right",
-    "club": "Arsenal FC",
-    "joined": "30/07/2021",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Arsenal"
+  },
+  {
+    "id": "423440",
+    "name": "Martín Zubimendi",
+    "position": "Defensive Midfield",
+    "number": "36",
+    "age": "27",
+    "nationality": [
+      "Spain"
+    ],
+    "market_value": "€80.00m",
+    "team_id": "11",
+    "team_name": "Arsenal"
+  },
+  {
+    "id": "148367",
+    "name": "Christian Nørgaard",
+    "position": "Defensive Midfield",
+    "number": "16",
+    "age": "32",
+    "nationality": [
+      "Denmark"
+    ],
+    "market_value": "€7.00m",
+    "team_id": "11",
+    "team_name": "Arsenal"
   },
   {
     "id": "357662",
     "name": "Declan Rice",
-    "position": "Midfield - Central Midfield",
+    "position": "Central Midfield",
     "number": "41",
     "age": "27",
     "nationality": [
@@ -166,20 +185,12 @@
     ],
     "market_value": "€120.00m",
     "team_id": "11",
-    "team_name": "Arsenal",
-    "birth_date": "14/01/1999",
-    "birth_place": "London",
-    "height": "1,88 m",
-    "foot": "right",
-    "agent": "Relatives",
-    "club": "Arsenal FC",
-    "joined": "15/07/2023",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Arsenal"
   },
   {
     "id": "338424",
     "name": "Mikel Merino",
-    "position": "Midfield - Central Midfield",
+    "position": "Central Midfield",
     "number": "23",
     "age": "29",
     "nationality": [
@@ -187,21 +198,12 @@
     ],
     "market_value": "€30.00m",
     "team_id": "11",
-    "team_name": "Arsenal",
-    "full_name": "Mikel Merino Zazón",
-    "birth_date": "22/06/1996",
-    "birth_place": "Pamplona",
-    "height": "1,89 m",
-    "foot": "left",
-    "agent": "Bahía Internacional",
-    "club": "Arsenal FC",
-    "joined": "27/08/2024",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Arsenal"
   },
   {
     "id": "316264",
     "name": "Martin Ødegaard",
-    "position": "Midfield - Attacking Midfield",
+    "position": "Attacking Midfield",
     "number": "8",
     "age": "27",
     "nationality": [
@@ -209,21 +211,26 @@
     ],
     "market_value": "€65.00m",
     "team_id": "11",
-    "team_name": "Arsenal",
-    "full_name": "Martin Ødegaard",
-    "birth_date": "17/12/1998",
-    "birth_place": "Drammen",
-    "height": "1,78 m",
-    "foot": "left",
-    "agent": "Nordic Sky",
-    "club": "Arsenal FC",
-    "joined": "20/08/2021",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Arsenal"
+  },
+  {
+    "id": "479999",
+    "name": "Eberechi Eze",
+    "position": "Attacking Midfield",
+    "number": "10",
+    "age": "27",
+    "nationality": [
+      "England",
+      "Nigeria"
+    ],
+    "market_value": "€60.00m",
+    "team_id": "11",
+    "team_name": "Arsenal"
   },
   {
     "id": "655488",
     "name": "Gabriel Martinelli",
-    "position": "Attack - Left Winger",
+    "position": "Left Winger",
     "number": "11",
     "age": "24",
     "nationality": [
@@ -232,21 +239,12 @@
     ],
     "market_value": "€45.00m",
     "team_id": "11",
-    "team_name": "Arsenal",
-    "full_name": "Gabriel Teodoro Martinelli Silva",
-    "birth_date": "18/06/2001",
-    "birth_place": "Guarulhos",
-    "height": "1,78 m",
-    "foot": "right",
-    "agent": "Roc Nation Sports",
-    "club": "Arsenal FC",
-    "joined": "02/07/2019",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Arsenal"
   },
   {
     "id": "144028",
     "name": "Leandro Trossard",
-    "position": "Attack - Left Winger",
+    "position": "Left Winger",
     "number": "19",
     "age": "31",
     "nationality": [
@@ -254,20 +252,12 @@
     ],
     "market_value": "€20.00m",
     "team_id": "11",
-    "team_name": "Arsenal",
-    "birth_date": "04/12/1994",
-    "birth_place": "Waterschei",
-    "height": "1,72 m",
-    "foot": "right",
-    "agent": "FOKUS",
-    "club": "Arsenal FC",
-    "joined": "20/01/2023",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Arsenal"
   },
   {
     "id": "433177",
     "name": "Bukayo Saka",
-    "position": "Attack - Right Winger",
+    "position": "Right Winger",
     "number": "7",
     "age": "24",
     "nationality": [
@@ -276,20 +266,53 @@
     ],
     "market_value": "€120.00m",
     "team_id": "11",
-    "team_name": "Arsenal",
-    "birth_date": "05/09/2001",
-    "birth_place": "London",
-    "height": "1,78 m",
-    "foot": "left",
-    "agent": "Elite Project Group ...",
-    "club": "Arsenal FC",
-    "joined": "01/07/2019",
-    "contract_expiry": "30/06/2030"
+    "team_name": "Arsenal"
+  },
+  {
+    "id": "503987",
+    "name": "Noni Madueke",
+    "position": "Right Winger",
+    "number": "20",
+    "age": "24",
+    "nationality": [
+      "England",
+      "Nigeria"
+    ],
+    "market_value": "€50.00m",
+    "team_id": "11",
+    "team_name": "Arsenal"
+  },
+  {
+    "id": "1187629",
+    "name": "Max Dowman",
+    "position": "Right Winger",
+    "number": "56",
+    "age": "16",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€20.00m",
+    "team_id": "11",
+    "team_name": "Arsenal"
+  },
+  {
+    "id": "325443",
+    "name": "Viktor Gyökeres",
+    "position": "Centre-Forward",
+    "number": "14",
+    "age": "27",
+    "nationality": [
+      "Sweden",
+      "Hungary"
+    ],
+    "market_value": "€65.00m",
+    "team_id": "11",
+    "team_name": "Arsenal"
   },
   {
     "id": "309400",
     "name": "Kai Havertz",
-    "position": "Attack - Centre-Forward",
+    "position": "Centre-Forward",
     "number": "29",
     "age": "26",
     "nationality": [
@@ -297,21 +320,12 @@
     ],
     "market_value": "€50.00m",
     "team_id": "11",
-    "team_name": "Arsenal",
-    "full_name": "Kai Lukas Havertz",
-    "birth_date": "11/06/1999",
-    "birth_place": "Aachen",
-    "height": "1,93 m",
-    "foot": "left",
-    "agent": "ROOF",
-    "club": "Arsenal FC",
-    "joined": "01/07/2023",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Arsenal"
   },
   {
     "id": "363205",
     "name": "Gabriel Jesus",
-    "position": "Attack - Centre-Forward",
+    "position": "Centre-Forward",
     "number": "9",
     "age": "29",
     "nationality": [
@@ -319,16 +333,7 @@
     ],
     "market_value": "€20.00m",
     "team_id": "11",
-    "team_name": "Arsenal",
-    "full_name": "Gabriel Fernando de Jesus",
-    "birth_date": "03/04/1997",
-    "birth_place": "São Paulo",
-    "height": "1,75 m",
-    "foot": "right",
-    "agent": "Branchini Associati ...",
-    "club": "Arsenal FC",
-    "joined": "04/07/2022",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Arsenal"
   },
   {
     "id": "111873",
@@ -342,21 +347,25 @@
     ],
     "market_value": "€15.00m",
     "team_id": "405",
-    "team_name": "Aston Villa",
-    "full_name": "Damián Emiliano Martínez Romero",
-    "birth_date": "02/09/1992",
-    "birth_place": "Mar del Plata",
-    "height": "1,95 m",
-    "foot": "right",
-    "agent": "Universal Twenty Two",
-    "club": "Aston Villa",
-    "joined": "16/09/2020",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Aston Villa"
+  },
+  {
+    "id": "124884",
+    "name": "Marco Bizot",
+    "position": "Goalkeeper",
+    "number": "40",
+    "age": "35",
+    "nationality": [
+      "Netherlands"
+    ],
+    "market_value": "€2.50m",
+    "team_id": "405",
+    "team_name": "Aston Villa"
   },
   {
     "id": "413403",
     "name": "Ezri Konsa",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "4",
     "age": "28",
     "nationality": [
@@ -365,21 +374,12 @@
     ],
     "market_value": "€40.00m",
     "team_id": "405",
-    "team_name": "Aston Villa",
-    "full_name": "Ezri Konsa Ngoyo",
-    "birth_date": "23/10/1997",
-    "birth_place": "London",
-    "height": "1,83 m",
-    "foot": "right",
-    "agent": "CAA Stellar",
-    "club": "Aston Villa",
-    "joined": "11/07/2019",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Aston Villa"
   },
   {
     "id": "399776",
     "name": "Pau Torres",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "14",
     "age": "29",
     "nationality": [
@@ -387,21 +387,25 @@
     ],
     "market_value": "€22.00m",
     "team_id": "405",
-    "team_name": "Aston Villa",
-    "full_name": "Pau Francisco Torres",
-    "birth_date": "16/01/1997",
-    "birth_place": "Villarreal",
-    "height": "1,92 m",
-    "foot": "left",
-    "agent": "InterStarDeporte",
-    "club": "Aston Villa",
-    "joined": "12/07/2023",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Aston Villa"
+  },
+  {
+    "id": "184573",
+    "name": "Victor Lindelöf",
+    "position": "Centre-Back",
+    "number": "3",
+    "age": "31",
+    "nationality": [
+      "Sweden"
+    ],
+    "market_value": "€6.00m",
+    "team_id": "405",
+    "team_name": "Aston Villa"
   },
   {
     "id": "253677",
     "name": "Tyrone Mings",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "5",
     "age": "33",
     "nationality": [
@@ -409,21 +413,12 @@
     ],
     "market_value": "€4.00m",
     "team_id": "405",
-    "team_name": "Aston Villa",
-    "full_name": "Tyrone Deon Mings",
-    "birth_date": "13/03/1993",
-    "birth_place": "Bath",
-    "height": "1,96 m",
-    "foot": "left",
-    "agent": "THE·TEAM",
-    "club": "Aston Villa",
-    "joined": "08/07/2019",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Aston Villa"
   },
   {
     "id": "485585",
     "name": "Ian Maatsen",
-    "position": "Defender - Left-Back",
+    "position": "Left-Back",
     "number": "22",
     "age": "24",
     "nationality": [
@@ -432,21 +427,12 @@
     ],
     "market_value": "€30.00m",
     "team_id": "405",
-    "team_name": "Aston Villa",
-    "full_name": "Ian Ethan Maatsen",
-    "birth_date": "10/03/2002",
-    "birth_place": "Vlaardingen",
-    "height": "1,78 m",
-    "foot": "left",
-    "agent": "Epic Maatsen",
-    "club": "Aston Villa",
-    "joined": "01/07/2024",
-    "contract_expiry": "30/06/2030"
+    "team_name": "Aston Villa"
   },
   {
     "id": "126664",
     "name": "Lucas Digne",
-    "position": "Defender - Left-Back",
+    "position": "Left-Back",
     "number": "12",
     "age": "32",
     "nationality": [
@@ -454,20 +440,12 @@
     ],
     "market_value": "€8.00m",
     "team_id": "405",
-    "team_name": "Aston Villa",
-    "birth_date": "20/07/1993",
-    "birth_place": "Meaux",
-    "height": "1,78 m",
-    "foot": "left",
-    "agent": "Classico",
-    "club": "Aston Villa",
-    "joined": "13/01/2022",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Aston Villa"
   },
   {
     "id": "425334",
     "name": "Matty Cash",
-    "position": "Defender - Right-Back",
+    "position": "Right-Back",
     "number": "2",
     "age": "28",
     "nationality": [
@@ -476,21 +454,12 @@
     ],
     "market_value": "€22.00m",
     "team_id": "405",
-    "team_name": "Aston Villa",
-    "full_name": "Matthew Stuart Cash",
-    "birth_date": "07/08/1997",
-    "birth_place": "Slough",
-    "height": "1,85 m",
-    "foot": "right",
-    "agent": "Two Touch Agency",
-    "club": "Aston Villa",
-    "joined": "03/09/2020",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Aston Villa"
   },
   {
     "id": "1063329",
     "name": "Andrés García",
-    "position": "Defender - Right-Back",
+    "position": "Right-Back",
     "number": "16",
     "age": "23",
     "nationality": [
@@ -498,21 +467,12 @@
     ],
     "market_value": "€7.00m",
     "team_id": "405",
-    "team_name": "Aston Villa",
-    "full_name": "Andrés García Robledo",
-    "birth_date": "07/02/2003",
-    "birth_place": "València",
-    "height": "1,85 m",
-    "foot": "right",
-    "agent": "InterStarDeporte",
-    "club": "Aston Villa",
-    "joined": "21/01/2025",
-    "contract_expiry": "-"
+    "team_name": "Aston Villa"
   },
   {
     "id": "485706",
     "name": "Amadou Onana",
-    "position": "Midfield - Defensive Midfield",
+    "position": "Defensive Midfield",
     "number": "24",
     "age": "24",
     "nationality": [
@@ -521,21 +481,12 @@
     ],
     "market_value": "€45.00m",
     "team_id": "405",
-    "team_name": "Aston Villa",
-    "full_name": "Amadou Zeund Georges Ba Mvom Onana",
-    "birth_date": "16/08/2001",
-    "birth_place": "Dakar",
-    "height": "1,95 m",
-    "foot": "right",
-    "agent": "BTFM",
-    "club": "Aston Villa",
-    "joined": "22/07/2024",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Aston Villa"
   },
   {
     "id": "394327",
     "name": "Boubacar Kamara",
-    "position": "Midfield - Defensive Midfield",
+    "position": "Defensive Midfield",
     "number": "44",
     "age": "26",
     "nationality": [
@@ -544,21 +495,12 @@
     ],
     "market_value": "€40.00m",
     "team_id": "405",
-    "team_name": "Aston Villa",
-    "full_name": "Boubacar Bernard Kamara",
-    "birth_date": "23/11/1999",
-    "birth_place": "Marseille",
-    "height": "1,84 m",
-    "foot": "right",
-    "agent": "Sport Cover",
-    "club": "Aston Villa",
-    "joined": "01/07/2022",
-    "contract_expiry": "30/06/2030"
+    "team_name": "Aston Villa"
   },
   {
     "id": "645686",
     "name": "Lamare Bogarde",
-    "position": "Midfield - Defensive Midfield",
+    "position": "Defensive Midfield",
     "number": "26",
     "age": "22",
     "nationality": [
@@ -567,21 +509,12 @@
     ],
     "market_value": "€15.00m",
     "team_id": "405",
-    "team_name": "Aston Villa",
-    "full_name": "Lamare Trenton Chansey Bogarde",
-    "birth_date": "05/01/2004",
-    "birth_place": "Rotterdam",
-    "height": "1,85 m",
-    "foot": "right",
-    "agent": "THE·TEAM",
-    "club": "Aston Villa",
-    "joined": "01/07/2024",
-    "contract_expiry": "-"
+    "team_name": "Aston Villa"
   },
   {
     "id": "249565",
     "name": "Youri Tielemans",
-    "position": "Midfield - Central Midfield",
+    "position": "Central Midfield",
     "number": "8",
     "age": "29",
     "nationality": [
@@ -590,20 +523,25 @@
     ],
     "market_value": "€35.00m",
     "team_id": "405",
-    "team_name": "Aston Villa",
-    "birth_date": "07/05/1997",
-    "birth_place": "Sint-Pieters-Leeuw",
-    "height": "1,77 m",
-    "foot": "right",
-    "agent": "Claes Agency",
-    "club": "Aston Villa",
-    "joined": "01/07/2023",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Aston Villa"
+  },
+  {
+    "id": "447661",
+    "name": "Douglas Luiz",
+    "position": "Central Midfield",
+    "number": "21",
+    "age": "28",
+    "nationality": [
+      "Brazil"
+    ],
+    "market_value": "€20.00m",
+    "team_id": "405",
+    "team_name": "Aston Villa"
   },
   {
     "id": "193116",
     "name": "John McGinn",
-    "position": "Midfield - Central Midfield",
+    "position": "Central Midfield",
     "number": "7",
     "age": "31",
     "nationality": [
@@ -611,20 +549,12 @@
     ],
     "market_value": "€15.00m",
     "team_id": "405",
-    "team_name": "Aston Villa",
-    "birth_date": "18/10/1994",
-    "birth_place": "Glasgow",
-    "height": "1,78 m",
-    "foot": "left",
-    "agent": "EAA",
-    "club": "Aston Villa",
-    "joined": "08/08/2018",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Aston Villa"
   },
   {
     "id": "131978",
     "name": "Ross Barkley",
-    "position": "Midfield - Central Midfield",
+    "position": "Central Midfield",
     "number": "6",
     "age": "32",
     "nationality": [
@@ -632,20 +562,12 @@
     ],
     "market_value": "€5.00m",
     "team_id": "405",
-    "team_name": "Aston Villa",
-    "birth_date": "05/12/1993",
-    "birth_place": "Liverpool",
-    "height": "1,89 m",
-    "foot": "right",
-    "agent": "THE·TEAM",
-    "club": "Aston Villa",
-    "joined": "01/07/2024",
-    "contract_expiry": "30/06/2026"
+    "team_name": "Aston Villa"
   },
   {
     "id": "503743",
     "name": "Morgan Rogers",
-    "position": "Midfield - Attacking Midfield",
+    "position": "Attacking Midfield",
     "number": "27",
     "age": "23",
     "nationality": [
@@ -653,21 +575,79 @@
     ],
     "market_value": "€80.00m",
     "team_id": "405",
-    "team_name": "Aston Villa",
-    "full_name": "Morgan Elliot Rogers",
-    "birth_date": "26/07/2002",
-    "birth_place": "Halesowen",
-    "height": "1,87 m",
-    "foot": "right",
-    "agent": "Footwork",
-    "club": "Aston Villa",
-    "joined": "01/02/2024",
-    "contract_expiry": "30/06/2031"
+    "team_name": "Aston Villa"
+  },
+  {
+    "id": "565822",
+    "name": "Harvey Elliott",
+    "position": "Attacking Midfield",
+    "number": "9",
+    "age": "23",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€22.00m",
+    "team_id": "405",
+    "team_name": "Aston Villa"
+  },
+  {
+    "id": "321247",
+    "name": "Emiliano Buendía",
+    "position": "Attacking Midfield",
+    "number": "10",
+    "age": "29",
+    "nationality": [
+      "Argentina",
+      "Spain"
+    ],
+    "market_value": "€18.00m",
+    "team_id": "405",
+    "team_name": "Aston Villa"
+  },
+  {
+    "id": "401173",
+    "name": "Jadon Sancho",
+    "position": "Left Winger",
+    "number": "19",
+    "age": "26",
+    "nationality": [
+      "England",
+      "Jamaica"
+    ],
+    "market_value": "€20.00m",
+    "team_id": "405",
+    "team_name": "Aston Villa"
+  },
+  {
+    "id": "387626",
+    "name": "Leon Bailey",
+    "position": "Right Winger",
+    "number": "31",
+    "age": "28",
+    "nationality": [
+      "Jamaica"
+    ],
+    "market_value": "€16.00m",
+    "team_id": "405",
+    "team_name": "Aston Villa"
+  },
+  {
+    "id": "1005583",
+    "name": "Alysson",
+    "position": "Right Winger",
+    "number": "47",
+    "age": "20",
+    "nationality": [
+      "Brazil"
+    ],
+    "market_value": "€10.00m",
+    "team_id": "405",
+    "team_name": "Aston Villa"
   },
   {
     "id": "324358",
     "name": "Ollie Watkins",
-    "position": "Attack - Centre-Forward",
+    "position": "Centre-Forward",
     "number": "11",
     "age": "30",
     "nationality": [
@@ -675,21 +655,106 @@
     ],
     "market_value": "€30.00m",
     "team_id": "405",
-    "team_name": "Aston Villa",
-    "full_name": "Oliver George Arthur Watkins",
-    "birth_date": "30/12/1995",
-    "birth_place": "Torquay",
-    "height": "1,80 m",
-    "foot": "right",
-    "agent": "Two Touch Agency",
-    "club": "Aston Villa",
-    "joined": "09/09/2020",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Aston Villa"
+  },
+  {
+    "id": "331726",
+    "name": "Tammy Abraham",
+    "position": "Centre-Forward",
+    "number": "18",
+    "age": "28",
+    "nationality": [
+      "England",
+      "Nigeria"
+    ],
+    "market_value": "€20.00m",
+    "team_id": "405",
+    "team_name": "Aston Villa"
+  },
+  {
+    "id": "465555",
+    "name": "Djordje Petrovic",
+    "position": "Goalkeeper",
+    "number": "1",
+    "age": "26",
+    "nationality": [
+      "Serbia"
+    ],
+    "market_value": "€28.00m",
+    "team_id": "989",
+    "team_name": "Bournemouth"
+  },
+  {
+    "id": "481675",
+    "name": "Christos Mandas",
+    "position": "Goalkeeper",
+    "number": "29",
+    "age": "24",
+    "nationality": [
+      "Greece"
+    ],
+    "market_value": "€10.00m",
+    "team_id": "989",
+    "team_name": "Bournemouth"
+  },
+  {
+    "id": "52570",
+    "name": "Fraser Forster",
+    "position": "Goalkeeper",
+    "number": "17",
+    "age": "38",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€600k",
+    "team_id": "989",
+    "team_name": "Bournemouth"
+  },
+  {
+    "id": "463605",
+    "name": "Bafodé Diakité",
+    "position": "Centre-Back",
+    "number": "18",
+    "age": "25",
+    "nationality": [
+      "France",
+      "Guinea"
+    ],
+    "market_value": "€30.00m",
+    "team_id": "989",
+    "team_name": "Bournemouth"
+  },
+  {
+    "id": "469781",
+    "name": "Marcos Senesi",
+    "position": "Centre-Back",
+    "number": "5",
+    "age": "29",
+    "nationality": [
+      "Argentina",
+      "Italy"
+    ],
+    "market_value": "€22.00m",
+    "team_id": "989",
+    "team_name": "Bournemouth"
+  },
+  {
+    "id": "989112",
+    "name": "Veljko Milosavljevic",
+    "position": "Centre-Back",
+    "number": "44",
+    "age": "18",
+    "nationality": [
+      "Serbia"
+    ],
+    "market_value": "€20.00m",
+    "team_id": "989",
+    "team_name": "Bournemouth"
   },
   {
     "id": "611793",
     "name": "James Hill",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "23",
     "age": "24",
     "nationality": [
@@ -697,21 +762,12 @@
     ],
     "market_value": "€15.00m",
     "team_id": "989",
-    "team_name": "Bournemouth",
-    "full_name": "James Clayton Hill",
-    "birth_date": "10/01/2002",
-    "birth_place": "Bristol",
-    "height": "1,84 m",
-    "foot": "right",
-    "agent": "SMI Sports ...",
-    "club": "AFC Bournemouth",
-    "joined": "05/01/2022",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Bournemouth"
   },
   {
     "id": "994604",
     "name": "Matai Akinmboni",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "45",
     "age": "19",
     "nationality": [
@@ -720,20 +776,26 @@
     ],
     "market_value": "€1.00m",
     "team_id": "989",
-    "team_name": "Bournemouth",
-    "birth_date": "17/10/2006",
-    "birth_place": "Upper Marlboro, Maryland",
-    "height": "1,88 m",
-    "foot": "left",
-    "agent": "CAA Stellar",
-    "club": "AFC Bournemouth",
-    "joined": "03/01/2025",
-    "contract_expiry": "30/06/2026"
+    "team_name": "Bournemouth"
+  },
+  {
+    "id": "654539",
+    "name": "Adrien Truffert",
+    "position": "Left-Back",
+    "number": "3",
+    "age": "24",
+    "nationality": [
+      "France",
+      "Belgium"
+    ],
+    "market_value": "€25.00m",
+    "team_id": "989",
+    "team_name": "Bournemouth"
   },
   {
     "id": "1009658",
     "name": "Julio Soler",
-    "position": "Defender - Left-Back",
+    "position": "Left-Back",
     "number": "6",
     "age": "21",
     "nationality": [
@@ -742,20 +804,25 @@
     ],
     "market_value": "€8.00m",
     "team_id": "989",
-    "team_name": "Bournemouth",
-    "full_name": "Julio César Soler Barreto",
-    "birth_date": "16/02/2005",
-    "birth_place": "Asunción",
-    "height": "1,75 m",
-    "foot": "left",
-    "club": "AFC Bournemouth",
-    "joined": "07/01/2025",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Bournemouth"
+  },
+  {
+    "id": "741257",
+    "name": "Álex Jiménez",
+    "position": "Right-Back",
+    "number": "20",
+    "age": "21",
+    "nationality": [
+      "Spain"
+    ],
+    "market_value": "€22.00m",
+    "team_id": "989",
+    "team_name": "Bournemouth"
   },
   {
     "id": "61841",
     "name": "Adam Smith",
-    "position": "Defender - Right-Back",
+    "position": "Right-Back",
     "number": "15",
     "age": "35",
     "nationality": [
@@ -763,21 +830,12 @@
     ],
     "market_value": "€500k",
     "team_id": "989",
-    "team_name": "Bournemouth",
-    "full_name": "Adam James Smith",
-    "birth_date": "29/04/1991",
-    "birth_place": "London",
-    "height": "1,74 m",
-    "foot": "right",
-    "agent": "CAA Stellar",
-    "club": "AFC Bournemouth",
-    "joined": "28/01/2014",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Bournemouth"
   },
   {
     "id": "332705",
     "name": "Tyler Adams",
-    "position": "Midfield - Defensive Midfield",
+    "position": "Defensive Midfield",
     "number": "12",
     "age": "27",
     "nationality": [
@@ -785,21 +843,12 @@
     ],
     "market_value": "€25.00m",
     "team_id": "989",
-    "team_name": "Bournemouth",
-    "full_name": "Tyler Shaan Adams",
-    "birth_date": "14/02/1999",
-    "birth_place": "Wappingers Falls, New York",
-    "height": "1,75 m",
-    "foot": "right",
-    "agent": "YMU Management Ltd.",
-    "club": "AFC Bournemouth",
-    "joined": "20/08/2023",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Bournemouth"
   },
   {
     "id": "855256",
     "name": "Alex Scott",
-    "position": "Midfield - Central Midfield",
+    "position": "Central Midfield",
     "number": "8",
     "age": "22",
     "nationality": [
@@ -808,20 +857,12 @@
     ],
     "market_value": "€40.00m",
     "team_id": "989",
-    "team_name": "Bournemouth",
-    "full_name": "Alex Jay Scott",
-    "birth_date": "21/08/2003",
-    "birth_place": "Guernsey",
-    "height": "1,78 m",
-    "foot": "right",
-    "club": "AFC Bournemouth",
-    "joined": "10/08/2023",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Bournemouth"
   },
   {
     "id": "249089",
     "name": "Lewis Cook",
-    "position": "Midfield - Central Midfield",
+    "position": "Central Midfield",
     "number": "4",
     "age": "29",
     "nationality": [
@@ -829,21 +870,25 @@
     ],
     "market_value": "€13.00m",
     "team_id": "989",
-    "team_name": "Bournemouth",
-    "full_name": "Lewis John Cook",
-    "birth_date": "03/02/1997",
-    "birth_place": "York",
-    "height": "1,75 m",
-    "foot": "right",
-    "agent": "CAA Stellar",
-    "club": "AFC Bournemouth",
-    "joined": "08/07/2016",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Bournemouth"
+  },
+  {
+    "id": "998101",
+    "name": "Alex Tóth",
+    "position": "Central Midfield",
+    "number": "27",
+    "age": "20",
+    "nationality": [
+      "Hungary"
+    ],
+    "market_value": "€12.00m",
+    "team_id": "989",
+    "team_name": "Bournemouth"
   },
   {
     "id": "188077",
     "name": "Ryan Christie",
-    "position": "Midfield - Central Midfield",
+    "position": "Central Midfield",
     "number": "10",
     "age": "31",
     "nationality": [
@@ -851,20 +896,12 @@
     ],
     "market_value": "€9.00m",
     "team_id": "989",
-    "team_name": "Bournemouth",
-    "birth_date": "22/02/1995",
-    "birth_place": "Inverness",
-    "height": "1,78 m",
-    "foot": "left",
-    "agent": "PLG",
-    "club": "AFC Bournemouth",
-    "joined": "31/08/2021",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Bournemouth"
   },
   {
     "id": "330659",
     "name": "Justin Kluivert",
-    "position": "Midfield - Attacking Midfield",
+    "position": "Attacking Midfield",
     "number": "19",
     "age": "27",
     "nationality": [
@@ -873,21 +910,12 @@
     ],
     "market_value": "€30.00m",
     "team_id": "989",
-    "team_name": "Bournemouth",
-    "full_name": "Justin Dean Kluivert",
-    "birth_date": "05/05/1999",
-    "birth_place": "Zaandam",
-    "height": "1,72 m",
-    "foot": "both",
-    "agent": "Epic Justin",
-    "club": "AFC Bournemouth",
-    "joined": "01/07/2023",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Bournemouth"
   },
   {
     "id": "399434",
     "name": "Marcus Tavernier",
-    "position": "Midfield - Attacking Midfield",
+    "position": "Attacking Midfield",
     "number": "16",
     "age": "27",
     "nationality": [
@@ -895,21 +923,52 @@
     ],
     "market_value": "€23.00m",
     "team_id": "989",
-    "team_name": "Bournemouth",
-    "full_name": "Marcus Joseph Tavernier",
-    "birth_date": "22/03/1999",
-    "birth_place": "Leeds",
-    "height": "1,78 m",
-    "foot": "left",
-    "agent": "StormSportsX",
-    "club": "AFC Bournemouth",
-    "joined": "01/08/2022",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Bournemouth"
+  },
+  {
+    "id": "532776",
+    "name": "Amine Adli",
+    "position": "Left Winger",
+    "number": "21",
+    "age": "26",
+    "nationality": [
+      "Morocco",
+      "France"
+    ],
+    "market_value": "€20.00m",
+    "team_id": "989",
+    "team_name": "Bournemouth"
+  },
+  {
+    "id": "1012564",
+    "name": "Rayan",
+    "position": "Right Winger",
+    "number": "37",
+    "age": "19",
+    "nationality": [
+      "Brazil"
+    ],
+    "market_value": "€40.00m",
+    "team_id": "989",
+    "team_name": "Bournemouth"
+  },
+  {
+    "id": "719673",
+    "name": "Ben Gannon-Doak",
+    "position": "Right Winger",
+    "number": "11",
+    "age": "20",
+    "nationality": [
+      "Scotland"
+    ],
+    "market_value": "€16.00m",
+    "team_id": "989",
+    "team_name": "Bournemouth"
   },
   {
     "id": "277033",
     "name": "David Brooks",
-    "position": "Attack - Right Winger",
+    "position": "Right Winger",
     "number": "7",
     "age": "28",
     "nationality": [
@@ -918,21 +977,26 @@
     ],
     "market_value": "€14.00m",
     "team_id": "989",
-    "team_name": "Bournemouth",
-    "full_name": "David Robert Brooks",
-    "birth_date": "08/07/1997",
-    "birth_place": "Warrington",
-    "height": "1,73 m",
-    "foot": "left",
-    "agent": "Unique Sports Group",
-    "club": "AFC Bournemouth",
-    "joined": "01/07/2018",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Bournemouth"
+  },
+  {
+    "id": "955357",
+    "name": "Junior Kroupi",
+    "position": "Centre-Forward",
+    "number": "22",
+    "age": "19",
+    "nationality": [
+      "France",
+      "Portugal"
+    ],
+    "market_value": "€40.00m",
+    "team_id": "989",
+    "team_name": "Bournemouth"
   },
   {
     "id": "711337",
     "name": "Evanilson",
-    "position": "Attack - Centre-Forward",
+    "position": "Centre-Forward",
     "number": "9",
     "age": "26",
     "nationality": [
@@ -940,20 +1004,12 @@
     ],
     "market_value": "€35.00m",
     "team_id": "989",
-    "team_name": "Bournemouth",
-    "birth_date": "06/10/1999",
-    "birth_place": "Fortaleza",
-    "height": "1,83 m",
-    "foot": "both",
-    "agent": "Brazil Soccer",
-    "club": "AFC Bournemouth",
-    "joined": "16/08/2024",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Bournemouth"
   },
   {
     "id": "251106",
     "name": "Enes Ünal",
-    "position": "Attack - Centre-Forward",
+    "position": "Centre-Forward",
     "number": "26",
     "age": "29",
     "nationality": [
@@ -961,15 +1017,20 @@
     ],
     "market_value": "€8.00m",
     "team_id": "989",
-    "team_name": "Bournemouth",
-    "birth_date": "10/05/1997",
-    "birth_place": "Bursa",
-    "height": "1,87 m",
-    "foot": "right",
-    "agent": "FutureBall",
-    "club": "AFC Bournemouth",
-    "joined": "01/07/2024",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Bournemouth"
+  },
+  {
+    "id": "340918",
+    "name": "Caoimhín Kelleher",
+    "position": "Goalkeeper",
+    "number": "1",
+    "age": "27",
+    "nationality": [
+      "Ireland"
+    ],
+    "market_value": "€25.00m",
+    "team_id": "1148",
+    "team_name": "Brentford"
   },
   {
     "id": "488935",
@@ -982,21 +1043,39 @@
     ],
     "market_value": "€2.50m",
     "team_id": "1148",
-    "team_name": "Brentford",
-    "full_name": "Hákon Rafn Valdimarsson",
-    "birth_date": "13/10/2001",
-    "birth_place": "Reykjavik",
-    "height": "1,95 m",
-    "foot": "right",
-    "agent": "CAA Stellar",
-    "club": "Brentford FC",
-    "joined": "26/01/2024",
-    "contract_expiry": "30/06/2030"
+    "team_name": "Brentford"
+  },
+  {
+    "id": "456292",
+    "name": "Ellery Balcombe",
+    "position": "Goalkeeper",
+    "number": "31",
+    "age": "26",
+    "nationality": [
+      "England",
+      "St. Vincent & Grenadinen"
+    ],
+    "market_value": "€400k",
+    "team_id": "1148",
+    "team_name": "Brentford"
+  },
+  {
+    "id": "1008553",
+    "name": "Julian Eyestone",
+    "position": "Goalkeeper",
+    "number": "41",
+    "age": "20",
+    "nationality": [
+      "United States"
+    ],
+    "market_value": "-",
+    "team_id": "1148",
+    "team_name": "Brentford"
   },
   {
     "id": "541231",
     "name": "Sepp van den Berg",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "4",
     "age": "24",
     "nationality": [
@@ -1004,20 +1083,12 @@
     ],
     "market_value": "€32.00m",
     "team_id": "1148",
-    "team_name": "Brentford",
-    "birth_date": "20/12/2001",
-    "birth_place": "Zwolle",
-    "height": "1,92 m",
-    "foot": "right",
-    "agent": "Key United",
-    "club": "Brentford FC",
-    "joined": "22/08/2024",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Brentford"
   },
   {
     "id": "469050",
     "name": "Nathan Collins",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "22",
     "age": "25",
     "nationality": [
@@ -1025,21 +1096,12 @@
     ],
     "market_value": "€30.00m",
     "team_id": "1148",
-    "team_name": "Brentford",
-    "full_name": "Nathan Michael Collins",
-    "birth_date": "30/04/2001",
-    "birth_place": "Leixlip",
-    "height": "1,93 m",
-    "foot": "right",
-    "agent": "Unique Sports Group",
-    "club": "Brentford FC",
-    "joined": "04/07/2023",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Brentford"
   },
   {
     "id": "328658",
     "name": "Kristoffer Ajer",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "20",
     "age": "28",
     "nationality": [
@@ -1047,21 +1109,12 @@
     ],
     "market_value": "€18.00m",
     "team_id": "1148",
-    "team_name": "Brentford",
-    "full_name": "Kristoffer Vassbakk Köpp Ajer",
-    "birth_date": "17/04/1998",
-    "birth_place": "Rælingen",
-    "height": "1,98 m",
-    "foot": "right",
-    "agent": "THE·TEAM",
-    "club": "Brentford FC",
-    "joined": "21/07/2021",
-    "contract_expiry": "30/06/2030"
+    "team_name": "Brentford"
   },
   {
     "id": "442248",
     "name": "Ethan Pinnock",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "5",
     "age": "32",
     "nationality": [
@@ -1070,21 +1123,12 @@
     ],
     "market_value": "€4.00m",
     "team_id": "1148",
-    "team_name": "Brentford",
-    "full_name": "Ethan Rupert Pinnock",
-    "birth_date": "29/05/1993",
-    "birth_place": "London",
-    "height": "1,94 m",
-    "foot": "left",
-    "agent": "Two Touch Agency",
-    "club": "Brentford FC",
-    "joined": "02/07/2019",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Brentford"
   },
   {
     "id": "339556",
     "name": "Rico Henry",
-    "position": "Defender - Left-Back",
+    "position": "Left-Back",
     "number": "3",
     "age": "28",
     "nationality": [
@@ -1093,21 +1137,26 @@
     ],
     "market_value": "€15.00m",
     "team_id": "1148",
-    "team_name": "Brentford",
-    "full_name": "Rico Antonio Henry",
-    "birth_date": "08/07/1997",
-    "birth_place": "Birmingham",
-    "height": "1,70 m",
-    "foot": "left",
-    "agent": "Majestyk Sports ...",
-    "club": "Brentford FC",
-    "joined": "31/08/2016",
-    "contract_expiry": "30/06/2026"
+    "team_name": "Brentford"
+  },
+  {
+    "id": "823486",
+    "name": "Michael Kayode",
+    "position": "Right-Back",
+    "number": "33",
+    "age": "21",
+    "nationality": [
+      "Italy",
+      "Nigeria"
+    ],
+    "market_value": "€35.00m",
+    "team_id": "1148",
+    "team_name": "Brentford"
   },
   {
     "id": "591949",
     "name": "Aaron Hickey",
-    "position": "Defender - Right-Back",
+    "position": "Right-Back",
     "number": "2",
     "age": "23",
     "nationality": [
@@ -1115,21 +1164,12 @@
     ],
     "market_value": "€16.00m",
     "team_id": "1148",
-    "team_name": "Brentford",
-    "full_name": "Aaron Buchanan Hickey",
-    "birth_date": "10/06/2002",
-    "birth_place": "Glasgow",
-    "height": "1,85 m",
-    "foot": "both",
-    "agent": "PLG",
-    "club": "Brentford FC",
-    "joined": "09/07/2022",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Brentford"
   },
   {
     "id": "270171",
     "name": "Vitaly Janelt",
-    "position": "Midfield - Defensive Midfield",
+    "position": "Defensive Midfield",
     "number": "27",
     "age": "28",
     "nationality": [
@@ -1138,20 +1178,25 @@
     ],
     "market_value": "€18.00m",
     "team_id": "1148",
-    "team_name": "Brentford",
-    "birth_date": "10/05/1998",
-    "birth_place": "Hamburg",
-    "height": "1,84 m",
-    "foot": "left",
-    "agent": "THE·TEAM",
-    "club": "Brentford FC",
-    "joined": "03/10/2020",
-    "contract_expiry": "30/06/2030"
+    "team_name": "Brentford"
+  },
+  {
+    "id": "61651",
+    "name": "Jordan Henderson",
+    "position": "Defensive Midfield",
+    "number": "6",
+    "age": "35",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€2.00m",
+    "team_id": "1148",
+    "team_name": "Brentford"
   },
   {
     "id": "717411",
     "name": "Yegor Yarmolyuk",
-    "position": "Midfield - Central Midfield",
+    "position": "Central Midfield",
     "number": "18",
     "age": "22",
     "nationality": [
@@ -1159,21 +1204,12 @@
     ],
     "market_value": "€30.00m",
     "team_id": "1148",
-    "team_name": "Brentford",
-    "full_name": "Ярмолюк Єгор Романович",
-    "birth_date": "01/03/2004",
-    "birth_place": "Verkhnyodniprovsk, Dnipropetrovsk Oblast",
-    "height": "1,80 m",
-    "foot": "right",
-    "agent": "ProStar",
-    "club": "Brentford FC",
-    "joined": "01/07/2023",
-    "contract_expiry": "30/06/2031"
+    "team_name": "Brentford"
   },
   {
     "id": "319859",
     "name": "Mathias Jensen",
-    "position": "Midfield - Central Midfield",
+    "position": "Central Midfield",
     "number": "8",
     "age": "30",
     "nationality": [
@@ -1181,20 +1217,26 @@
     ],
     "market_value": "€12.00m",
     "team_id": "1148",
-    "team_name": "Brentford",
-    "birth_date": "01/01/1996",
-    "birth_place": "Jerslev, West Zealand",
-    "height": "1,80 m",
-    "foot": "right",
-    "agent": "Nordic Sky",
-    "club": "Brentford FC",
-    "joined": "10/07/2019",
-    "contract_expiry": "30/06/2026"
+    "team_name": "Brentford"
+  },
+  {
+    "id": "340321",
+    "name": "Josh Dasilva",
+    "position": "Central Midfield",
+    "number": "10",
+    "age": "27",
+    "nationality": [
+      "England",
+      "Angola"
+    ],
+    "market_value": "€2.00m",
+    "team_id": "1148",
+    "team_name": "Brentford"
   },
   {
     "id": "644401",
     "name": "Keane Lewis-Potter",
-    "position": "Midfield - Left Midfield",
+    "position": "Left Midfield",
     "number": "23",
     "age": "25",
     "nationality": [
@@ -1202,21 +1244,12 @@
     ],
     "market_value": "€25.00m",
     "team_id": "1148",
-    "team_name": "Brentford",
-    "full_name": "Keane William Lewis-Potter",
-    "birth_date": "22/02/2001",
-    "birth_place": "Hull",
-    "height": "1,70 m",
-    "foot": "right",
-    "agent": "Harwick Sports Group",
-    "club": "Brentford FC",
-    "joined": "12/07/2022",
-    "contract_expiry": "30/06/2031"
+    "team_name": "Brentford"
   },
   {
     "id": "540941",
     "name": "Mikkel Damsgaard",
-    "position": "Midfield - Attacking Midfield",
+    "position": "Attacking Midfield",
     "number": "24",
     "age": "25",
     "nationality": [
@@ -1224,21 +1257,26 @@
     ],
     "market_value": "€30.00m",
     "team_id": "1148",
-    "team_name": "Brentford",
-    "full_name": "Mikkel Krogh Damsgaard",
-    "birth_date": "03/07/2000",
-    "birth_place": "Jyllinge",
-    "height": "1,80 m",
-    "foot": "right",
-    "agent": "BTAM",
-    "club": "Brentford FC",
-    "joined": "10/08/2022",
-    "contract_expiry": "30/06/2030"
+    "team_name": "Brentford"
+  },
+  {
+    "id": "683620",
+    "name": "Antoni Milambo",
+    "position": "Attacking Midfield",
+    "number": "17",
+    "age": "21",
+    "nationality": [
+      "Netherlands",
+      "DR Congo"
+    ],
+    "market_value": "€20.00m",
+    "team_id": "1148",
+    "team_name": "Brentford"
   },
   {
     "id": "559263",
     "name": "Fábio Carvalho",
-    "position": "Midfield - Attacking Midfield",
+    "position": "Attacking Midfield",
     "number": "14",
     "age": "23",
     "nationality": [
@@ -1246,21 +1284,12 @@
     ],
     "market_value": "€10.00m",
     "team_id": "1148",
-    "team_name": "Brentford",
-    "full_name": "Fábio Leandro Freitas Gouveia Carvalho",
-    "birth_date": "30/08/2002",
-    "birth_place": "Torres Vedras",
-    "height": "1,70 m",
-    "foot": "right",
-    "agent": "Concilium Sport",
-    "club": "Brentford FC",
-    "joined": "12/08/2024",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Brentford"
   },
   {
     "id": "473050",
     "name": "Kevin Schade",
-    "position": "Attack - Left Winger",
+    "position": "Left Winger",
     "number": "7",
     "age": "24",
     "nationality": [
@@ -1269,20 +1298,53 @@
     ],
     "market_value": "€35.00m",
     "team_id": "1148",
-    "team_name": "Brentford",
-    "birth_date": "27/11/2001",
-    "birth_place": "Potsdam",
-    "height": "1,85 m",
-    "foot": "right",
-    "agent": "Epic Schade",
-    "club": "Brentford FC",
-    "joined": "01/07/2023",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Brentford"
+  },
+  {
+    "id": "340325",
+    "name": "Reiss Nelson",
+    "position": "Left Winger",
+    "number": "11",
+    "age": "26",
+    "nationality": [
+      "England",
+      "Jamaica"
+    ],
+    "market_value": "€12.00m",
+    "team_id": "1148",
+    "team_name": "Brentford"
+  },
+  {
+    "id": "823231",
+    "name": "Dango Ouattara",
+    "position": "Right Winger",
+    "number": "19",
+    "age": "24",
+    "nationality": [
+      "Burkina Faso"
+    ],
+    "market_value": "€35.00m",
+    "team_id": "1148",
+    "team_name": "Brentford"
+  },
+  {
+    "id": "1091562",
+    "name": "Romelle Donovan",
+    "position": "Right Winger",
+    "number": "45",
+    "age": "19",
+    "nationality": [
+      "England",
+      "St. Kitts & Nevis"
+    ],
+    "market_value": "€3.50m",
+    "team_id": "1148",
+    "team_name": "Brentford"
   },
   {
     "id": "739443",
     "name": "Igor Thiago",
-    "position": "Attack - Centre-Forward",
+    "position": "Centre-Forward",
     "number": "9",
     "age": "24",
     "nationality": [
@@ -1291,16 +1353,21 @@
     ],
     "market_value": "€50.00m",
     "team_id": "1148",
-    "team_name": "Brentford",
-    "full_name": "Igor Thiago Nascimento Rodrigues",
-    "birth_date": "26/06/2001",
-    "birth_place": "Gama",
-    "height": "1,91 m",
-    "foot": "right",
-    "agent": "HN80 Sports",
-    "club": "Brentford FC",
-    "joined": "01/07/2024",
-    "contract_expiry": "30/06/2031"
+    "team_name": "Brentford"
+  },
+  {
+    "id": "1011936",
+    "name": "Kaye Furo",
+    "position": "Centre-Forward",
+    "number": "47",
+    "age": "19",
+    "nationality": [
+      "Belgium",
+      "Nigeria"
+    ],
+    "market_value": "€8.00m",
+    "team_id": "1148",
+    "team_name": "Brentford"
   },
   {
     "id": "565093",
@@ -1313,15 +1380,7 @@
     ],
     "market_value": "€40.00m",
     "team_id": "1237",
-    "team_name": "Brighton",
-    "birth_date": "18/08/2002",
-    "birth_place": "Zwolle",
-    "height": "1,94 m",
-    "foot": "right",
-    "agent": "Stirr Associates",
-    "club": "Brighton & Hove Albion",
-    "joined": "03/07/2023",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Brighton"
   },
   {
     "id": "73564",
@@ -1335,16 +1394,7 @@
     ],
     "market_value": "€750k",
     "team_id": "1237",
-    "team_name": "Brighton",
-    "full_name": "Jason Sean Steele",
-    "birth_date": "18/08/1990",
-    "birth_place": "Newton Aycliffe",
-    "height": "1,88 m",
-    "foot": "right",
-    "agent": "Murdock Sports Group",
-    "club": "Brighton & Hove Albion",
-    "joined": "01/07/2018",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Brighton"
   },
   {
     "id": "406556",
@@ -1358,21 +1408,12 @@
     ],
     "market_value": "€500k",
     "team_id": "1237",
-    "team_name": "Brighton",
-    "full_name": "Thomas Peter Wayne McGill",
-    "birth_date": "25/03/2000",
-    "birth_place": "Belleville, Ontario",
-    "height": "1,85 m",
-    "foot": "right",
-    "agent": "Louie Anthony ...",
-    "club": "Brighton & Hove Albion",
-    "joined": "29/07/2022",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Brighton"
   },
   {
     "id": "576314",
     "name": "Jan Paul van Hecke",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "6",
     "age": "25",
     "nationality": [
@@ -1380,20 +1421,39 @@
     ],
     "market_value": "€35.00m",
     "team_id": "1237",
-    "team_name": "Brighton",
-    "birth_date": "08/06/2000",
-    "birth_place": "Arnemuiden",
-    "height": "1,89 m",
-    "foot": "right",
-    "agent": "V4S",
-    "club": "Brighton & Hove Albion",
-    "joined": "10/09/2020",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Brighton"
+  },
+  {
+    "id": "318508",
+    "name": "Olivier Boscagli",
+    "position": "Centre-Back",
+    "number": "21",
+    "age": "28",
+    "nationality": [
+      "France",
+      "Monaco"
+    ],
+    "market_value": "€15.00m",
+    "team_id": "1237",
+    "team_name": "Brighton"
+  },
+  {
+    "id": "380350",
+    "name": "Igor Julio",
+    "position": "Centre-Back",
+    "number": "3",
+    "age": "28",
+    "nationality": [
+      "Brazil"
+    ],
+    "market_value": "€12.00m",
+    "team_id": "1237",
+    "team_name": "Brighton"
   },
   {
     "id": "212847",
     "name": "Adam Webster",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "4",
     "age": "31",
     "nationality": [
@@ -1401,20 +1461,12 @@
     ],
     "market_value": "€5.00m",
     "team_id": "1237",
-    "team_name": "Brighton",
-    "full_name": "Adam Harry Webster",
-    "birth_date": "04/01/1995",
-    "birth_place": "West Wittering",
-    "height": "1,90 m",
-    "foot": "right",
-    "club": "Brighton & Hove Albion",
-    "joined": "03/08/2019",
-    "contract_expiry": "30/06/2026"
+    "team_name": "Brighton"
   },
   {
     "id": "148153",
     "name": "Lewis Dunk",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "5",
     "age": "34",
     "nationality": [
@@ -1422,21 +1474,12 @@
     ],
     "market_value": "€4.00m",
     "team_id": "1237",
-    "team_name": "Brighton",
-    "full_name": "Lewis Carl Dunk",
-    "birth_date": "21/11/1991",
-    "birth_place": "Brighton",
-    "height": "1,92 m",
-    "foot": "right",
-    "agent": "CAA Stellar",
-    "club": "Brighton & Hove Albion",
-    "joined": "01/07/2010",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Brighton"
   },
   {
     "id": "369316",
     "name": "Ferdi Kadıoğlu",
-    "position": "Defender - Left-Back",
+    "position": "Left-Back",
     "number": "24",
     "age": "26",
     "nationality": [
@@ -1445,21 +1488,25 @@
     ],
     "market_value": "€30.00m",
     "team_id": "1237",
-    "team_name": "Brighton",
-    "full_name": "Ferdi Erenay Kadıoğlu",
-    "birth_date": "07/10/1999",
-    "birth_place": "Arnhem",
-    "height": "1,74 m",
-    "foot": "right",
-    "agent": "THE·TEAM",
-    "club": "Brighton & Hove Albion",
-    "joined": "24/08/2024",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Brighton"
+  },
+  {
+    "id": "429915",
+    "name": "Maxim De Cuyper",
+    "position": "Left-Back",
+    "number": "29",
+    "age": "25",
+    "nationality": [
+      "Belgium"
+    ],
+    "market_value": "€22.00m",
+    "team_id": "1237",
+    "team_name": "Brighton"
   },
   {
     "id": "415381",
     "name": "Mats Wieffer",
-    "position": "Defender - Right-Back",
+    "position": "Right-Back",
     "number": "27",
     "age": "26",
     "nationality": [
@@ -1467,20 +1514,12 @@
     ],
     "market_value": "€25.00m",
     "team_id": "1237",
-    "team_name": "Brighton",
-    "birth_date": "16/11/1999",
-    "birth_place": "Borne",
-    "height": "1,88 m",
-    "foot": "right",
-    "agent": "V4S",
-    "club": "Brighton & Hove Albion",
-    "joined": "05/07/2024",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Brighton"
   },
   {
     "id": "111195",
     "name": "Joël Veltman",
-    "position": "Defender - Right-Back",
+    "position": "Right-Back",
     "number": "34",
     "age": "34",
     "nationality": [
@@ -1488,21 +1527,12 @@
     ],
     "market_value": "€2.50m",
     "team_id": "1237",
-    "team_name": "Brighton",
-    "full_name": "Joël Ivo Veltman",
-    "birth_date": "15/01/1992",
-    "birth_place": "Velsen",
-    "height": "1,84 m",
-    "foot": "right",
-    "agent": "SEG",
-    "club": "Brighton & Hove Albion",
-    "joined": "29/07/2020",
-    "contract_expiry": "30/06/2026"
+    "team_name": "Brighton"
   },
   {
     "id": "973085",
     "name": "Carlos Baleba",
-    "position": "Midfield - Defensive Midfield",
+    "position": "Defensive Midfield",
     "number": "17",
     "age": "22",
     "nationality": [
@@ -1510,20 +1540,12 @@
     ],
     "market_value": "€55.00m",
     "team_id": "1237",
-    "team_name": "Brighton",
-    "full_name": "Carlos Noom Quomah Baleba",
-    "birth_date": "03/01/2004",
-    "birth_place": "Douala",
-    "height": "1,79 m",
-    "foot": "left",
-    "club": "Brighton & Hove Albion",
-    "joined": "29/08/2023",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Brighton"
   },
   {
     "id": "867688",
     "name": "Jack Hinshelwood",
-    "position": "Midfield - Defensive Midfield",
+    "position": "Defensive Midfield",
     "number": "13",
     "age": "21",
     "nationality": [
@@ -1531,21 +1553,12 @@
     ],
     "market_value": "€22.00m",
     "team_id": "1237",
-    "team_name": "Brighton",
-    "full_name": "Jack Luca Hinshelwood",
-    "birth_date": "11/04/2005",
-    "birth_place": "Worthing",
-    "height": "1,82 m",
-    "foot": "right",
-    "agent": "CAA Stellar",
-    "club": "Brighton & Hove Albion",
-    "joined": "01/07/2023",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Brighton"
   },
   {
     "id": "667287",
     "name": "Yasin Ayari",
-    "position": "Midfield - Central Midfield",
+    "position": "Central Midfield",
     "number": "26",
     "age": "22",
     "nationality": [
@@ -1554,20 +1567,12 @@
     ],
     "market_value": "€30.00m",
     "team_id": "1237",
-    "team_name": "Brighton",
-    "full_name": "ياسين عباس عياري",
-    "birth_date": "06/10/2003",
-    "birth_place": "Solna",
-    "height": "1,72 m",
-    "foot": "right",
-    "club": "Brighton & Hove Albion",
-    "joined": "30/01/2023",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Brighton"
   },
   {
     "id": "996897",
     "name": "Diego Gómez",
-    "position": "Midfield - Central Midfield",
+    "position": "Central Midfield",
     "number": "25",
     "age": "23",
     "nationality": [
@@ -1575,21 +1580,39 @@
     ],
     "market_value": "€25.00m",
     "team_id": "1237",
-    "team_name": "Brighton",
-    "full_name": "Diego Alexander Gómez Amarilla",
-    "birth_date": "27/03/2003",
-    "birth_place": "San Juan Bautista",
-    "height": "1,85 m",
-    "foot": "right",
-    "agent": "La Squadra Sports",
-    "club": "Brighton & Hove Albion",
-    "joined": "01/01/2025",
-    "contract_expiry": "-"
+    "team_name": "Brighton"
+  },
+  {
+    "id": "406634",
+    "name": "Matt O'Riley",
+    "position": "Central Midfield",
+    "number": "33",
+    "age": "25",
+    "nationality": [
+      "Denmark",
+      "England"
+    ],
+    "market_value": "€20.00m",
+    "team_id": "1237",
+    "team_name": "Brighton"
+  },
+  {
+    "id": "82873",
+    "name": "Pascal Groß",
+    "position": "Central Midfield",
+    "number": "30",
+    "age": "34",
+    "nationality": [
+      "Germany"
+    ],
+    "market_value": "€3.50m",
+    "team_id": "1237",
+    "team_name": "Brighton"
   },
   {
     "id": "3333",
     "name": "James Milner",
-    "position": "Midfield - Central Midfield",
+    "position": "Central Midfield",
     "number": "20",
     "age": "40",
     "nationality": [
@@ -1597,20 +1620,12 @@
     ],
     "market_value": "€750k",
     "team_id": "1237",
-    "team_name": "Brighton",
-    "full_name": "James Philip Milner",
-    "birth_date": "04/01/1986",
-    "birth_place": "Leeds",
-    "height": "1,75 m",
-    "foot": "right",
-    "club": "Brighton & Hove Albion",
-    "joined": "01/07/2023",
-    "contract_expiry": "30/06/2026"
+    "team_name": "Brighton"
   },
   {
     "id": "504849",
     "name": "Kaoru Mitoma",
-    "position": "Attack - Left Winger",
+    "position": "Left Winger",
     "number": "22",
     "age": "28",
     "nationality": [
@@ -1618,20 +1633,12 @@
     ],
     "market_value": "€25.00m",
     "team_id": "1237",
-    "team_name": "Brighton",
-    "full_name": "三笘 薫",
-    "birth_date": "20/05/1997",
-    "birth_place": "Kawasaki, Kanagawa",
-    "height": "1,78 m",
-    "foot": "right",
-    "club": "Brighton & Hove Albion",
-    "joined": "10/08/2021",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Brighton"
   },
   {
     "id": "1012534",
     "name": "Yankuba Minteh",
-    "position": "Attack - Right Winger",
+    "position": "Right Winger",
     "number": "11",
     "age": "21",
     "nationality": [
@@ -1639,20 +1646,12 @@
     ],
     "market_value": "€40.00m",
     "team_id": "1237",
-    "team_name": "Brighton",
-    "birth_date": "22/07/2004",
-    "birth_place": "Bakoteh",
-    "height": "1,80 m",
-    "foot": "left",
-    "agent": "1v1 S.F.M",
-    "club": "Brighton & Hove Albion",
-    "joined": "01/07/2024",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Brighton"
   },
   {
     "id": "209212",
     "name": "Solly March",
-    "position": "Attack - Right Winger",
+    "position": "Right Winger",
     "number": "7",
     "age": "31",
     "nationality": [
@@ -1660,21 +1659,12 @@
     ],
     "market_value": "€2.00m",
     "team_id": "1237",
-    "team_name": "Brighton",
-    "full_name": "Solomon Benjamin March",
-    "birth_date": "20/07/1994",
-    "birth_place": "Eastbourne",
-    "height": "1,80 m",
-    "foot": "left",
-    "agent": "PLAYERS LOUNGE ...",
-    "club": "Brighton & Hove Albion",
-    "joined": "01/07/2013",
-    "contract_expiry": "30/06/2026"
+    "team_name": "Brighton"
   },
   {
     "id": "538977",
     "name": "Georginio Rutter",
-    "position": "Attack - Centre-Forward",
+    "position": "Centre-Forward",
     "number": "10",
     "age": "24",
     "nationality": [
@@ -1683,20 +1673,38 @@
     ],
     "market_value": "€30.00m",
     "team_id": "1237",
-    "team_name": "Brighton",
-    "birth_date": "20/04/2002",
-    "birth_place": "Plescop",
-    "height": "1,82 m",
-    "foot": "left",
-    "agent": "ROGON",
-    "club": "Brighton & Hove Albion",
-    "joined": "19/08/2024",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Brighton"
+  },
+  {
+    "id": "1060087",
+    "name": "Charalampos Kostoulas",
+    "position": "Centre-Forward",
+    "number": "19",
+    "age": "18",
+    "nationality": [
+      "Greece"
+    ],
+    "market_value": "€25.00m",
+    "team_id": "1237",
+    "team_name": "Brighton"
+  },
+  {
+    "id": "950091",
+    "name": "Stefanos Tzimas",
+    "position": "Centre-Forward",
+    "number": "9",
+    "age": "20",
+    "nationality": [
+      "Greece"
+    ],
+    "market_value": "€20.00m",
+    "team_id": "1237",
+    "team_name": "Brighton"
   },
   {
     "id": "67063",
     "name": "Danny Welbeck",
-    "position": "Attack - Centre-Forward",
+    "position": "Centre-Forward",
     "number": "18",
     "age": "35",
     "nationality": [
@@ -1705,16 +1713,7 @@
     ],
     "market_value": "€4.00m",
     "team_id": "1237",
-    "team_name": "Brighton",
-    "full_name": "Daniel Nii Tackie Mensah Welbeck",
-    "birth_date": "26/11/1990",
-    "birth_place": "Manchester",
-    "height": "1,85 m",
-    "foot": "right",
-    "agent": "Prodigy Sports Group",
-    "club": "Brighton & Hove Albion",
-    "joined": "18/10/2020",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Brighton"
   },
   {
     "id": "403151",
@@ -1728,16 +1727,7 @@
     ],
     "market_value": "€22.00m",
     "team_id": "631",
-    "team_name": "Chelsea",
-    "full_name": "Robert Sánchez Lynch",
-    "birth_date": "18/11/1997",
-    "birth_place": "Cartagena",
-    "height": "1,97 m",
-    "foot": "right",
-    "agent": "CAA Stellar",
-    "club": "Chelsea FC",
-    "joined": "05/08/2023",
-    "contract_expiry": "30/06/2030"
+    "team_name": "Chelsea"
   },
   {
     "id": "585323",
@@ -1751,15 +1741,7 @@
     ],
     "market_value": "€15.00m",
     "team_id": "631",
-    "team_name": "Chelsea",
-    "birth_date": "16/04/2002",
-    "birth_place": "Lomma",
-    "height": "1,92 m",
-    "foot": "right",
-    "agent": "Goal Management",
-    "club": "Chelsea FC",
-    "joined": "30/07/2024",
-    "contract_expiry": "30/06/2031"
+    "team_name": "Chelsea"
   },
   {
     "id": "656316",
@@ -1773,21 +1755,38 @@
     ],
     "market_value": "€3.50m",
     "team_id": "631",
-    "team_name": "Chelsea",
-    "full_name": "Gabriel Paweł Słonina",
-    "birth_date": "15/05/2004",
-    "birth_place": "Addison, Illinois",
-    "height": "1,93 m",
-    "foot": "right",
-    "agent": "SXI",
-    "club": "Chelsea FC",
-    "joined": "02/08/2022",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Chelsea"
+  },
+  {
+    "id": "731466",
+    "name": "Teddy Sharman-Lowe",
+    "position": "Goalkeeper",
+    "number": "28",
+    "age": "23",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€550k",
+    "team_id": "631",
+    "team_name": "Chelsea"
+  },
+  {
+    "id": "503765",
+    "name": "James Hillson",
+    "position": "Goalkeeper",
+    "number": "-",
+    "age": "25",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "-",
+    "team_id": "631",
+    "team_name": "Chelsea"
   },
   {
     "id": "614258",
     "name": "Levi Colwill",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "6",
     "age": "23",
     "nationality": [
@@ -1795,21 +1794,12 @@
     ],
     "market_value": "€50.00m",
     "team_id": "631",
-    "team_name": "Chelsea",
-    "full_name": "Levi Lemar Samuel Colwill",
-    "birth_date": "26/02/2003",
-    "birth_place": "Southampton",
-    "height": "1,87 m",
-    "foot": "left",
-    "agent": "FA Sport",
-    "club": "Chelsea FC",
-    "joined": "01/07/2022",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Chelsea"
   },
   {
     "id": "346314",
     "name": "Trevoh Chalobah",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "23",
     "age": "26",
     "nationality": [
@@ -1818,21 +1808,12 @@
     ],
     "market_value": "€40.00m",
     "team_id": "631",
-    "team_name": "Chelsea",
-    "full_name": "Trevoh Thomas Chalobah",
-    "birth_date": "05/07/1999",
-    "birth_place": "Freetown",
-    "height": "1,92 m",
-    "foot": "right",
-    "agent": "CAA Base Ltd",
-    "club": "Chelsea FC",
-    "joined": "01/07/2021",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Chelsea"
   },
   {
     "id": "475411",
     "name": "Wesley Fofana",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "29",
     "age": "25",
     "nationality": [
@@ -1841,20 +1822,26 @@
     ],
     "market_value": "€28.00m",
     "team_id": "631",
-    "team_name": "Chelsea",
-    "birth_date": "17/12/2000",
-    "birth_place": "Marseille",
-    "height": "1,88 m",
-    "foot": "right",
-    "agent": "DWMA",
-    "club": "Chelsea FC",
-    "joined": "31/08/2022",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Chelsea"
+  },
+  {
+    "id": "910905",
+    "name": "Mamadou Sarr",
+    "position": "Centre-Back",
+    "number": "19",
+    "age": "20",
+    "nationality": [
+      "Senegal",
+      "France"
+    ],
+    "market_value": "€25.00m",
+    "team_id": "631",
+    "team_name": "Chelsea"
   },
   {
     "id": "258878",
     "name": "Tosin Adarabioyo",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "4",
     "age": "28",
     "nationality": [
@@ -1863,21 +1850,12 @@
     ],
     "market_value": "€18.00m",
     "team_id": "631",
-    "team_name": "Chelsea",
-    "full_name": "Abdul-Nasir Oluwatosin Oluwadoyinsolami Adarabioyo",
-    "birth_date": "24/09/1997",
-    "birth_place": "London",
-    "height": "1,97 m",
-    "foot": "right",
-    "agent": "WNRS",
-    "club": "Chelsea FC",
-    "joined": "01/07/2024",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Chelsea"
   },
   {
     "id": "463603",
     "name": "Benoît Badiashile",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "5",
     "age": "25",
     "nationality": [
@@ -1886,21 +1864,12 @@
     ],
     "market_value": "€18.00m",
     "team_id": "631",
-    "team_name": "Chelsea",
-    "full_name": "Benoît Ntambue Badiashile Mukinayi",
-    "birth_date": "26/03/2001",
-    "birth_place": "Limoges",
-    "height": "1,94 m",
-    "foot": "left",
-    "agent": "CANTERASPORT",
-    "club": "Chelsea FC",
-    "joined": "05/01/2023",
-    "contract_expiry": "30/06/2030"
+    "team_name": "Chelsea"
   },
   {
     "id": "284857",
     "name": "Marc Cucurella",
-    "position": "Defender - Left-Back",
+    "position": "Left-Back",
     "number": "3",
     "age": "27",
     "nationality": [
@@ -1908,21 +1877,39 @@
     ],
     "market_value": "€50.00m",
     "team_id": "631",
-    "team_name": "Chelsea",
-    "full_name": "Marc Cucurella Saseta",
-    "birth_date": "22/07/1998",
-    "birth_place": "Alella",
-    "height": "1,73 m",
-    "foot": "left",
-    "agent": "Dupla Piqué & ...",
-    "club": "Chelsea FC",
-    "joined": "05/08/2022",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Chelsea"
+  },
+  {
+    "id": "904802",
+    "name": "Jorrel Hato",
+    "position": "Left-Back",
+    "number": "21",
+    "age": "20",
+    "nationality": [
+      "Netherlands",
+      "Curacao"
+    ],
+    "market_value": "€35.00m",
+    "team_id": "631",
+    "team_name": "Chelsea"
+  },
+  {
+    "id": "746833",
+    "name": "Caleb Wiley",
+    "position": "Left-Back",
+    "number": "-",
+    "age": "21",
+    "nationality": [
+      "United States"
+    ],
+    "market_value": "€8.00m",
+    "team_id": "631",
+    "team_name": "Chelsea"
   },
   {
     "id": "472423",
     "name": "Reece James",
-    "position": "Defender - Right-Back",
+    "position": "Right-Back",
     "number": "24",
     "age": "26",
     "nationality": [
@@ -1930,20 +1917,12 @@
     ],
     "market_value": "€60.00m",
     "team_id": "631",
-    "team_name": "Chelsea",
-    "birth_date": "08/12/1999",
-    "birth_place": "London",
-    "height": "1,80 m",
-    "foot": "right",
-    "agent": "Golden Gate Group",
-    "club": "Chelsea FC",
-    "joined": "01/07/2019",
-    "contract_expiry": "30/06/2032"
+    "team_name": "Chelsea"
   },
   {
     "id": "620322",
     "name": "Malo Gusto",
-    "position": "Defender - Right-Back",
+    "position": "Right-Back",
     "number": "27",
     "age": "23",
     "nationality": [
@@ -1952,21 +1931,12 @@
     ],
     "market_value": "€35.00m",
     "team_id": "631",
-    "team_name": "Chelsea",
-    "full_name": "Malo Arthur Gusto",
-    "birth_date": "19/05/2003",
-    "birth_place": "Décines-Charpieu",
-    "height": "1,78 m",
-    "foot": "right",
-    "agent": "THE·TEAM",
-    "club": "Chelsea FC",
-    "joined": "29/01/2023",
-    "contract_expiry": "30/06/2030"
+    "team_name": "Chelsea"
   },
   {
     "id": "1004708",
     "name": "Josh Acheampong",
-    "position": "Defender - Right-Back",
+    "position": "Right-Back",
     "number": "34",
     "age": "20",
     "nationality": [
@@ -1975,20 +1945,12 @@
     ],
     "market_value": "€25.00m",
     "team_id": "631",
-    "team_name": "Chelsea",
-    "full_name": "Joshua Kofi Acheampong",
-    "birth_date": "05/05/2006",
-    "birth_place": "London",
-    "height": "1,90 m",
-    "foot": "right",
-    "club": "Chelsea FC",
-    "joined": "18/12/2024",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Chelsea"
   },
   {
     "id": "687626",
     "name": "Moisés Caicedo",
-    "position": "Midfield - Defensive Midfield",
+    "position": "Defensive Midfield",
     "number": "25",
     "age": "24",
     "nationality": [
@@ -1996,21 +1958,12 @@
     ],
     "market_value": "€110.00m",
     "team_id": "631",
-    "team_name": "Chelsea",
-    "full_name": "Moisés Isaac Caicedo Corozo",
-    "birth_date": "02/11/2001",
-    "birth_place": "Santo Domingo",
-    "height": "1,78 m",
-    "foot": "right",
-    "agent": "CAA Base Ltd",
-    "club": "Chelsea FC",
-    "joined": "14/08/2023",
-    "contract_expiry": "30/06/2033"
+    "team_name": "Chelsea"
   },
   {
     "id": "628451",
     "name": "Roméo Lavia",
-    "position": "Midfield - Defensive Midfield",
+    "position": "Defensive Midfield",
     "number": "45",
     "age": "22",
     "nationality": [
@@ -2019,20 +1972,26 @@
     ],
     "market_value": "€25.00m",
     "team_id": "631",
-    "team_name": "Chelsea",
-    "birth_date": "06/01/2004",
-    "birth_place": "Brussels",
-    "height": "1,81 m",
-    "foot": "right",
-    "agent": "Elite Project Group ...",
-    "club": "Chelsea FC",
-    "joined": "18/08/2023",
-    "contract_expiry": "30/06/2030"
+    "team_name": "Chelsea"
+  },
+  {
+    "id": "670717",
+    "name": "Dário Essugo",
+    "position": "Defensive Midfield",
+    "number": "14",
+    "age": "21",
+    "nationality": [
+      "Portugal",
+      "Angola"
+    ],
+    "market_value": "€17.00m",
+    "team_id": "631",
+    "team_name": "Chelsea"
   },
   {
     "id": "648195",
     "name": "Enzo Fernández",
-    "position": "Midfield - Central Midfield",
+    "position": "Central Midfield",
     "number": "8",
     "age": "25",
     "nationality": [
@@ -2040,21 +1999,12 @@
     ],
     "market_value": "€90.00m",
     "team_id": "631",
-    "team_name": "Chelsea",
-    "full_name": "Enzo Jeremías Fernández",
-    "birth_date": "17/01/2001",
-    "birth_place": "San Martín",
-    "height": "1,78 m",
-    "foot": "right",
-    "agent": "The Elegant Game",
-    "club": "Chelsea FC",
-    "joined": "31/01/2023",
-    "contract_expiry": "30/06/2032"
+    "team_name": "Chelsea"
   },
   {
     "id": "743600",
     "name": "Andrey Santos",
-    "position": "Midfield - Central Midfield",
+    "position": "Central Midfield",
     "number": "17",
     "age": "22",
     "nationality": [
@@ -2062,21 +2012,12 @@
     ],
     "market_value": "€45.00m",
     "team_id": "631",
-    "team_name": "Chelsea",
-    "full_name": "Andrey Nascimento dos Santos",
-    "birth_date": "03/05/2004",
-    "birth_place": "Rio de Janeiro",
-    "height": "1,80 m",
-    "foot": "right",
-    "agent": "Bertolucci Sports",
-    "club": "Chelsea FC",
-    "joined": "01/01/2023",
-    "contract_expiry": "30/06/2030"
+    "team_name": "Chelsea"
   },
   {
     "id": "568177",
     "name": "Cole Palmer",
-    "position": "Midfield - Attacking Midfield",
+    "position": "Attacking Midfield",
     "number": "10",
     "age": "24",
     "nationality": [
@@ -2085,21 +2026,40 @@
     ],
     "market_value": "€110.00m",
     "team_id": "631",
-    "team_name": "Chelsea",
-    "full_name": "Cole Jermaine Palmer",
-    "birth_date": "06/05/2002",
-    "birth_place": "Manchester",
-    "height": "1,85 m",
-    "foot": "left",
-    "agent": "CAA Base Ltd",
-    "club": "Chelsea FC",
-    "joined": "01/09/2023",
-    "contract_expiry": "30/06/2033"
+    "team_name": "Chelsea"
+  },
+  {
+    "id": "811779",
+    "name": "Alejandro Garnacho",
+    "position": "Left Winger",
+    "number": "49",
+    "age": "21",
+    "nationality": [
+      "Argentina",
+      "Spain"
+    ],
+    "market_value": "€40.00m",
+    "team_id": "631",
+    "team_name": "Chelsea"
+  },
+  {
+    "id": "670882",
+    "name": "Jamie Gittens",
+    "position": "Left Winger",
+    "number": "11",
+    "age": "21",
+    "nationality": [
+      "England",
+      "Barbados"
+    ],
+    "market_value": "€35.00m",
+    "team_id": "631",
+    "team_name": "Chelsea"
   },
   {
     "id": "537860",
     "name": "Mykhaylo Mudryk",
-    "position": "Attack - Left Winger",
+    "position": "Left Winger",
     "number": "-",
     "age": "25",
     "nationality": [
@@ -2107,21 +2067,25 @@
     ],
     "market_value": "-",
     "team_id": "631",
-    "team_name": "Chelsea",
-    "full_name": "Мудрик Михайло Петрович",
-    "birth_date": "05/01/2001",
-    "birth_place": "Krasnograd, Kharkiv Oblast",
-    "height": "1,75 m",
-    "foot": "right",
-    "agent": "ProStar",
-    "club": "Chelsea FC",
-    "joined": "15/01/2023",
-    "contract_expiry": "30/06/2031"
+    "team_name": "Chelsea"
+  },
+  {
+    "id": "1056993",
+    "name": "Estêvão",
+    "position": "Right Winger",
+    "number": "41",
+    "age": "19",
+    "nationality": [
+      "Brazil"
+    ],
+    "market_value": "€80.00m",
+    "team_id": "631",
+    "team_name": "Chelsea"
   },
   {
     "id": "487465",
     "name": "Pedro Neto",
-    "position": "Attack - Right Winger",
+    "position": "Right Winger",
     "number": "7",
     "age": "26",
     "nationality": [
@@ -2129,16 +2093,47 @@
     ],
     "market_value": "€60.00m",
     "team_id": "631",
-    "team_name": "Chelsea",
-    "full_name": "Pedro Lomba Neto",
-    "birth_date": "09/03/2000",
-    "birth_place": "Viana do Castelo",
-    "height": "1,74 m",
-    "foot": "left",
-    "agent": "Gestifute",
-    "club": "Chelsea FC",
-    "joined": "11/08/2024",
-    "contract_expiry": "30/06/2031"
+    "team_name": "Chelsea"
+  },
+  {
+    "id": "626724",
+    "name": "João Pedro",
+    "position": "Centre-Forward",
+    "number": "20",
+    "age": "24",
+    "nationality": [
+      "Brazil"
+    ],
+    "market_value": "€75.00m",
+    "team_id": "631",
+    "team_name": "Chelsea"
+  },
+  {
+    "id": "610849",
+    "name": "Liam Delap",
+    "position": "Centre-Forward",
+    "number": "9",
+    "age": "23",
+    "nationality": [
+      "England",
+      "Ireland"
+    ],
+    "market_value": "€32.00m",
+    "team_id": "631",
+    "team_name": "Chelsea"
+  },
+  {
+    "id": "938158",
+    "name": "Marc Guiu",
+    "position": "Centre-Forward",
+    "number": "38",
+    "age": "20",
+    "nationality": [
+      "Spain"
+    ],
+    "market_value": "€12.00m",
+    "team_id": "631",
+    "team_name": "Chelsea"
   },
   {
     "id": "258919",
@@ -2151,16 +2146,21 @@
     ],
     "market_value": "€28.00m",
     "team_id": "873",
-    "team_name": "Crystal Palace",
-    "full_name": "Dean Bradley Henderson",
-    "birth_date": "12/03/1997",
-    "birth_place": "Whitehaven",
-    "height": "1,88 m",
-    "foot": "right",
-    "agent": "Unique Sports Group",
-    "club": "Crystal Palace",
-    "joined": "31/08/2023",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Crystal Palace"
+  },
+  {
+    "id": "296802",
+    "name": "Walter Benítez",
+    "position": "Goalkeeper",
+    "number": "44",
+    "age": "33",
+    "nationality": [
+      "Argentina",
+      "France"
+    ],
+    "market_value": "€5.00m",
+    "team_id": "873",
+    "team_name": "Crystal Palace"
   },
   {
     "id": "196722",
@@ -2173,21 +2173,12 @@
     ],
     "market_value": "€300k",
     "team_id": "873",
-    "team_name": "Crystal Palace",
-    "full_name": "Remi Luke Matthews",
-    "birth_date": "10/02/1994",
-    "birth_place": "Gorleston",
-    "height": "1,83 m",
-    "foot": "right",
-    "agent": "Two Touch Agency",
-    "club": "Crystal Palace",
-    "joined": "12/07/2021",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Crystal Palace"
   },
   {
     "id": "434224",
     "name": "Maxence Lacroix",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "5",
     "age": "26",
     "nationality": [
@@ -2196,21 +2187,12 @@
     ],
     "market_value": "€40.00m",
     "team_id": "873",
-    "team_name": "Crystal Palace",
-    "full_name": "Guy Maxence Lacroix",
-    "birth_date": "06/04/2000",
-    "birth_place": "Villeneuve-Saint-Georges",
-    "height": "1,90 m",
-    "foot": "right",
-    "agent": "Unique Sports Group",
-    "club": "Crystal Palace",
-    "joined": "30/08/2024",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Crystal Palace"
   },
   {
     "id": "578539",
     "name": "Chris Richards",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "26",
     "age": "26",
     "nationality": [
@@ -2218,21 +2200,26 @@
     ],
     "market_value": "€25.00m",
     "team_id": "873",
-    "team_name": "Crystal Palace",
-    "full_name": "Christopher Jeffrey Richards",
-    "birth_date": "28/03/2000",
-    "birth_place": "Birmingham, Alabama",
-    "height": "1,88 m",
-    "foot": "right",
-    "agent": "Roc Nation Sports",
-    "club": "Crystal Palace",
-    "joined": "27/07/2022",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Crystal Palace"
+  },
+  {
+    "id": "1006411",
+    "name": "Jaydee Canvot",
+    "position": "Centre-Back",
+    "number": "23",
+    "age": "19",
+    "nationality": [
+      "France",
+      "Senegal"
+    ],
+    "market_value": "€20.00m",
+    "team_id": "873",
+    "team_name": "Crystal Palace"
   },
   {
     "id": "689637",
     "name": "Chadi Riad",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "34",
     "age": "22",
     "nationality": [
@@ -2241,21 +2228,12 @@
     ],
     "market_value": "€12.00m",
     "team_id": "873",
-    "team_name": "Crystal Palace",
-    "full_name": "Chadi Riad Dnanou, شادي رياض دنانو",
-    "birth_date": "17/06/2003",
-    "birth_place": "Palma de Mallorca",
-    "height": "1,87 m",
-    "foot": "left",
-    "agent": "Roc Nation Sports",
-    "club": "Crystal Palace",
-    "joined": "02/07/2024",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Crystal Palace"
   },
   {
     "id": "730893",
     "name": "Tyrick Mitchell",
-    "position": "Defender - Left-Back",
+    "position": "Left-Back",
     "number": "3",
     "age": "26",
     "nationality": [
@@ -2264,21 +2242,40 @@
     ],
     "market_value": "€25.00m",
     "team_id": "873",
-    "team_name": "Crystal Palace",
-    "full_name": "Tyrick Kwon Mitchell",
-    "birth_date": "01/09/1999",
-    "birth_place": "London",
-    "height": "1,81 m",
-    "foot": "left",
-    "agent": "ROOF",
-    "club": "Crystal Palace",
-    "joined": "01/07/2020",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Crystal Palace"
+  },
+  {
+    "id": "293194",
+    "name": "Borna Sosa",
+    "position": "Left-Back",
+    "number": "24",
+    "age": "28",
+    "nationality": [
+      "Croatia",
+      "Germany"
+    ],
+    "market_value": "€4.00m",
+    "team_id": "873",
+    "team_name": "Crystal Palace"
+  },
+  {
+    "id": "1047257",
+    "name": "Rio Cardines",
+    "position": "Left-Back",
+    "number": "59",
+    "age": "19",
+    "nationality": [
+      "Trinidad and Tobago",
+      "England"
+    ],
+    "market_value": "€300k",
+    "team_id": "873",
+    "team_name": "Crystal Palace"
   },
   {
     "id": "493003",
     "name": "Daniel Muñoz",
-    "position": "Defender - Right-Back",
+    "position": "Right-Back",
     "number": "2",
     "age": "29",
     "nationality": [
@@ -2286,21 +2283,12 @@
     ],
     "market_value": "€27.00m",
     "team_id": "873",
-    "team_name": "Crystal Palace",
-    "full_name": "Daniel Muñoz Mejía",
-    "birth_date": "26/05/1996",
-    "birth_place": "Amalfi",
-    "height": "1,81 m",
-    "foot": "right",
-    "agent": "Goal Management SAS",
-    "club": "Crystal Palace",
-    "joined": "30/01/2024",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Crystal Palace"
   },
   {
     "id": "1047261",
     "name": "Caleb Kporha",
-    "position": "Defender - Right-Back",
+    "position": "Right-Back",
     "number": "58",
     "age": "19",
     "nationality": [
@@ -2309,19 +2297,12 @@
     ],
     "market_value": "€1.00m",
     "team_id": "873",
-    "team_name": "Crystal Palace",
-    "full_name": "Caleb Billy Mawuko Kporha",
-    "birth_date": "15/07/2006",
-    "foot": "right",
-    "agent": "Box 2 Box Sports",
-    "club": "Crystal Palace",
-    "joined": "01/07/2024",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Crystal Palace"
   },
   {
     "id": "85177",
     "name": "Nathaniel Clyne",
-    "position": "Defender - Right-Back",
+    "position": "Right-Back",
     "number": "17",
     "age": "35",
     "nationality": [
@@ -2330,21 +2311,12 @@
     ],
     "market_value": "€500k",
     "team_id": "873",
-    "team_name": "Crystal Palace",
-    "full_name": "Nathaniel Edwin Clyne",
-    "birth_date": "05/04/1991",
-    "birth_place": "London",
-    "height": "1,75 m",
-    "foot": "right",
-    "agent": "ROOF",
-    "club": "Crystal Palace",
-    "joined": "14/10/2020",
-    "contract_expiry": "30/06/2026"
+    "team_name": "Crystal Palace"
   },
   {
     "id": "744149",
     "name": "Adam Wharton",
-    "position": "Midfield - Defensive Midfield",
+    "position": "Defensive Midfield",
     "number": "20",
     "age": "22",
     "nationality": [
@@ -2352,21 +2324,12 @@
     ],
     "market_value": "€60.00m",
     "team_id": "873",
-    "team_name": "Crystal Palace",
-    "full_name": "Adam James Wharton",
-    "birth_date": "06/02/2004",
-    "birth_place": "Blackburn",
-    "height": "1,82 m",
-    "foot": "left",
-    "agent": "OmniSports",
-    "club": "Crystal Palace",
-    "joined": "01/02/2024",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Crystal Palace"
   },
   {
     "id": "543387",
     "name": "Cheick Doucouré",
-    "position": "Midfield - Defensive Midfield",
+    "position": "Defensive Midfield",
     "number": "28",
     "age": "26",
     "nationality": [
@@ -2374,21 +2337,12 @@
     ],
     "market_value": "€13.00m",
     "team_id": "873",
-    "team_name": "Crystal Palace",
-    "full_name": "Cheick Oumar Doucouré",
-    "birth_date": "08/01/2000",
-    "birth_place": "Bamako",
-    "height": "1,80 m",
-    "foot": "right",
-    "agent": "Sababu Sport",
-    "club": "Crystal Palace",
-    "joined": "11/07/2022",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Crystal Palace"
   },
   {
     "id": "262980",
     "name": "Jefferson Lerma",
-    "position": "Midfield - Defensive Midfield",
+    "position": "Defensive Midfield",
     "number": "8",
     "age": "31",
     "nationality": [
@@ -2396,21 +2350,25 @@
     ],
     "market_value": "€8.00m",
     "team_id": "873",
-    "team_name": "Crystal Palace",
-    "full_name": "Jefferson Andrés Lerma Solís",
-    "birth_date": "25/10/1994",
-    "birth_place": "Cerrito",
-    "height": "1,79 m",
-    "foot": "right",
-    "agent": "ABADSPORT",
-    "club": "Crystal Palace",
-    "joined": "01/07/2023",
-    "contract_expiry": "30/06/2026"
+    "team_name": "Crystal Palace"
+  },
+  {
+    "id": "860078",
+    "name": "Kaden Rodney",
+    "position": "Defensive Midfield",
+    "number": "42",
+    "age": "21",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€200k",
+    "team_id": "873",
+    "team_name": "Crystal Palace"
   },
   {
     "id": "207014",
     "name": "Will Hughes",
-    "position": "Midfield - Central Midfield",
+    "position": "Central Midfield",
     "number": "19",
     "age": "31",
     "nationality": [
@@ -2418,21 +2376,12 @@
     ],
     "market_value": "€6.00m",
     "team_id": "873",
-    "team_name": "Crystal Palace",
-    "full_name": "William James Hughes",
-    "birth_date": "17/04/1995",
-    "birth_place": "Weybridge",
-    "height": "1,85 m",
-    "foot": "left",
-    "agent": "Two Touch Agency",
-    "club": "Crystal Palace",
-    "joined": "28/08/2021",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Crystal Palace"
   },
   {
     "id": "356141",
     "name": "Daichi Kamada",
-    "position": "Midfield - Attacking Midfield",
+    "position": "Attacking Midfield",
     "number": "18",
     "age": "29",
     "nationality": [
@@ -2440,21 +2389,12 @@
     ],
     "market_value": "€12.00m",
     "team_id": "873",
-    "team_name": "Crystal Palace",
-    "full_name": "鎌田 大地",
-    "birth_date": "05/08/1996",
-    "birth_place": "Iyo, Ehime",
-    "height": "1,80 m",
-    "foot": "right",
-    "agent": "Roberto Tukada",
-    "club": "Crystal Palace",
-    "joined": "01/07/2024",
-    "contract_expiry": "30/06/2026"
+    "team_name": "Crystal Palace"
   },
   {
     "id": "747009",
     "name": "Justin Devenny",
-    "position": "Midfield - Attacking Midfield",
+    "position": "Attacking Midfield",
     "number": "55",
     "age": "22",
     "nationality": [
@@ -2463,20 +2403,12 @@
     ],
     "market_value": "€12.00m",
     "team_id": "873",
-    "team_name": "Crystal Palace",
-    "birth_date": "11/10/2003",
-    "birth_place": "Irvine",
-    "height": "1,84 m",
-    "foot": "left",
-    "agent": "Consilium Sports ...",
-    "club": "Crystal Palace",
-    "joined": "01/07/2024",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Crystal Palace"
   },
   {
     "id": "410225",
     "name": "Ismaïla Sarr",
-    "position": "Attack - Right Winger",
+    "position": "Right Winger",
     "number": "7",
     "age": "28",
     "nationality": [
@@ -2484,20 +2416,66 @@
     ],
     "market_value": "€35.00m",
     "team_id": "873",
-    "team_name": "Crystal Palace",
-    "birth_date": "25/02/1998",
-    "birth_place": "Saint-Louis",
-    "height": "1,85 m",
-    "foot": "right",
-    "agent": "Relatives",
-    "club": "Crystal Palace",
-    "joined": "01/08/2024",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Crystal Palace"
+  },
+  {
+    "id": "568157",
+    "name": "Yéremy Pino",
+    "position": "Right Winger",
+    "number": "10",
+    "age": "23",
+    "nationality": [
+      "Spain"
+    ],
+    "market_value": "€35.00m",
+    "team_id": "873",
+    "team_name": "Crystal Palace"
+  },
+  {
+    "id": "470607",
+    "name": "Brennan Johnson",
+    "position": "Right Winger",
+    "number": "11",
+    "age": "24",
+    "nationality": [
+      "Wales",
+      "England"
+    ],
+    "market_value": "€35.00m",
+    "team_id": "873",
+    "team_name": "Crystal Palace"
+  },
+  {
+    "id": "500689",
+    "name": "Evann Guessand",
+    "position": "Right Winger",
+    "number": "29",
+    "age": "24",
+    "nationality": [
+      "Cote d'Ivoire",
+      "France"
+    ],
+    "market_value": "€28.00m",
+    "team_id": "873",
+    "team_name": "Crystal Palace"
+  },
+  {
+    "id": "429983",
+    "name": "Jørgen Strand Larsen",
+    "position": "Centre-Forward",
+    "number": "22",
+    "age": "26",
+    "nationality": [
+      "Norway"
+    ],
+    "market_value": "€45.00m",
+    "team_id": "873",
+    "team_name": "Crystal Palace"
   },
   {
     "id": "420002",
     "name": "Jean-Philippe Mateta",
-    "position": "Attack - Centre-Forward",
+    "position": "Centre-Forward",
     "number": "14",
     "age": "28",
     "nationality": [
@@ -2506,20 +2484,25 @@
     ],
     "market_value": "€35.00m",
     "team_id": "873",
-    "team_name": "Crystal Palace",
-    "birth_date": "28/06/1997",
-    "birth_place": "Sevran",
-    "height": "1,92 m",
-    "foot": "right",
-    "agent": "Paul Latouche",
-    "club": "Crystal Palace",
-    "joined": "31/01/2022",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Crystal Palace"
+  },
+  {
+    "id": "1124005",
+    "name": "Christantus Uche",
+    "position": "Centre-Forward",
+    "number": "12",
+    "age": "23",
+    "nationality": [
+      "Nigeria"
+    ],
+    "market_value": "€15.00m",
+    "team_id": "873",
+    "team_name": "Crystal Palace"
   },
   {
     "id": "340324",
     "name": "Eddie Nketiah",
-    "position": "Attack - Centre-Forward",
+    "position": "Centre-Forward",
     "number": "9",
     "age": "26",
     "nationality": [
@@ -2528,16 +2511,7 @@
     ],
     "market_value": "€14.00m",
     "team_id": "873",
-    "team_name": "Crystal Palace",
-    "full_name": "Edward Keddar Nketiah",
-    "birth_date": "30/05/1999",
-    "birth_place": "London",
-    "height": "1,75 m",
-    "foot": "right",
-    "agent": "Elite Project Group ...",
-    "club": "Crystal Palace",
-    "joined": "30/08/2024",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Crystal Palace"
   },
   {
     "id": "130164",
@@ -2550,21 +2524,39 @@
     ],
     "market_value": "€15.00m",
     "team_id": "29",
-    "team_name": "Everton",
-    "full_name": "Jordan Lee Pickford",
-    "birth_date": "07/03/1994",
-    "birth_place": "Washington",
-    "height": "1,85 m",
-    "foot": "left",
-    "agent": "CAA Stellar",
-    "club": "Everton FC",
-    "joined": "01/07/2017",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Everton"
+  },
+  {
+    "id": "357658",
+    "name": "Mark Travers",
+    "position": "Goalkeeper",
+    "number": "12",
+    "age": "27",
+    "nationality": [
+      "Ireland"
+    ],
+    "market_value": "€4.00m",
+    "team_id": "29",
+    "team_name": "Everton"
+  },
+  {
+    "id": "215810",
+    "name": "Tom King",
+    "position": "Goalkeeper",
+    "number": "31",
+    "age": "31",
+    "nationality": [
+      "Wales",
+      "England"
+    ],
+    "market_value": "€150k",
+    "team_id": "29",
+    "team_name": "Everton"
   },
   {
     "id": "661053",
     "name": "Jarrad Branthwaite",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "32",
     "age": "23",
     "nationality": [
@@ -2572,20 +2564,12 @@
     ],
     "market_value": "€45.00m",
     "team_id": "29",
-    "team_name": "Everton",
-    "full_name": "Jarrad Paul Branthwaite",
-    "birth_date": "27/06/2002",
-    "birth_place": "Carlisle",
-    "height": "1,95 m",
-    "foot": "left",
-    "club": "Everton FC",
-    "joined": "13/01/2020",
-    "contract_expiry": "30/06/2030"
+    "team_name": "Everton"
   },
   {
     "id": "173504",
     "name": "James Tarkowski",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "6",
     "age": "33",
     "nationality": [
@@ -2594,20 +2578,12 @@
     ],
     "market_value": "€7.00m",
     "team_id": "29",
-    "team_name": "Everton",
-    "full_name": "James Alan Tarkowski",
-    "birth_date": "19/11/1992",
-    "birth_place": "Manchester",
-    "height": "1,85 m",
-    "foot": "right",
-    "club": "Everton FC",
-    "joined": "02/07/2022",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Everton"
   },
   {
     "id": "118534",
     "name": "Michael Keane",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "5",
     "age": "33",
     "nationality": [
@@ -2616,21 +2592,12 @@
     ],
     "market_value": "€4.00m",
     "team_id": "29",
-    "team_name": "Everton",
-    "full_name": "Michael Vincent Keane",
-    "birth_date": "11/01/1993",
-    "birth_place": "Stockport",
-    "height": "1,88 m",
-    "foot": "right",
-    "agent": "TFK Sports ...",
-    "club": "Everton FC",
-    "joined": "03/07/2017",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Everton"
   },
   {
     "id": "404842",
     "name": "Vitaliy Mykolenko",
-    "position": "Defender - Left-Back",
+    "position": "Left-Back",
     "number": "16",
     "age": "26",
     "nationality": [
@@ -2638,21 +2605,26 @@
     ],
     "market_value": "€25.00m",
     "team_id": "29",
-    "team_name": "Everton",
-    "full_name": "Миколенко Віталій Сергійович",
-    "birth_date": "29/05/1999",
-    "birth_place": "Cherkasy",
-    "height": "1,80 m",
-    "foot": "left",
-    "agent": "ProStar",
-    "club": "Everton FC",
-    "joined": "01/01/2022",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Everton"
+  },
+  {
+    "id": "938146",
+    "name": "Adam Aznou",
+    "position": "Left-Back",
+    "number": "39",
+    "age": "19",
+    "nationality": [
+      "Morocco",
+      "Spain"
+    ],
+    "market_value": "€7.00m",
+    "team_id": "29",
+    "team_name": "Everton"
   },
   {
     "id": "711544",
     "name": "Jake O'Brien",
-    "position": "Defender - Right-Back",
+    "position": "Right-Back",
     "number": "15",
     "age": "25",
     "nationality": [
@@ -2660,21 +2632,12 @@
     ],
     "market_value": "€18.00m",
     "team_id": "29",
-    "team_name": "Everton",
-    "full_name": "Jake Patrick O'Brien",
-    "birth_date": "15/05/2001",
-    "birth_place": "Cork",
-    "height": "1,97 m",
-    "foot": "right",
-    "agent": "Unique Sports Group",
-    "club": "Everton FC",
-    "joined": "30/07/2024",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Everton"
   },
   {
     "id": "424015",
     "name": "Nathan Patterson",
-    "position": "Defender - Right-Back",
+    "position": "Right-Back",
     "number": "2",
     "age": "24",
     "nationality": [
@@ -2682,20 +2645,25 @@
     ],
     "market_value": "€10.00m",
     "team_id": "29",
-    "team_name": "Everton",
-    "birth_date": "16/10/2001",
-    "birth_place": "Glasgow",
-    "height": "1,89 m",
-    "foot": "right",
-    "agent": "SA33",
-    "club": "Everton FC",
-    "joined": "04/01/2022",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Everton"
+  },
+  {
+    "id": "68390",
+    "name": "Séamus Coleman",
+    "position": "Right-Back",
+    "number": "23",
+    "age": "37",
+    "nationality": [
+      "Ireland"
+    ],
+    "market_value": "€300k",
+    "team_id": "29",
+    "team_name": "Everton"
   },
   {
     "id": "505219",
     "name": "James Garner",
-    "position": "Midfield - Defensive Midfield",
+    "position": "Defensive Midfield",
     "number": "37",
     "age": "25",
     "nationality": [
@@ -2703,21 +2671,12 @@
     ],
     "market_value": "€35.00m",
     "team_id": "29",
-    "team_name": "Everton",
-    "full_name": "James David Garner",
-    "birth_date": "13/03/2001",
-    "birth_place": "Birkenhead",
-    "height": "1,82 m",
-    "foot": "right",
-    "agent": "Triple S Sports",
-    "club": "Everton FC",
-    "joined": "01/09/2022",
-    "contract_expiry": "30/06/2030"
+    "team_name": "Everton"
   },
   {
     "id": "126665",
     "name": "Idrissa Gueye",
-    "position": "Midfield - Defensive Midfield",
+    "position": "Defensive Midfield",
     "number": "27",
     "age": "36",
     "nationality": [
@@ -2725,21 +2684,39 @@
     ],
     "market_value": "€1.00m",
     "team_id": "29",
-    "team_name": "Everton",
-    "full_name": "Idrissa Gana Gueye",
-    "birth_date": "26/09/1989",
-    "birth_place": "Dakar",
-    "height": "1,74 m",
-    "foot": "right",
-    "agent": "Roc Nation Sports",
-    "club": "Everton FC",
-    "joined": "01/09/2022",
-    "contract_expiry": "30/06/2026"
+    "team_name": "Everton"
+  },
+  {
+    "id": "475188",
+    "name": "Kiernan Dewsbury-Hall",
+    "position": "Central Midfield",
+    "number": "22",
+    "age": "27",
+    "nationality": [
+      "England",
+      "Ireland"
+    ],
+    "market_value": "€32.00m",
+    "team_id": "29",
+    "team_name": "Everton"
+  },
+  {
+    "id": "748319",
+    "name": "Carlos Alcaraz",
+    "position": "Central Midfield",
+    "number": "24",
+    "age": "23",
+    "nationality": [
+      "Argentina"
+    ],
+    "market_value": "€15.00m",
+    "team_id": "29",
+    "team_name": "Everton"
   },
   {
     "id": "696589",
     "name": "Tim Iroegbunam",
-    "position": "Midfield - Central Midfield",
+    "position": "Central Midfield",
     "number": "42",
     "age": "22",
     "nationality": [
@@ -2748,21 +2725,66 @@
     ],
     "market_value": "€15.00m",
     "team_id": "29",
-    "team_name": "Everton",
-    "full_name": "Timothy Emeka Iroegbunam",
-    "birth_date": "30/06/2003",
-    "birth_place": "Birmingham",
-    "height": "1,83 m",
-    "foot": "right",
-    "agent": "S Palmer Sports",
-    "club": "Everton FC",
-    "joined": "01/07/2024",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Everton"
+  },
+  {
+    "id": "1107733",
+    "name": "Harrison Armstrong",
+    "position": "Central Midfield",
+    "number": "45",
+    "age": "19",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€12.00m",
+    "team_id": "29",
+    "team_name": "Everton"
+  },
+  {
+    "id": "608832",
+    "name": "Merlin Röhl",
+    "position": "Attacking Midfield",
+    "number": "34",
+    "age": "23",
+    "nationality": [
+      "Germany"
+    ],
+    "market_value": "€16.00m",
+    "team_id": "29",
+    "team_name": "Everton"
+  },
+  {
+    "id": "203460",
+    "name": "Jack Grealish",
+    "position": "Left Winger",
+    "number": "18",
+    "age": "30",
+    "nationality": [
+      "England",
+      "Ireland"
+    ],
+    "market_value": "€25.00m",
+    "team_id": "29",
+    "team_name": "Everton"
+  },
+  {
+    "id": "936874",
+    "name": "Tyrique George",
+    "position": "Left Winger",
+    "number": "19",
+    "age": "20",
+    "nationality": [
+      "England",
+      "Nigeria"
+    ],
+    "market_value": "€22.00m",
+    "team_id": "29",
+    "team_name": "Everton"
   },
   {
     "id": "584769",
     "name": "Dwight McNeil",
-    "position": "Attack - Left Winger",
+    "position": "Left Winger",
     "number": "7",
     "age": "26",
     "nationality": [
@@ -2771,21 +2793,12 @@
     ],
     "market_value": "€20.00m",
     "team_id": "29",
-    "team_name": "Everton",
-    "full_name": "Dwight James Matthew McNeil",
-    "birth_date": "22/11/1999",
-    "birth_place": "Rochdale",
-    "height": "1,83 m",
-    "foot": "left",
-    "agent": "Unique Sports Group",
-    "club": "Everton FC",
-    "joined": "28/07/2022",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Everton"
   },
   {
     "id": "623570",
     "name": "Iliman Ndiaye",
-    "position": "Attack - Right Winger",
+    "position": "Right Winger",
     "number": "10",
     "age": "26",
     "nationality": [
@@ -2794,21 +2807,39 @@
     ],
     "market_value": "€50.00m",
     "team_id": "29",
-    "team_name": "Everton",
-    "full_name": "Iliman Cheikh Baroy Ndiaye",
-    "birth_date": "06/03/2000",
-    "birth_place": "Rouen",
-    "height": "1,80 m",
-    "foot": "right",
-    "agent": "Classico",
-    "club": "Everton FC",
-    "joined": "03/07/2024",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Everton"
+  },
+  {
+    "id": "866655",
+    "name": "Tyler Dibling",
+    "position": "Right Winger",
+    "number": "20",
+    "age": "20",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€22.00m",
+    "team_id": "29",
+    "team_name": "Everton"
+  },
+  {
+    "id": "937941",
+    "name": "Thierno Barry",
+    "position": "Centre-Forward",
+    "number": "11",
+    "age": "23",
+    "nationality": [
+      "France",
+      "Guinea"
+    ],
+    "market_value": "€30.00m",
+    "team_id": "29",
+    "team_name": "Everton"
   },
   {
     "id": "595809",
     "name": "Beto",
-    "position": "Attack - Centre-Forward",
+    "position": "Centre-Forward",
     "number": "9",
     "age": "28",
     "nationality": [
@@ -2817,15 +2848,7 @@
     ],
     "market_value": "€20.00m",
     "team_id": "29",
-    "team_name": "Everton",
-    "birth_date": "31/01/1998",
-    "birth_place": "Lisboa",
-    "height": "1,94 m",
-    "foot": "right",
-    "agent": "PR10",
-    "club": "Everton FC",
-    "joined": "29/08/2023",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Everton"
   },
   {
     "id": "72476",
@@ -2838,20 +2861,25 @@
     ],
     "market_value": "€8.00m",
     "team_id": "931",
-    "team_name": "Fulham",
-    "birth_date": "04/03/1992",
-    "birth_place": "Bietigheim-Bissingen",
-    "height": "1,90 m",
-    "foot": "right",
-    "agent": "fair-sport GmbH",
-    "club": "Fulham FC",
-    "joined": "02/08/2022",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Fulham"
+  },
+  {
+    "id": "127181",
+    "name": "Benjamin Lecomte",
+    "position": "Goalkeeper",
+    "number": "23",
+    "age": "35",
+    "nationality": [
+      "France"
+    ],
+    "market_value": "€1.20m",
+    "team_id": "931",
+    "team_name": "Fulham"
   },
   {
     "id": "461883",
     "name": "Calvin Bassey",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "3",
     "age": "26",
     "nationality": [
@@ -2860,21 +2888,12 @@
     ],
     "market_value": "€28.00m",
     "team_id": "931",
-    "team_name": "Fulham",
-    "full_name": "Calvin Bassey Ughelumba",
-    "birth_date": "31/12/1999",
-    "birth_place": "Aosta",
-    "height": "1,85 m",
-    "foot": "left",
-    "agent": "Unique Sports Group",
-    "club": "Fulham FC",
-    "joined": "28/07/2023",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Fulham"
   },
   {
     "id": "260827",
     "name": "Joachim Andersen",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "5",
     "age": "29",
     "nationality": [
@@ -2882,21 +2901,12 @@
     ],
     "market_value": "€25.00m",
     "team_id": "931",
-    "team_name": "Fulham",
-    "full_name": "Joachim Christian Andersen",
-    "birth_date": "31/05/1996",
-    "birth_place": "Frederiksberg",
-    "height": "1,92 m",
-    "foot": "right",
-    "agent": "SEG",
-    "club": "Fulham FC",
-    "joined": "23/08/2024",
-    "contract_expiry": "30/06/2029"
+    "team_name": "Fulham"
   },
   {
     "id": "272622",
     "name": "Issa Diop",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "31",
     "age": "29",
     "nationality": [
@@ -2905,20 +2915,12 @@
     ],
     "market_value": "€10.00m",
     "team_id": "931",
-    "team_name": "Fulham",
-    "full_name": "Issa Laye Lucas Jean Diop, عيسى ديوب",
-    "birth_date": "09/01/1997",
-    "birth_place": "Toulouse",
-    "height": "1,94 m",
-    "foot": "right",
-    "club": "Fulham FC",
-    "joined": "10/08/2022",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Fulham"
   },
   {
     "id": "494880",
     "name": "Jorge Cuenca",
-    "position": "Defender - Centre-Back",
+    "position": "Centre-Back",
     "number": "15",
     "age": "26",
     "nationality": [
@@ -2926,21 +2928,12 @@
     ],
     "market_value": "€8.00m",
     "team_id": "931",
-    "team_name": "Fulham",
-    "full_name": "Jorge Cuenca Barreno",
-    "birth_date": "17/11/1999",
-    "birth_place": "Madrid",
-    "height": "1,90 m",
-    "foot": "left",
-    "agent": "InterStarDeporte",
-    "club": "Fulham FC",
-    "joined": "03/08/2024",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Fulham"
   },
   {
     "id": "349701",
     "name": "Antonee Robinson",
-    "position": "Defender - Left-Back",
+    "position": "Left-Back",
     "number": "33",
     "age": "28",
     "nationality": [
@@ -2949,20 +2942,12 @@
     ],
     "market_value": "€25.00m",
     "team_id": "931",
-    "team_name": "Fulham",
-    "birth_date": "08/08/1997",
-    "birth_place": "Milton Keynes",
-    "height": "1,83 m",
-    "foot": "left",
-    "agent": "THE·TEAM",
-    "club": "Fulham FC",
-    "joined": "20/08/2020",
-    "contract_expiry": "30/06/2028"
+    "team_name": "Fulham"
   },
   {
     "id": "392775",
     "name": "Ryan Sessegnon",
-    "position": "Defender - Left-Back",
+    "position": "Left-Back",
     "number": "30",
     "age": "26",
     "nationality": [
@@ -2970,16 +2955,7 @@
     ],
     "market_value": "€20.00m",
     "team_id": "931",
-    "team_name": "Fulham",
-    "full_name": "Kouassi Ryan Sessegnon",
-    "birth_date": "18/05/2000",
-    "birth_place": "London",
-    "height": "1,78 m",
-    "foot": "left",
-    "agent": "Unique Sports Group",
-    "club": "Fulham FC",
-    "joined": "26/07/2024",
-    "contract_expiry": "30/06/2027"
+    "team_name": "Fulham"
   },
   {
     "id": "206746",
@@ -3158,6 +3134,27 @@
     "contract_expiry": "30/06/2029"
   },
   {
+    "id": "900195",
+    "name": "Kevin",
+    "position": "Attack - Left Winger",
+    "number": "22",
+    "age": "23",
+    "nationality": [
+      "Brazil"
+    ],
+    "market_value": "€30.00m",
+    "team_id": "931",
+    "team_name": "Fulham",
+    "birth_date": "04/01/2003",
+    "birth_place": "São Paulo",
+    "height": "1,76 m",
+    "foot": "right",
+    "agent": "Talents Sports",
+    "club": "Fulham FC",
+    "joined": "01/09/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
     "id": "242631",
     "name": "Alex Iwobi",
     "position": "Attack - Left Winger",
@@ -3181,6 +3178,28 @@
     "contract_expiry": "30/06/2028"
   },
   {
+    "id": "661207",
+    "name": "Oscar Bobb",
+    "position": "Attack - Right Winger",
+    "number": "14",
+    "age": "22",
+    "nationality": [
+      "Norway",
+      "The Gambia"
+    ],
+    "market_value": "€30.00m",
+    "team_id": "931",
+    "team_name": "Fulham",
+    "birth_date": "12/07/2003",
+    "birth_place": "Oslo",
+    "height": "1,75 m",
+    "foot": "left",
+    "agent": "CAA Stellar",
+    "club": "Fulham FC",
+    "joined": "30/01/2026",
+    "contract_expiry": "30/06/2031"
+  },
+  {
     "id": "279455",
     "name": "Harry Wilson",
     "position": "Attack - Right Winger",
@@ -3200,6 +3219,28 @@
     "agent": "Unique Sports Group",
     "club": "Fulham FC",
     "joined": "24/07/2021",
+    "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "401922",
+    "name": "Samuel Chukwueze",
+    "position": "Attack - Right Winger",
+    "number": "19",
+    "age": "26",
+    "nationality": [
+      "Nigeria"
+    ],
+    "market_value": "€15.00m",
+    "team_id": "931",
+    "team_name": "Fulham",
+    "full_name": "Samuel Chimerenka Chukwueze",
+    "birth_date": "22/05/1999",
+    "birth_place": "Umuahia",
+    "height": "1,72 m",
+    "foot": "left",
+    "agent": "InterLex Sport",
+    "club": "Fulham FC",
+    "joined": "01/09/2025",
     "contract_expiry": "30/06/2026"
   },
   {
@@ -3242,6 +3283,29 @@
     "foot": "right",
     "club": "Fulham FC",
     "joined": "25/07/2023",
+    "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "1069512",
+    "name": "Jonah Kusi-Asare",
+    "position": "Attack - Centre-Forward",
+    "number": "18",
+    "age": "18",
+    "nationality": [
+      "Sweden",
+      "Ghana"
+    ],
+    "market_value": "€4.00m",
+    "team_id": "931",
+    "team_name": "Fulham",
+    "full_name": "Jonah Daniel Kusi-Asare",
+    "birth_date": "04/07/2007",
+    "birth_place": "Solna",
+    "height": "1,96 m",
+    "foot": "right",
+    "agent": "KSM AGENCY",
+    "club": "Fulham FC",
+    "joined": "01/09/2025",
     "contract_expiry": "30/06/2026"
   },
   {
@@ -3288,6 +3352,28 @@
     "contract_expiry": "30/06/2028"
   },
   {
+    "id": "61814",
+    "name": "David Button",
+    "position": "Goalkeeper",
+    "number": "27",
+    "age": "37",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€50k",
+    "team_id": "677",
+    "team_name": "Ipswich",
+    "full_name": "David Robert Edmund Button",
+    "birth_date": "27/02/1989",
+    "birth_place": "Stevenage",
+    "height": "1,91 m",
+    "foot": "right",
+    "agent": "THE·TEAM",
+    "club": "Ipswich Town",
+    "joined": "04/07/2025",
+    "contract_expiry": "30/06/2026"
+  },
+  {
     "id": "401320",
     "name": "Dara O'Shea",
     "position": "Defender - Centre-Back",
@@ -3330,6 +3416,51 @@
     "club": "Ipswich Town",
     "joined": "12/07/2024",
     "contract_expiry": "30/06/2029"
+  },
+  {
+    "id": "364827",
+    "name": "Cédric Kipré",
+    "position": "Defender - Centre-Back",
+    "number": "4",
+    "age": "29",
+    "nationality": [
+      "Cote d'Ivoire",
+      "France"
+    ],
+    "market_value": "€2.00m",
+    "team_id": "677",
+    "team_name": "Ipswich",
+    "birth_date": "09/12/1996",
+    "birth_place": "Paris",
+    "height": "1,93 m",
+    "foot": "right",
+    "agent": "CAA Base Ltd",
+    "club": "Ipswich Town",
+    "joined": "13/07/2025",
+    "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "758030",
+    "name": "Elkan Baggott",
+    "position": "Defender - Centre-Back",
+    "number": "25",
+    "age": "23",
+    "nationality": [
+      "Indonesia",
+      "England"
+    ],
+    "market_value": "€200k",
+    "team_id": "677",
+    "team_name": "Ipswich",
+    "full_name": "Elkan William Tio Baggott",
+    "birth_date": "23/10/2002",
+    "birth_place": "Bangkok",
+    "height": "1,96 m",
+    "foot": "left",
+    "agent": "Refuel Performance ...",
+    "club": "Ipswich Town",
+    "joined": "01/07/2023",
+    "contract_expiry": "30/06/2028"
   },
   {
     "id": "596446",
@@ -3397,6 +3528,141 @@
     "contract_expiry": "30/06/2028"
   },
   {
+    "id": "351755",
+    "name": "Darnell Furlong",
+    "position": "Defender - Right-Back",
+    "number": "19",
+    "age": "30",
+    "nationality": [
+      "England",
+      "Montserrat"
+    ],
+    "market_value": "€3.00m",
+    "team_id": "677",
+    "team_name": "Ipswich",
+    "full_name": "Darnell Anthony Furlong",
+    "birth_date": "31/10/1995",
+    "birth_place": "Luton",
+    "height": "1,83 m",
+    "foot": "right",
+    "agent": "New Era Global ...",
+    "club": "Ipswich Town",
+    "joined": "28/08/2025",
+    "contract_expiry": "30/06/2028"
+  },
+  {
+    "id": "14086",
+    "name": "Ashley Young",
+    "position": "Defender - Right-Back",
+    "number": "15",
+    "age": "40",
+    "nationality": [
+      "England",
+      "Jamaica"
+    ],
+    "market_value": "€400k",
+    "team_id": "677",
+    "team_name": "Ipswich",
+    "full_name": "Ashley Simon Young",
+    "birth_date": "09/07/1985",
+    "birth_place": "Stevenage",
+    "height": "1,75 m",
+    "foot": "both",
+    "agent": "CAA Base Ltd",
+    "club": "Ipswich Town",
+    "joined": "23/07/2025",
+    "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "315145",
+    "name": "Azor Matusiwa",
+    "position": "Midfield - Defensive Midfield",
+    "number": "5",
+    "age": "28",
+    "nationality": [
+      "Netherlands",
+      "Angola"
+    ],
+    "market_value": "€11.00m",
+    "team_id": "677",
+    "team_name": "Ipswich",
+    "birth_date": "28/04/1998",
+    "birth_place": "Hilversum",
+    "height": "1,73 m",
+    "foot": "right",
+    "agent": "ER Sport Agency",
+    "club": "Ipswich Town",
+    "joined": "13/07/2025",
+    "contract_expiry": "30/06/2029"
+  },
+  {
+    "id": "468066",
+    "name": "Jens Cajuste",
+    "position": "Midfield - Defensive Midfield",
+    "number": "12",
+    "age": "26",
+    "nationality": [
+      "Sweden",
+      "United States"
+    ],
+    "market_value": "€8.00m",
+    "team_id": "677",
+    "team_name": "Ipswich",
+    "full_name": "Jens-Lys Michel Cajuste",
+    "birth_date": "10/08/1999",
+    "birth_place": "Göteborg",
+    "height": "1,88 m",
+    "foot": "right",
+    "agent": "World in Motion",
+    "club": "Ipswich Town",
+    "joined": "07/08/2025",
+    "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "715558",
+    "name": "Marcelino Núñez",
+    "position": "Midfield - Central Midfield",
+    "number": "32",
+    "age": "26",
+    "nationality": [
+      "Chile"
+    ],
+    "market_value": "€10.00m",
+    "team_id": "677",
+    "team_name": "Ipswich",
+    "full_name": "Marcelino Ignacio Núñez Espinoza",
+    "birth_date": "01/03/2000",
+    "birth_place": "Recoleta",
+    "height": "1,73 m",
+    "foot": "right",
+    "agent": "Vibra Futbol",
+    "club": "Ipswich Town",
+    "joined": "29/08/2025",
+    "contract_expiry": "30/06/2029"
+  },
+  {
+    "id": "570336",
+    "name": "Dan Neil",
+    "position": "Midfield - Central Midfield",
+    "number": "6",
+    "age": "24",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€5.50m",
+    "team_id": "677",
+    "team_name": "Ipswich",
+    "full_name": "Daniel Neil",
+    "birth_date": "13/12/2001",
+    "birth_place": "South Shields",
+    "height": "1,85 m",
+    "foot": "left",
+    "agent": "THE·TEAM",
+    "club": "Ipswich Town",
+    "joined": "27/01/2026",
+    "contract_expiry": "30/06/2026"
+  },
+  {
     "id": "458178",
     "name": "Jack Taylor",
     "position": "Midfield - Central Midfield",
@@ -3420,6 +3686,29 @@
     "contract_expiry": "30/06/2028"
   },
   {
+    "id": "621193",
+    "name": "Kasey McAteer",
+    "position": "Midfield - Right Midfield",
+    "number": "20",
+    "age": "24",
+    "nationality": [
+      "Ireland",
+      "England"
+    ],
+    "market_value": "€10.00m",
+    "team_id": "677",
+    "team_name": "Ipswich",
+    "full_name": "Kasey Ian McAteer",
+    "birth_date": "22/11/2001",
+    "birth_place": "Northampton",
+    "height": "1,77 m",
+    "foot": "right",
+    "agent": "Two Touch Agency",
+    "club": "Ipswich Town",
+    "joined": "22/08/2025",
+    "contract_expiry": "30/06/2029"
+  },
+  {
     "id": "255731",
     "name": "Wes Burns",
     "position": "Midfield - Right Midfield",
@@ -3440,6 +3729,28 @@
     "club": "Ipswich Town",
     "joined": "01/07/2021",
     "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "530813",
+    "name": "Anis Mehmeti",
+    "position": "Midfield - Attacking Midfield",
+    "number": "33",
+    "age": "25",
+    "nationality": [
+      "Albania",
+      "England"
+    ],
+    "market_value": "€14.00m",
+    "team_id": "677",
+    "team_name": "Ipswich",
+    "birth_date": "09/01/2001",
+    "birth_place": "London",
+    "height": "1,80 m",
+    "foot": "right",
+    "agent": "Besten Sports",
+    "club": "Ipswich Town",
+    "joined": "23/01/2026",
+    "contract_expiry": "30/06/2029"
   },
   {
     "id": "665390",
@@ -3487,6 +3798,27 @@
     "contract_expiry": "30/06/2029"
   },
   {
+    "id": "923504",
+    "name": "Sindre Walle Egeli",
+    "position": "Attack - Right Winger",
+    "number": "8",
+    "age": "19",
+    "nationality": [
+      "Norway"
+    ],
+    "market_value": "€18.00m",
+    "team_id": "677",
+    "team_name": "Ipswich",
+    "birth_date": "21/06/2006",
+    "birth_place": "Larvik",
+    "height": "1,82 m",
+    "foot": "left",
+    "agent": "Keypass AS",
+    "club": "Ipswich Town",
+    "joined": "29/08/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
     "id": "420808",
     "name": "George Hirst",
     "position": "Attack - Centre-Forward",
@@ -3510,6 +3842,51 @@
     "contract_expiry": "30/06/2029"
   },
   {
+    "id": "197642",
+    "name": "Chuba Akpom",
+    "position": "Attack - Centre-Forward",
+    "number": "29",
+    "age": "30",
+    "nationality": [
+      "England",
+      "Nigeria"
+    ],
+    "market_value": "€5.00m",
+    "team_id": "677",
+    "team_name": "Ipswich",
+    "full_name": "Chuba Amechi Akpom",
+    "birth_date": "09/10/1995",
+    "birth_place": "London",
+    "height": "1,83 m",
+    "foot": "right",
+    "agent": "Elite Project Group ...",
+    "club": "Ipswich Town",
+    "joined": "10/08/2025",
+    "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "633306",
+    "name": "Iván Azón",
+    "position": "Attack - Centre-Forward",
+    "number": "31",
+    "age": "23",
+    "nationality": [
+      "Spain"
+    ],
+    "market_value": "€4.00m",
+    "team_id": "677",
+    "team_name": "Ipswich",
+    "full_name": "Iván Azón Monzón",
+    "birth_date": "24/12/2002",
+    "birth_place": "Zaragoza",
+    "height": "1,82 m",
+    "foot": "right",
+    "agent": "DV7 Management",
+    "club": "Ipswich Town",
+    "joined": "28/08/2025",
+    "contract_expiry": "30/06/2026"
+  },
+  {
     "id": "486144",
     "name": "Jakub Stolarczyk",
     "position": "Goalkeeper",
@@ -3529,6 +3906,51 @@
     "club": "Leicester City",
     "joined": "01/07/2023",
     "contract_expiry": "30/06/2027"
+  },
+  {
+    "id": "551182",
+    "name": "Fran Vieites",
+    "position": "Goalkeeper",
+    "number": "13",
+    "age": "27",
+    "nationality": [
+      "Spain"
+    ],
+    "market_value": "€1.80m",
+    "team_id": "1003",
+    "team_name": "Leicester",
+    "full_name": "Francisco Barbosa Vieites",
+    "birth_date": "07/05/1999",
+    "birth_place": "Pontecesures",
+    "height": "1,96 m",
+    "foot": "left",
+    "agent": "F.J.VILLAVERDE",
+    "club": "Leicester City",
+    "joined": "06/09/2025",
+    "contract_expiry": "30/06/2027"
+  },
+  {
+    "id": "33873",
+    "name": "Asmir Begovic",
+    "position": "Goalkeeper",
+    "number": "31",
+    "age": "38",
+    "nationality": [
+      "Bosnia-Herzegovina",
+      "Canada"
+    ],
+    "market_value": "€200k",
+    "team_id": "1003",
+    "team_name": "Leicester",
+    "full_name": "Asmir Begović",
+    "birth_date": "20/06/1987",
+    "birth_place": "Trebinje",
+    "height": "1,99 m",
+    "foot": "right",
+    "agent": "Refuel Performance ...",
+    "club": "Leicester City",
+    "joined": "29/07/2025",
+    "contract_expiry": "30/06/2026"
   },
   {
     "id": "461833",
@@ -3552,6 +3974,29 @@
     "club": "Leicester City",
     "joined": "09/07/2024",
     "contract_expiry": "30/06/2029"
+  },
+  {
+    "id": "298091",
+    "name": "Harry Souttar",
+    "position": "Defender - Centre-Back",
+    "number": "15",
+    "age": "27",
+    "nationality": [
+      "Australia",
+      "Scotland"
+    ],
+    "market_value": "€5.00m",
+    "team_id": "1003",
+    "team_name": "Leicester",
+    "full_name": "Harry James Souttar",
+    "birth_date": "22/10/1998",
+    "birth_place": "Aberdeen",
+    "height": "1,98 m",
+    "foot": "right",
+    "agent": "FullNinety",
+    "club": "Leicester City",
+    "joined": "31/01/2023",
+    "contract_expiry": "30/06/2028"
   },
   {
     "id": "99331",
@@ -3599,6 +4044,28 @@
     "contract_expiry": "30/06/2027"
   },
   {
+    "id": "183318",
+    "name": "Jamaal Lascelles",
+    "position": "Defender - Centre-Back",
+    "number": "24",
+    "age": "32",
+    "nationality": [
+      "England",
+      "Barbados"
+    ],
+    "market_value": "€1.20m",
+    "team_id": "1003",
+    "team_name": "Leicester",
+    "birth_date": "11/11/1993",
+    "birth_place": "Derby",
+    "height": "1,88 m",
+    "foot": "right",
+    "agent": "Unique Sports Group",
+    "club": "Leicester City",
+    "joined": "02/02/2026",
+    "contract_expiry": "30/06/2026"
+  },
+  {
     "id": "564529",
     "name": "Victor Kristiansen",
     "position": "Defender - Left-Back",
@@ -3641,6 +4108,51 @@
     "club": "Leicester City",
     "joined": "01/07/2020",
     "contract_expiry": "30/06/2029"
+  },
+  {
+    "id": "215876",
+    "name": "Ricardo Pereira",
+    "position": "Defender - Right-Back",
+    "number": "21",
+    "age": "32",
+    "nationality": [
+      "Portugal",
+      "Cape Verde"
+    ],
+    "market_value": "€3.00m",
+    "team_id": "1003",
+    "team_name": "Leicester",
+    "full_name": "Ricardo Domingos Barbosa Pereira",
+    "birth_date": "06/10/1993",
+    "birth_place": "Lisboa",
+    "height": "1,75 m",
+    "foot": "right",
+    "agent": "F2F",
+    "club": "Leicester City",
+    "joined": "01/07/2018",
+    "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "1135364",
+    "name": "Olabade Aluko",
+    "position": "Defender - Right-Back",
+    "number": "56",
+    "age": "19",
+    "nationality": [
+      "England",
+      "Nigeria"
+    ],
+    "market_value": "€250k",
+    "team_id": "1003",
+    "team_name": "Leicester",
+    "full_name": "Olabade Olatomiwo Samuel Aluko",
+    "birth_date": "30/11/2006",
+    "height": "1,82 m",
+    "foot": "right",
+    "agent": "THE·TEAM",
+    "club": "Leicester City",
+    "joined": "01/07/2025",
+    "contract_expiry": "-"
   },
   {
     "id": "406638",
@@ -3687,6 +4199,97 @@
     "contract_expiry": "30/06/2026"
   },
   {
+    "id": "341501",
+    "name": "Hamza Choudhury",
+    "position": "Midfield - Defensive Midfield",
+    "number": "17",
+    "age": "28",
+    "nationality": [
+      "Bangladesh",
+      "England"
+    ],
+    "market_value": "€5.00m",
+    "team_id": "1003",
+    "team_name": "Leicester",
+    "full_name": "Hamza Dewan Choudhury, হামজা দেওয়ান চৌধুরী",
+    "birth_date": "01/10/1997",
+    "birth_place": "Loughborough",
+    "height": "1,78 m",
+    "foot": "right",
+    "agent": "THE·TEAM",
+    "club": "Leicester City",
+    "joined": "01/01/2018",
+    "contract_expiry": "30/06/2027"
+  },
+  {
+    "id": "667517",
+    "name": "Jordan James",
+    "position": "Midfield - Central Midfield",
+    "number": "6",
+    "age": "21",
+    "nationality": [
+      "Wales",
+      "England"
+    ],
+    "market_value": "€12.00m",
+    "team_id": "1003",
+    "team_name": "Leicester",
+    "full_name": "Jordan Anthony James",
+    "birth_date": "02/07/2004",
+    "birth_place": "Hereford",
+    "height": "1,82 m",
+    "foot": "right",
+    "agent": "Unique Sports Group",
+    "club": "Leicester City",
+    "joined": "01/09/2025",
+    "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "468198",
+    "name": "Joe Aribo",
+    "position": "Midfield - Central Midfield",
+    "number": "18",
+    "age": "29",
+    "nationality": [
+      "Nigeria",
+      "England"
+    ],
+    "market_value": "€2.80m",
+    "team_id": "1003",
+    "team_name": "Leicester",
+    "full_name": "Joseph Oluwaseyi Temitope Ayodele-Aribo",
+    "birth_date": "21/07/1996",
+    "birth_place": "London",
+    "height": "1,83 m",
+    "foot": "left",
+    "agent": "Elite Project Group ...",
+    "club": "Leicester City",
+    "joined": "02/02/2026",
+    "contract_expiry": "31/05/2026"
+  },
+  {
+    "id": "1078155",
+    "name": "Louis Page",
+    "position": "Midfield - Central Midfield",
+    "number": "25",
+    "age": "17",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€2.00m",
+    "team_id": "1003",
+    "team_name": "Leicester",
+    "full_name": "Louis Donald Page",
+    "birth_date": "10/07/2008",
+    "birth_place": "Lutterworth",
+    "height": "1,83 m",
+    "foot": "left",
+    "agent": "Game Changer FA",
+    "club": "Leicester City",
+    "joined": "01/07/2025",
+    "contract_expiry": "-"
+  },
+  {
     "id": "936842",
     "name": "Michael Golding",
     "position": "Midfield - Central Midfield",
@@ -3710,6 +4313,51 @@
     "contract_expiry": "30/06/2028"
   },
   {
+    "id": "646658",
+    "name": "Aaron Ramsey",
+    "position": "Midfield - Attacking Midfield",
+    "number": "30",
+    "age": "23",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€8.00m",
+    "team_id": "1003",
+    "team_name": "Leicester",
+    "full_name": "Aaron James Ramsey",
+    "birth_date": "21/01/2003",
+    "birth_place": "Birmingham",
+    "height": "1,81 m",
+    "foot": "right",
+    "agent": "Unique Sports Group",
+    "club": "Leicester City",
+    "joined": "01/09/2025",
+    "contract_expiry": "31/05/2026"
+  },
+  {
+    "id": "1047280",
+    "name": "Divine Mukasa",
+    "position": "Midfield - Attacking Midfield",
+    "number": "29",
+    "age": "18",
+    "nationality": [
+      "England",
+      "Uganda"
+    ],
+    "market_value": "€5.00m",
+    "team_id": "1003",
+    "team_name": "Leicester",
+    "full_name": "Divine Tayon Mahogany Mukasa",
+    "birth_date": "22/08/2007",
+    "birth_place": "London",
+    "height": "1,80 m",
+    "foot": "left",
+    "agent": "After Sports ...",
+    "club": "Leicester City",
+    "joined": "02/02/2026",
+    "contract_expiry": "31/05/2026"
+  },
+  {
     "id": "186186",
     "name": "Bobby De Cordova-Reid",
     "position": "Midfield - Attacking Midfield",
@@ -3731,6 +4379,29 @@
     "club": "Leicester City",
     "joined": "06/07/2024",
     "contract_expiry": "30/06/2027"
+  },
+  {
+    "id": "1245948",
+    "name": "Jeremy Monga",
+    "position": "Attack - Left Winger",
+    "number": "28",
+    "age": "16",
+    "nationality": [
+      "England",
+      "Zambia"
+    ],
+    "market_value": "€10.00m",
+    "team_id": "1003",
+    "team_name": "Leicester",
+    "full_name": "Jeremy Ngola Monga",
+    "birth_date": "10/07/2009",
+    "birth_place": "Coventry",
+    "height": "1,79 m",
+    "foot": "right",
+    "agent": "PLG",
+    "club": "Leicester City",
+    "joined": "01/07/2025",
+    "contract_expiry": "-"
   },
   {
     "id": "340328",
@@ -3778,6 +4449,29 @@
     "contract_expiry": "30/06/2029"
   },
   {
+    "id": "670988",
+    "name": "Wanya Marçal",
+    "position": "Attack - Right Winger",
+    "number": "27",
+    "age": "23",
+    "nationality": [
+      "Portugal",
+      "Angola"
+    ],
+    "market_value": "€300k",
+    "team_id": "1003",
+    "team_name": "Leicester",
+    "full_name": "Wanya Marçal Madivádua",
+    "birth_date": "19/10/2002",
+    "birth_place": "Leicester",
+    "height": "1,81 m",
+    "foot": "right",
+    "agent": "Pitch & Aspire",
+    "club": "Leicester City",
+    "joined": "01/07/2023",
+    "contract_expiry": "30/06/2026"
+  },
+  {
     "id": "365172",
     "name": "Patson Daka",
     "position": "Attack - Centre-Forward",
@@ -3822,6 +4516,50 @@
     "contract_expiry": "30/06/2026"
   },
   {
+    "id": "1020267",
+    "name": "Dujuan Richards",
+    "position": "Attack - Centre-Forward",
+    "number": "12",
+    "age": "20",
+    "nationality": [
+      "Jamaica"
+    ],
+    "market_value": "€500k",
+    "team_id": "1003",
+    "team_name": "Leicester",
+    "full_name": "Dujuan Odile Richards",
+    "birth_date": "10/11/2005",
+    "birth_place": "Port Royal",
+    "height": "1,89 m",
+    "foot": "left",
+    "agent": "Phoenix Sports ...",
+    "club": "Leicester City",
+    "joined": "02/02/2026",
+    "contract_expiry": "31/05/2026"
+  },
+  {
+    "id": "502676",
+    "name": "Giorgi Mamardashvili",
+    "position": "Goalkeeper",
+    "number": "25",
+    "age": "25",
+    "nationality": [
+      "Georgia"
+    ],
+    "market_value": "€28.00m",
+    "team_id": "31",
+    "team_name": "Liverpool",
+    "full_name": "გიორგი მამარდაშვილი",
+    "birth_date": "29/09/2000",
+    "birth_place": "Tiflis",
+    "height": "1,97 m",
+    "foot": "left",
+    "agent": "Free Football",
+    "club": "Liverpool FC",
+    "joined": "27/08/2024",
+    "contract_expiry": "30/06/2031"
+  },
+  {
     "id": "105470",
     "name": "Alisson",
     "position": "Goalkeeper",
@@ -3840,6 +4578,49 @@
     "agent": "NWS - Neis World ...",
     "club": "Liverpool FC",
     "joined": "19/07/2018",
+    "contract_expiry": "30/06/2027"
+  },
+  {
+    "id": "226049",
+    "name": "Freddie Woodman",
+    "position": "Goalkeeper",
+    "number": "28",
+    "age": "29",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€3.00m",
+    "team_id": "31",
+    "team_name": "Liverpool",
+    "full_name": "Frederick John Woodman",
+    "birth_date": "04/03/1997",
+    "birth_place": "London",
+    "height": "1,88 m",
+    "foot": "right",
+    "club": "Liverpool FC",
+    "joined": "01/07/2025",
+    "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "706815",
+    "name": "Harvey Davies",
+    "position": "Goalkeeper",
+    "number": "95",
+    "age": "22",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€500k",
+    "team_id": "31",
+    "team_name": "Liverpool",
+    "full_name": "Harvey Peter Davies",
+    "birth_date": "03/09/2003",
+    "birth_place": "Liverpool",
+    "height": "1,90 m",
+    "foot": "left",
+    "agent": "Unique Sports Group",
+    "club": "Liverpool FC",
+    "joined": "01/07/2024",
     "contract_expiry": "30/06/2027"
   },
   {
@@ -3863,6 +4644,27 @@
     "club": "Liverpool FC",
     "joined": "01/07/2021",
     "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "1086619",
+    "name": "Giovanni Leoni",
+    "position": "Defender - Centre-Back",
+    "number": "15",
+    "age": "19",
+    "nationality": [
+      "Italy"
+    ],
+    "market_value": "€25.00m",
+    "team_id": "31",
+    "team_name": "Liverpool",
+    "birth_date": "21/12/2006",
+    "birth_place": "Roma",
+    "height": "1,96 m",
+    "foot": "right",
+    "agent": "Excellence Sport",
+    "club": "Liverpool FC",
+    "joined": "15/08/2025",
+    "contract_expiry": "30/06/2031"
   },
   {
     "id": "139208",
@@ -3910,6 +4712,96 @@
     "contract_expiry": "30/06/2027"
   },
   {
+    "id": "503679",
+    "name": "Rhys Williams",
+    "position": "Defender - Centre-Back",
+    "number": "46",
+    "age": "25",
+    "nationality": [
+      "England",
+      "Jamaica"
+    ],
+    "market_value": "€500k",
+    "team_id": "31",
+    "team_name": "Liverpool",
+    "birth_date": "03/02/2001",
+    "birth_place": "Preston",
+    "height": "1,95 m",
+    "foot": "right",
+    "agent": "CAA Stellar",
+    "club": "Liverpool FC",
+    "joined": "01/07/2020",
+    "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "730861",
+    "name": "Milos Kerkez",
+    "position": "Defender - Left-Back",
+    "number": "6",
+    "age": "22",
+    "nationality": [
+      "Hungary",
+      "Serbia"
+    ],
+    "market_value": "€40.00m",
+    "team_id": "31",
+    "team_name": "Liverpool",
+    "full_name": "Милош Керкез",
+    "birth_date": "07/11/2003",
+    "birth_place": "Vrbas",
+    "height": "1,80 m",
+    "foot": "left",
+    "agent": "LIAN Sports Group",
+    "club": "Liverpool FC",
+    "joined": "01/07/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
+    "id": "234803",
+    "name": "Andrew Robertson",
+    "position": "Defender - Left-Back",
+    "number": "26",
+    "age": "32",
+    "nationality": [
+      "Scotland"
+    ],
+    "market_value": "€10.00m",
+    "team_id": "31",
+    "team_name": "Liverpool",
+    "full_name": "Andrew Henry Robertson",
+    "birth_date": "11/03/1994",
+    "birth_place": "Glasgow",
+    "height": "1,78 m",
+    "foot": "left",
+    "agent": "PLG",
+    "club": "Liverpool FC",
+    "joined": "21/07/2017",
+    "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "484547",
+    "name": "Jeremie Frimpong",
+    "position": "Defender - Right-Back",
+    "number": "30",
+    "age": "25",
+    "nationality": [
+      "Netherlands",
+      "Ghana"
+    ],
+    "market_value": "€35.00m",
+    "team_id": "31",
+    "team_name": "Liverpool",
+    "full_name": "Jeremie Agyekum Frimpong",
+    "birth_date": "10/12/2000",
+    "birth_place": "Amsterdam",
+    "height": "1,72 m",
+    "foot": "right",
+    "agent": "Prolific Sports ...",
+    "club": "Liverpool FC",
+    "joined": "01/07/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
     "id": "624258",
     "name": "Conor Bradley",
     "position": "Defender - Right-Back",
@@ -3928,6 +4820,28 @@
     "club": "Liverpool FC",
     "joined": "01/07/2023",
     "contract_expiry": "30/06/2029"
+  },
+  {
+    "id": "633652",
+    "name": "Calvin Ramsay",
+    "position": "Defender - Right-Back",
+    "number": "47",
+    "age": "22",
+    "nationality": [
+      "Scotland"
+    ],
+    "market_value": "€1.50m",
+    "team_id": "31",
+    "team_name": "Liverpool",
+    "full_name": "Calvin William Ramsay",
+    "birth_date": "31/07/2003",
+    "birth_place": "Aberdeen",
+    "height": "1,77 m",
+    "foot": "right",
+    "agent": "PLG",
+    "club": "Liverpool FC",
+    "joined": "01/07/2025",
+    "contract_expiry": "30/06/2027"
   },
   {
     "id": "478573",
@@ -3975,6 +4889,29 @@
     "contract_expiry": "30/06/2027"
   },
   {
+    "id": "864799",
+    "name": "Stefan Bajcetic",
+    "position": "Midfield - Defensive Midfield",
+    "number": "43",
+    "age": "21",
+    "nationality": [
+      "Spain",
+      "Serbia"
+    ],
+    "market_value": "€5.00m",
+    "team_id": "31",
+    "team_name": "Liverpool",
+    "full_name": "Stefan Bajčetić Maquieira",
+    "birth_date": "22/10/2004",
+    "birth_place": "Vigo",
+    "height": "1,85 m",
+    "foot": "right",
+    "agent": "ROOF",
+    "club": "Liverpool FC",
+    "joined": "01/07/2022",
+    "contract_expiry": "30/06/2027"
+  },
+  {
     "id": "534033",
     "name": "Alexis Mac Allister",
     "position": "Midfield - Central Midfield",
@@ -4015,6 +4952,51 @@
     "club": "Liverpool FC",
     "joined": "01/07/2020",
     "contract_expiry": "30/06/2027"
+  },
+  {
+    "id": "1045123",
+    "name": "Trey Nyoni",
+    "position": "Midfield - Central Midfield",
+    "number": "42",
+    "age": "18",
+    "nationality": [
+      "England",
+      "Zimbabwe"
+    ],
+    "market_value": "€6.00m",
+    "team_id": "31",
+    "team_name": "Liverpool",
+    "full_name": "Treymaurice Nyoni",
+    "birth_date": "30/06/2007",
+    "birth_place": "Leicester",
+    "height": "1,80 m",
+    "foot": "right",
+    "agent": "SEG",
+    "club": "Liverpool FC",
+    "joined": "01/07/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
+    "id": "598577",
+    "name": "Florian Wirtz",
+    "position": "Midfield - Attacking Midfield",
+    "number": "7",
+    "age": "23",
+    "nationality": [
+      "Germany"
+    ],
+    "market_value": "€110.00m",
+    "team_id": "31",
+    "team_name": "Liverpool",
+    "full_name": "Florian Richard Wirtz",
+    "birth_date": "03/05/2003",
+    "birth_place": "Pulheim",
+    "height": "1,77 m",
+    "foot": "right",
+    "agent": "Relatives",
+    "club": "Liverpool FC",
+    "joined": "01/07/2025",
+    "contract_expiry": "30/06/2030"
   },
   {
     "id": "451276",
@@ -4061,6 +5043,49 @@
     "contract_expiry": "30/06/2030"
   },
   {
+    "id": "1108466",
+    "name": "Rio Ngumoha",
+    "position": "Attack - Left Winger",
+    "number": "73",
+    "age": "17",
+    "nationality": [
+      "England",
+      "Nigeria"
+    ],
+    "market_value": "€20.00m",
+    "team_id": "31",
+    "team_name": "Liverpool",
+    "full_name": "Rio Bass Ray Ngumoha Adigun",
+    "birth_date": "29/08/2008",
+    "birth_place": "London",
+    "height": "1,70 m",
+    "foot": "right",
+    "club": "Liverpool FC",
+    "joined": "01/07/2025",
+    "contract_expiry": "30/06/2028"
+  },
+  {
+    "id": "148455",
+    "name": "Mohamed Salah",
+    "position": "Attack - Right Winger",
+    "number": "11",
+    "age": "33",
+    "nationality": [
+      "Egypt"
+    ],
+    "market_value": "€30.00m",
+    "team_id": "31",
+    "team_name": "Liverpool",
+    "full_name": "Mohamed Salah Hamed Ghaly, محمد صلاح",
+    "birth_date": "15/06/1992",
+    "birth_place": "Nagrig, Basyoun",
+    "height": "1,75 m",
+    "foot": "left",
+    "club": "Liverpool FC",
+    "joined": "01/07/2017",
+    "contract_expiry": "30/06/2027"
+  },
+  {
     "id": "341092",
     "name": "Federico Chiesa",
     "position": "Attack - Right Winger",
@@ -4080,6 +5105,115 @@
     "club": "Liverpool FC",
     "joined": "29/08/2024",
     "contract_expiry": "30/06/2028"
+  },
+  {
+    "id": "349066",
+    "name": "Alexander Isak",
+    "position": "Attack - Centre-Forward",
+    "number": "9",
+    "age": "26",
+    "nationality": [
+      "Sweden",
+      "Eritrea"
+    ],
+    "market_value": "€100.00m",
+    "team_id": "31",
+    "team_name": "Liverpool",
+    "birth_date": "21/09/1999",
+    "birth_place": "Solna",
+    "height": "1,92 m",
+    "foot": "right",
+    "agent": "Universal Twenty Two",
+    "club": "Liverpool FC",
+    "joined": "01/09/2025",
+    "contract_expiry": "30/06/2031"
+  },
+  {
+    "id": "709726",
+    "name": "Hugo Ekitiké",
+    "position": "Attack - Centre-Forward",
+    "number": "22",
+    "age": "23",
+    "nationality": [
+      "France",
+      "Cameroon"
+    ],
+    "market_value": "€90.00m",
+    "team_id": "31",
+    "team_name": "Liverpool",
+    "full_name": "Hugo Timothée Ekitiké",
+    "birth_date": "20/06/2002",
+    "birth_place": "Reims",
+    "height": "1,90 m",
+    "foot": "right",
+    "agent": "OSA",
+    "club": "Liverpool FC",
+    "joined": "23/07/2025",
+    "contract_expiry": "30/06/2031"
+  },
+  {
+    "id": "315858",
+    "name": "Gianluigi Donnarumma",
+    "position": "Goalkeeper",
+    "number": "25",
+    "age": "27",
+    "nationality": [
+      "Italy"
+    ],
+    "market_value": "€45.00m",
+    "team_id": "281",
+    "team_name": "Man City",
+    "birth_date": "25/02/1999",
+    "birth_place": "Castellammare di Stabia",
+    "height": "1,96 m",
+    "foot": "right",
+    "agent": "Team Raiola",
+    "club": "Manchester City",
+    "joined": "01/09/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
+    "id": "566799",
+    "name": "James Trafford",
+    "position": "Goalkeeper",
+    "number": "1",
+    "age": "23",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€25.00m",
+    "team_id": "281",
+    "team_name": "Man City",
+    "full_name": "James Harrington Trafford",
+    "birth_date": "10/10/2002",
+    "birth_place": "Greysouthen",
+    "height": "1,92 m",
+    "foot": "right",
+    "club": "Manchester City",
+    "joined": "29/07/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
+    "id": "116648",
+    "name": "Marcus Bettinelli",
+    "position": "Goalkeeper",
+    "number": "13",
+    "age": "33",
+    "nationality": [
+      "England",
+      "Italy"
+    ],
+    "market_value": "€500k",
+    "team_id": "281",
+    "team_name": "Man City",
+    "birth_date": "24/05/1992",
+    "birth_place": "London",
+    "height": "1,93 m",
+    "foot": "right",
+    "agent": "Refuel Performance ...",
+    "club": "Manchester City",
+    "joined": "10/06/2025",
+    "contract_expiry": "30/06/2027"
   },
   {
     "id": "475959",
@@ -4102,6 +5236,29 @@
     "club": "Manchester City",
     "joined": "05/08/2023",
     "contract_expiry": "30/06/2028"
+  },
+  {
+    "id": "392757",
+    "name": "Marc Guéhi",
+    "position": "Defender - Centre-Back",
+    "number": "15",
+    "age": "25",
+    "nationality": [
+      "England",
+      "Cote d'Ivoire"
+    ],
+    "market_value": "€65.00m",
+    "team_id": "281",
+    "team_name": "Man City",
+    "full_name": "Addji Keaninkin Marc-Israel Guéhi",
+    "birth_date": "13/07/2000",
+    "birth_place": "Abidjan",
+    "height": "1,82 m",
+    "foot": "right",
+    "agent": "Unique Sports Group",
+    "club": "Manchester City",
+    "joined": "19/01/2026",
+    "contract_expiry": "30/06/2031"
   },
   {
     "id": "258004",
@@ -4148,6 +5305,27 @@
     "contract_expiry": "30/06/2029"
   },
   {
+    "id": "186590",
+    "name": "John Stones",
+    "position": "Defender - Centre-Back",
+    "number": "5",
+    "age": "31",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€15.00m",
+    "team_id": "281",
+    "team_name": "Man City",
+    "birth_date": "28/05/1994",
+    "birth_place": "Barnsley",
+    "height": "1,88 m",
+    "foot": "right",
+    "agent": "THE·TEAM",
+    "club": "Manchester City",
+    "joined": "09/08/2016",
+    "contract_expiry": "30/06/2026"
+  },
+  {
     "id": "177476",
     "name": "Nathan Aké",
     "position": "Defender - Centre-Back",
@@ -4171,6 +5349,29 @@
     "contract_expiry": "30/06/2027"
   },
   {
+    "id": "843595",
+    "name": "Max Alleyne",
+    "position": "Defender - Centre-Back",
+    "number": "68",
+    "age": "20",
+    "nationality": [
+      "England",
+      "Barbados"
+    ],
+    "market_value": "€8.00m",
+    "team_id": "281",
+    "team_name": "Man City",
+    "full_name": "Max Lewis Rowe Alleyne",
+    "birth_date": "21/07/2005",
+    "birth_place": "Bristol",
+    "height": "1,85 m",
+    "foot": "both",
+    "agent": "ROOF",
+    "club": "Manchester City",
+    "joined": "06/01/2026",
+    "contract_expiry": "30/06/2030"
+  },
+  {
     "id": "743413",
     "name": "Nico O'Reilly",
     "position": "Defender - Left-Back",
@@ -4190,6 +5391,29 @@
     "agent": "SEG",
     "club": "Manchester City",
     "joined": "01/07/2024",
+    "contract_expiry": "30/06/2030"
+  },
+  {
+    "id": "578391",
+    "name": "Rayan Aït-Nouri",
+    "position": "Defender - Left-Back",
+    "number": "21",
+    "age": "24",
+    "nationality": [
+      "Algeria",
+      "France"
+    ],
+    "market_value": "€40.00m",
+    "team_id": "281",
+    "team_name": "Man City",
+    "full_name": "ريان آيت نوري",
+    "birth_date": "06/06/2001",
+    "birth_place": "Montreuil",
+    "height": "1,80 m",
+    "foot": "left",
+    "agent": "CAA Stellar",
+    "club": "Manchester City",
+    "joined": "09/06/2025",
     "contract_expiry": "30/06/2030"
   },
   {
@@ -4282,6 +5506,50 @@
     "contract_expiry": "30/06/2029"
   },
   {
+    "id": "460939",
+    "name": "Tijjani Reijnders",
+    "position": "Midfield - Central Midfield",
+    "number": "4",
+    "age": "27",
+    "nationality": [
+      "Netherlands"
+    ],
+    "market_value": "€60.00m",
+    "team_id": "281",
+    "team_name": "Man City",
+    "full_name": "Tijjani Martinus Jan Reijnders Lekatompessy",
+    "birth_date": "29/07/1998",
+    "birth_place": "Zwolle",
+    "height": "1,85 m",
+    "foot": "right",
+    "agent": "Relatives",
+    "club": "Manchester City",
+    "joined": "10/06/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
+    "id": "911736",
+    "name": "Sverre Nypan",
+    "position": "Midfield - Central Midfield",
+    "number": "41",
+    "age": "19",
+    "nationality": [
+      "Norway"
+    ],
+    "market_value": "€15.00m",
+    "team_id": "281",
+    "team_name": "Man City",
+    "full_name": "Sverre Halseth Nypan",
+    "birth_date": "19/12/2006",
+    "birth_place": "Trondheim",
+    "height": "1,82 m",
+    "foot": "both",
+    "agent": "Rafaela Pimenta",
+    "club": "Manchester City",
+    "joined": "17/07/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
     "id": "51471",
     "name": "Mateo Kovacic",
     "position": "Midfield - Central Midfield",
@@ -4325,6 +5593,50 @@
     "contract_expiry": "30/06/2027"
   },
   {
+    "id": "607223",
+    "name": "Rayan Cherki",
+    "position": "Midfield - Attacking Midfield",
+    "number": "10",
+    "age": "22",
+    "nationality": [
+      "France",
+      "Algeria"
+    ],
+    "market_value": "€65.00m",
+    "team_id": "281",
+    "team_name": "Man City",
+    "full_name": "Mathis Rayan Cherki",
+    "birth_date": "17/08/2003",
+    "birth_place": "Lyon",
+    "height": "1,77 m",
+    "foot": "both",
+    "club": "Manchester City",
+    "joined": "10/06/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
+    "id": "241641",
+    "name": "Bernardo Silva",
+    "position": "Midfield - Attacking Midfield",
+    "number": "20",
+    "age": "31",
+    "nationality": [
+      "Portugal"
+    ],
+    "market_value": "€27.00m",
+    "team_id": "281",
+    "team_name": "Man City",
+    "full_name": "Bernardo Mota Veiga de Carvalho e Silva",
+    "birth_date": "10/08/1994",
+    "birth_place": "Lisboa",
+    "height": "1,73 m",
+    "foot": "left",
+    "agent": "Gestifute",
+    "club": "Manchester City",
+    "joined": "01/07/2017",
+    "contract_expiry": "30/06/2026"
+  },
+  {
     "id": "486049",
     "name": "Jérémy Doku",
     "position": "Attack - Left Winger",
@@ -4365,6 +5677,28 @@
     "agent": "Promanager",
     "club": "Manchester City",
     "joined": "18/07/2024",
+    "contract_expiry": "30/06/2031"
+  },
+  {
+    "id": "583255",
+    "name": "Antoine Semenyo",
+    "position": "Attack - Right Winger",
+    "number": "42",
+    "age": "26",
+    "nationality": [
+      "Ghana",
+      "England"
+    ],
+    "market_value": "€75.00m",
+    "team_id": "281",
+    "team_name": "Man City",
+    "full_name": "Antoine Serlom Semenyo",
+    "birth_date": "07/01/2000",
+    "birth_place": "London",
+    "height": "1,85 m",
+    "foot": "right",
+    "club": "Manchester City",
+    "joined": "09/01/2026",
     "contract_expiry": "30/06/2031"
   },
   {
@@ -4411,6 +5745,27 @@
     "club": "Manchester City",
     "joined": "23/01/2025",
     "contract_expiry": "30/06/2029"
+  },
+  {
+    "id": "503883",
+    "name": "Senne Lammens",
+    "position": "Goalkeeper",
+    "number": "31",
+    "age": "23",
+    "nationality": [
+      "Belgium"
+    ],
+    "market_value": "€30.00m",
+    "team_id": "985",
+    "team_name": "Man United",
+    "birth_date": "07/07/2002",
+    "birth_place": "Zottegem",
+    "height": "1,93 m",
+    "foot": "right",
+    "agent": "PROFI-MANAGEMENT",
+    "club": "Manchester United",
+    "joined": "01/09/2025",
+    "contract_expiry": "30/06/2030"
   },
   {
     "id": "336077",
@@ -4609,6 +5964,29 @@
     "contract_expiry": "30/06/2027"
   },
   {
+    "id": "339340",
+    "name": "Tyrell Malacia",
+    "position": "Defender - Left-Back",
+    "number": "12",
+    "age": "26",
+    "nationality": [
+      "Netherlands",
+      "Curacao"
+    ],
+    "market_value": "€5.00m",
+    "team_id": "985",
+    "team_name": "Man United",
+    "full_name": "Tyrell Johannes Chicco Malacia",
+    "birth_date": "17/08/1999",
+    "birth_place": "Rotterdam",
+    "height": "1,69 m",
+    "foot": "left",
+    "agent": "Darren Dein",
+    "club": "Manchester United",
+    "joined": "05/07/2022",
+    "contract_expiry": "30/06/2026"
+  },
+  {
     "id": "357147",
     "name": "Diogo Dalot",
     "position": "Defender - Right-Back",
@@ -4674,6 +6052,28 @@
     "club": "Manchester United",
     "joined": "30/08/2024",
     "contract_expiry": "30/06/2029"
+  },
+  {
+    "id": "16306",
+    "name": "Casemiro",
+    "position": "Midfield - Defensive Midfield",
+    "number": "18",
+    "age": "34",
+    "nationality": [
+      "Brazil",
+      "Spain"
+    ],
+    "market_value": "€8.00m",
+    "team_id": "985",
+    "team_name": "Man United",
+    "birth_date": "23/02/1992",
+    "birth_place": "São José dos Campos",
+    "height": "1,85 m",
+    "foot": "right",
+    "agent": "Best of You",
+    "club": "Manchester United",
+    "joined": "22/08/2022",
+    "contract_expiry": "30/06/2026"
   },
   {
     "id": "820374",
@@ -4742,6 +6142,29 @@
     "contract_expiry": "30/06/2028"
   },
   {
+    "id": "413039",
+    "name": "Bryan Mbeumo",
+    "position": "Attack - Right Winger",
+    "number": "19",
+    "age": "26",
+    "nationality": [
+      "Cameroon",
+      "France"
+    ],
+    "market_value": "€80.00m",
+    "team_id": "985",
+    "team_name": "Man United",
+    "full_name": "Bryan Tetsadong Marceau Mbeumo",
+    "birth_date": "07/08/1999",
+    "birth_place": "Avallon",
+    "height": "1,71 m",
+    "foot": "left",
+    "agent": "ESN",
+    "club": "Manchester United",
+    "joined": "21/07/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
     "id": "536835",
     "name": "Amad Diallo",
     "position": "Attack - Right Winger",
@@ -4761,6 +6184,50 @@
     "agent": "#LEADERS",
     "club": "Manchester United",
     "joined": "02/01/2021",
+    "contract_expiry": "30/06/2030"
+  },
+  {
+    "id": "517894",
+    "name": "Matheus Cunha",
+    "position": "Attack - Centre-Forward",
+    "number": "10",
+    "age": "26",
+    "nationality": [
+      "Brazil"
+    ],
+    "market_value": "€70.00m",
+    "team_id": "985",
+    "team_name": "Man United",
+    "full_name": "Matheus Santos Carneiro da Cunha",
+    "birth_date": "27/05/1999",
+    "birth_place": "João Pessoa",
+    "height": "1,83 m",
+    "foot": "right",
+    "agent": "Bertolucci Sports",
+    "club": "Manchester United",
+    "joined": "01/07/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
+    "id": "627442",
+    "name": "Benjamin Sesko",
+    "position": "Attack - Centre-Forward",
+    "number": "30",
+    "age": "22",
+    "nationality": [
+      "Slovenia"
+    ],
+    "market_value": "€65.00m",
+    "team_id": "985",
+    "team_name": "Man United",
+    "full_name": "Benjamin Šeško",
+    "birth_date": "31/05/2003",
+    "birth_place": "Radeče",
+    "height": "1,95 m",
+    "foot": "right",
+    "agent": "Pro transfer",
+    "club": "Manchester United",
+    "joined": "09/08/2025",
     "contract_expiry": "30/06/2030"
   },
   {
@@ -4785,6 +6252,51 @@
     "club": "Manchester United",
     "joined": "14/07/2024",
     "contract_expiry": "30/06/2029"
+  },
+  {
+    "id": "1042886",
+    "name": "Chido Obi",
+    "position": "Attack - Centre-Forward",
+    "number": "32",
+    "age": "18",
+    "nationality": [
+      "Denmark",
+      "Nigeria"
+    ],
+    "market_value": "€5.00m",
+    "team_id": "985",
+    "team_name": "Man United",
+    "full_name": "Chidozie Obi-Martin",
+    "birth_date": "29/11/2007",
+    "birth_place": "Glostrup",
+    "height": "1,88 m",
+    "foot": "right",
+    "agent": "Elite Project Group ...",
+    "club": "Manchester United",
+    "joined": "01/07/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
+    "id": "427568",
+    "name": "Aaron Ramsdale",
+    "position": "Goalkeeper",
+    "number": "32",
+    "age": "28",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€12.00m",
+    "team_id": "762",
+    "team_name": "Newcastle",
+    "full_name": "Aaron Christopher Ramsdale",
+    "birth_date": "14/05/1998",
+    "birth_place": "Stoke-on-Trent",
+    "height": "1,90 m",
+    "foot": "right",
+    "agent": "World in Motion",
+    "club": "Newcastle United",
+    "joined": "02/08/2025",
+    "contract_expiry": "30/06/2026"
   },
   {
     "id": "192080",
@@ -4851,6 +6363,29 @@
     "club": "Newcastle United",
     "joined": "01/07/2024",
     "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "521964",
+    "name": "Malick Thiaw",
+    "position": "Defender - Centre-Back",
+    "number": "12",
+    "age": "24",
+    "nationality": [
+      "Germany",
+      "Finland"
+    ],
+    "market_value": "€45.00m",
+    "team_id": "762",
+    "team_name": "Newcastle",
+    "full_name": "Malick Laye Thiaw",
+    "birth_date": "08/08/2001",
+    "birth_place": "Düsseldorf",
+    "height": "1,94 m",
+    "foot": "right",
+    "agent": "Unique Sports Group",
+    "club": "Newcastle United",
+    "joined": "12/08/2025",
+    "contract_expiry": "30/06/2029"
   },
   {
     "id": "361093",
@@ -4941,6 +6476,27 @@
     "contract_expiry": "30/06/2029"
   },
   {
+    "id": "900601",
+    "name": "Alex Murphy",
+    "position": "Defender - Left-Back",
+    "number": "37",
+    "age": "21",
+    "nationality": [
+      "Ireland"
+    ],
+    "market_value": "€1.50m",
+    "team_id": "762",
+    "team_name": "Newcastle",
+    "birth_date": "25/06/2004",
+    "birth_place": "Annaghdown",
+    "height": "1,88 m",
+    "foot": "left",
+    "agent": "THE·TEAM",
+    "club": "Newcastle United",
+    "joined": "01/07/2025",
+    "contract_expiry": "30/06/2028"
+  },
+  {
     "id": "503981",
     "name": "Tino Livramento",
     "position": "Defender - Right-Back",
@@ -4962,6 +6518,50 @@
     "club": "Newcastle United",
     "joined": "08/08/2023",
     "contract_expiry": "30/06/2028"
+  },
+  {
+    "id": "95810",
+    "name": "Kieran Trippier",
+    "position": "Defender - Right-Back",
+    "number": "2",
+    "age": "35",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€2.50m",
+    "team_id": "762",
+    "team_name": "Newcastle",
+    "full_name": "Kieran John Trippier",
+    "birth_date": "19/09/1990",
+    "birth_place": "Bury",
+    "height": "1,73 m",
+    "foot": "right",
+    "agent": "CAA Base Ltd",
+    "club": "Newcastle United",
+    "joined": "07/01/2022",
+    "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "184528",
+    "name": "Emil Krafth",
+    "position": "Defender - Right-Back",
+    "number": "17",
+    "age": "31",
+    "nationality": [
+      "Sweden"
+    ],
+    "market_value": "€1.00m",
+    "team_id": "762",
+    "team_name": "Newcastle",
+    "full_name": "Emil Henry ­Kristoffer Krafth",
+    "birth_date": "02/08/1994",
+    "birth_place": "Ljungby",
+    "height": "1,84 m",
+    "foot": "right",
+    "agent": "Global Soccer ...",
+    "club": "Newcastle United",
+    "joined": "08/08/2019",
+    "contract_expiry": "30/06/2026"
   },
   {
     "id": "397033",
@@ -5006,6 +6606,28 @@
     "club": "Newcastle United",
     "joined": "30/01/2022",
     "contract_expiry": "30/06/2028"
+  },
+  {
+    "id": "503749",
+    "name": "Jacob Ramsey",
+    "position": "Midfield - Central Midfield",
+    "number": "41",
+    "age": "24",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€35.00m",
+    "team_id": "762",
+    "team_name": "Newcastle",
+    "full_name": "Jacob Matthew Decourcey Ramsey",
+    "birth_date": "28/05/2001",
+    "birth_place": "Birmingham",
+    "height": "1,80 m",
+    "foot": "right",
+    "agent": "Unique Sports Group",
+    "club": "Newcastle United",
+    "joined": "17/08/2025",
+    "contract_expiry": "30/06/2030"
   },
   {
     "id": "333241",
@@ -5118,6 +6740,29 @@
     "contract_expiry": "30/06/2028"
   },
   {
+    "id": "583189",
+    "name": "Anthony Elanga",
+    "position": "Attack - Right Winger",
+    "number": "20",
+    "age": "24",
+    "nationality": [
+      "Sweden",
+      "Cameroon"
+    ],
+    "market_value": "€40.00m",
+    "team_id": "762",
+    "team_name": "Newcastle",
+    "full_name": "Anthony David Junior Elanga",
+    "birth_date": "27/04/2002",
+    "birth_place": "Hyllie",
+    "height": "1,78 m",
+    "foot": "right",
+    "agent": "PANTHERA",
+    "club": "Newcastle United",
+    "joined": "11/07/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
     "id": "199527",
     "name": "Jacob Murphy",
     "position": "Attack - Right Winger",
@@ -5139,6 +6784,49 @@
     "club": "Newcastle United",
     "joined": "19/07/2017",
     "contract_expiry": "30/06/2027"
+  },
+  {
+    "id": "455661",
+    "name": "Nick Woltemade",
+    "position": "Attack - Centre-Forward",
+    "number": "27",
+    "age": "24",
+    "nationality": [
+      "Germany"
+    ],
+    "market_value": "€65.00m",
+    "team_id": "762",
+    "team_name": "Newcastle",
+    "birth_date": "14/02/2002",
+    "birth_place": "Bremen",
+    "height": "1,98 m",
+    "foot": "right",
+    "agent": "Headtrick GmbH & ...",
+    "club": "Newcastle United",
+    "joined": "30/08/2025",
+    "contract_expiry": "01/07/2031"
+  },
+  {
+    "id": "388165",
+    "name": "Yoane Wissa",
+    "position": "Attack - Centre-Forward",
+    "number": "9",
+    "age": "29",
+    "nationality": [
+      "DR Congo",
+      "France"
+    ],
+    "market_value": "€30.00m",
+    "team_id": "762",
+    "team_name": "Newcastle",
+    "birth_date": "03/09/1996",
+    "birth_place": "Villeneuve-Saint-Georges",
+    "height": "1,76 m",
+    "foot": "right",
+    "agent": "Rudy Raba",
+    "club": "Newcastle United",
+    "joined": "01/09/2025",
+    "contract_expiry": "30/06/2029"
   },
   {
     "id": "609556",
@@ -5164,6 +6852,51 @@
     "contract_expiry": "30/06/2029"
   },
   {
+    "id": "432914",
+    "name": "John Victor",
+    "position": "Goalkeeper",
+    "number": "13",
+    "age": "30",
+    "nationality": [
+      "Brazil",
+      "Portugal"
+    ],
+    "market_value": "€7.00m",
+    "team_id": "703",
+    "team_name": "Nott'm Forest",
+    "birth_date": "13/02/1996",
+    "birth_place": "Diadema",
+    "height": "1,97 m",
+    "foot": "right",
+    "agent": "Bertolucci Sports",
+    "club": "Nottingham Forest",
+    "joined": "31/08/2025",
+    "contract_expiry": "30/06/2028"
+  },
+  {
+    "id": "85941",
+    "name": "Stefan Ortega",
+    "position": "Goalkeeper",
+    "number": "27",
+    "age": "33",
+    "nationality": [
+      "Germany",
+      "Spain"
+    ],
+    "market_value": "€5.00m",
+    "team_id": "703",
+    "team_name": "Nott'm Forest",
+    "full_name": "Stefan Ortega Moreno",
+    "birth_date": "06/11/1992",
+    "birth_place": "Hofgeismar",
+    "height": "1,85 m",
+    "foot": "right",
+    "agent": "neblung ...",
+    "club": "Nottingham Forest",
+    "joined": "01/02/2026",
+    "contract_expiry": "30/06/2026"
+  },
+  {
     "id": "127202",
     "name": "Matz Sels",
     "position": "Goalkeeper",
@@ -5184,6 +6917,29 @@
     "club": "Nottingham Forest",
     "joined": "01/02/2024",
     "contract_expiry": "30/06/2027"
+  },
+  {
+    "id": "201574",
+    "name": "Angus Gunn",
+    "position": "Goalkeeper",
+    "number": "18",
+    "age": "30",
+    "nationality": [
+      "Scotland",
+      "England"
+    ],
+    "market_value": "€1.50m",
+    "team_id": "703",
+    "team_name": "Nott'm Forest",
+    "full_name": "Angus Fraser James Gunn",
+    "birth_date": "22/01/1996",
+    "birth_place": "Norwich",
+    "height": "1,96 m",
+    "foot": "right",
+    "agent": "Triple S Sports",
+    "club": "Nottingham Forest",
+    "joined": "06/08/2025",
+    "contract_expiry": "30/06/2026"
   },
   {
     "id": "1005649",
@@ -5250,6 +7006,49 @@
     "contract_expiry": "30/06/2029"
   },
   {
+    "id": "984096",
+    "name": "Jair Cunha",
+    "position": "Defender - Centre-Back",
+    "number": "23",
+    "age": "21",
+    "nationality": [
+      "Brazil"
+    ],
+    "market_value": "€12.00m",
+    "team_id": "703",
+    "team_name": "Nott'm Forest",
+    "full_name": "Jair Paula da Cunha Filho",
+    "birth_date": "07/03/2005",
+    "birth_place": "Orlândia",
+    "height": "1,98 m",
+    "foot": "both",
+    "agent": "Bertolucci Sports",
+    "club": "Nottingham Forest",
+    "joined": "11/07/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
+    "id": "933017",
+    "name": "Zach Abbott",
+    "position": "Defender - Centre-Back",
+    "number": "44",
+    "age": "20",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€3.00m",
+    "team_id": "703",
+    "team_name": "Nott'm Forest",
+    "full_name": "Zach MacFarlane Abbott",
+    "birth_date": "13/05/2006",
+    "height": "1,80 m",
+    "foot": "right",
+    "agent": "CAA Stellar",
+    "club": "Nottingham Forest",
+    "joined": "01/07/2025",
+    "contract_expiry": "30/06/2029"
+  },
+  {
     "id": "142310",
     "name": "Willy Boly",
     "position": "Defender - Centre-Back",
@@ -5295,6 +7094,27 @@
     "contract_expiry": "30/06/2029"
   },
   {
+    "id": "524285",
+    "name": "Luca Netz",
+    "position": "Defender - Left-Back",
+    "number": "25",
+    "age": "23",
+    "nationality": [
+      "Germany"
+    ],
+    "market_value": "€6.00m",
+    "team_id": "703",
+    "team_name": "Nott'm Forest",
+    "birth_date": "15/05/2003",
+    "birth_place": "Berlin",
+    "height": "1,84 m",
+    "foot": "left",
+    "agent": "11WINS",
+    "club": "Nottingham Forest",
+    "joined": "02/02/2026",
+    "contract_expiry": "30/06/2030"
+  },
+  {
     "id": "236490",
     "name": "Ola Aina",
     "position": "Defender - Right-Back",
@@ -5315,6 +7135,50 @@
     "agent": "Elite Project Group ...",
     "club": "Nottingham Forest",
     "joined": "22/07/2023",
+    "contract_expiry": "30/06/2028"
+  },
+  {
+    "id": "708072",
+    "name": "Nicolò Savona",
+    "position": "Defender - Right-Back",
+    "number": "37",
+    "age": "23",
+    "nationality": [
+      "Italy"
+    ],
+    "market_value": "€18.00m",
+    "team_id": "703",
+    "team_name": "Nott'm Forest",
+    "birth_date": "19/03/2003",
+    "birth_place": "Aosta",
+    "height": "1,92 m",
+    "foot": "right",
+    "agent": "Mp Management",
+    "club": "Nottingham Forest",
+    "joined": "30/08/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
+    "id": "897481",
+    "name": "Eric da Silva Moreira",
+    "position": "Defender - Right-Back",
+    "number": "17",
+    "age": "20",
+    "nationality": [
+      "Germany",
+      "Portugal"
+    ],
+    "market_value": "€1.00m",
+    "team_id": "703",
+    "team_name": "Nott'm Forest",
+    "full_name": "Eric Emanuel da Silva Moreira",
+    "birth_date": "03/05/2006",
+    "birth_place": "Hamburg",
+    "height": "1,85 m",
+    "foot": "right",
+    "agent": "Gestifute",
+    "club": "Nottingham Forest",
+    "joined": "01/07/2024",
     "contract_expiry": "30/06/2028"
   },
   {
@@ -5429,6 +7293,51 @@
     "contract_expiry": "30/06/2028"
   },
   {
+    "id": "741238",
+    "name": "Omari Hutchinson",
+    "position": "Midfield - Attacking Midfield",
+    "number": "21",
+    "age": "22",
+    "nationality": [
+      "England",
+      "Jamaica"
+    ],
+    "market_value": "€30.00m",
+    "team_id": "703",
+    "team_name": "Nott'm Forest",
+    "full_name": "Omari Elijah Giraud-Hutchinson",
+    "birth_date": "30/10/2003",
+    "birth_place": "Redhill",
+    "height": "1,74 m",
+    "foot": "left",
+    "agent": "Bertolucci Sports",
+    "club": "Nottingham Forest",
+    "joined": "16/08/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
+    "id": "583199",
+    "name": "James McAtee",
+    "position": "Midfield - Attacking Midfield",
+    "number": "24",
+    "age": "23",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€20.00m",
+    "team_id": "703",
+    "team_name": "Nott'm Forest",
+    "full_name": "James John McAtee",
+    "birth_date": "18/10/2002",
+    "birth_place": "Salford",
+    "height": "1,80 m",
+    "foot": "left",
+    "agent": "YMU Management Ltd.",
+    "club": "Nottingham Forest",
+    "joined": "16/08/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
     "id": "392768",
     "name": "Callum Hudson-Odoi",
     "position": "Attack - Left Winger",
@@ -5450,6 +7359,94 @@
     "club": "Nottingham Forest",
     "joined": "01/09/2023",
     "contract_expiry": "30/06/2028"
+  },
+  {
+    "id": "365108",
+    "name": "Dan Ndoye",
+    "position": "Attack - Right Winger",
+    "number": "14",
+    "age": "25",
+    "nationality": [
+      "Switzerland",
+      "Senegal"
+    ],
+    "market_value": "€35.00m",
+    "team_id": "703",
+    "team_name": "Nott'm Forest",
+    "full_name": "Dan Assane Ndoye",
+    "birth_date": "25/10/2000",
+    "birth_place": "Nyon",
+    "height": "1,84 m",
+    "foot": "right",
+    "agent": "Binary Sports Group",
+    "club": "Nottingham Forest",
+    "joined": "31/07/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
+    "id": "540664",
+    "name": "Dilane Bakwa",
+    "position": "Attack - Right Winger",
+    "number": "29",
+    "age": "23",
+    "nationality": [
+      "France",
+      "DR Congo"
+    ],
+    "market_value": "€28.00m",
+    "team_id": "703",
+    "team_name": "Nott'm Forest",
+    "birth_date": "26/08/2002",
+    "birth_place": "Créteil",
+    "height": "1,80 m",
+    "foot": "left",
+    "agent": "Sport Cover",
+    "club": "Nottingham Forest",
+    "joined": "01/09/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
+    "id": "572265",
+    "name": "Lorenzo Lucca",
+    "position": "Attack - Centre-Forward",
+    "number": "20",
+    "age": "25",
+    "nationality": [
+      "Italy"
+    ],
+    "market_value": "€25.00m",
+    "team_id": "703",
+    "team_name": "Nott'm Forest",
+    "birth_date": "10/09/2000",
+    "birth_place": "Moncalieri",
+    "height": "2,01 m",
+    "foot": "right",
+    "agent": "GR Sports",
+    "club": "Nottingham Forest",
+    "joined": "23/01/2026",
+    "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "432164",
+    "name": "Igor Jesus",
+    "position": "Attack - Centre-Forward",
+    "number": "19",
+    "age": "25",
+    "nationality": [
+      "Brazil",
+      "United Arab Emirates"
+    ],
+    "market_value": "€22.00m",
+    "team_id": "703",
+    "team_name": "Nott'm Forest",
+    "birth_date": "25/02/2001",
+    "birth_place": "Cuiabá",
+    "height": "1,79 m",
+    "foot": "right",
+    "agent": "JBSports",
+    "club": "Nottingham Forest",
+    "joined": "05/07/2025",
+    "contract_expiry": "30/06/2029"
   },
   {
     "id": "295313",
@@ -5496,6 +7493,29 @@
     "contract_expiry": "30/06/2027"
   },
   {
+    "id": "468539",
+    "name": "Daniel Peretz",
+    "position": "Goalkeeper",
+    "number": "41",
+    "age": "25",
+    "nationality": [
+      "Israel",
+      "Germany"
+    ],
+    "market_value": "€2.00m",
+    "team_id": "180",
+    "team_name": "Southampton",
+    "full_name": "דניאל פרץ",
+    "birth_date": "10/07/2000",
+    "birth_place": "Tel Aviv",
+    "height": "1,90 m",
+    "foot": "right",
+    "agent": "BMS Sportconsulting ...",
+    "club": "Southampton FC",
+    "joined": "08/01/2026",
+    "contract_expiry": "30/06/2026"
+  },
+  {
     "id": "95976",
     "name": "Alex McCarthy",
     "position": "Goalkeeper",
@@ -5515,6 +7535,50 @@
     "agent": "SBM",
     "club": "Southampton FC",
     "joined": "01/08/2016",
+    "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "151334",
+    "name": "George Long",
+    "position": "Goalkeeper",
+    "number": "25",
+    "age": "32",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€200k",
+    "team_id": "180",
+    "team_name": "Southampton",
+    "full_name": "George Martin Long",
+    "birth_date": "05/11/1993",
+    "birth_place": "Sheffield",
+    "height": "1,93 m",
+    "foot": "left",
+    "agent": "THE·TEAM",
+    "club": "Southampton FC",
+    "joined": "25/08/2025",
+    "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "57057",
+    "name": "Jamie Jones",
+    "position": "Goalkeeper",
+    "number": "32",
+    "age": "37",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "-",
+    "team_id": "180",
+    "team_name": "Southampton",
+    "full_name": "Jamie Lewis Jones",
+    "birth_date": "18/02/1989",
+    "birth_place": "Kirkby",
+    "height": "1,91 m",
+    "foot": "right",
+    "agent": "Refuel Performance ...",
+    "club": "Southampton FC",
+    "joined": "11/02/2026",
     "contract_expiry": "30/06/2026"
   },
   {
@@ -5562,6 +7626,28 @@
     "contract_expiry": "30/06/2028"
   },
   {
+    "id": "790918",
+    "name": "Joshua Quarshie",
+    "position": "Defender - Centre-Back",
+    "number": "17",
+    "age": "21",
+    "nationality": [
+      "Germany",
+      "Ghana"
+    ],
+    "market_value": "€4.00m",
+    "team_id": "180",
+    "team_name": "Southampton",
+    "birth_date": "26/07/2004",
+    "birth_place": "Duisburg",
+    "height": "1,96 m",
+    "foot": "both",
+    "agent": "Unique Sports Group",
+    "club": "Southampton FC",
+    "joined": "01/07/2025",
+    "contract_expiry": "30/06/2029"
+  },
+  {
     "id": "163744",
     "name": "Jack Stephens",
     "position": "Defender - Centre-Back",
@@ -5581,6 +7667,27 @@
     "club": "Southampton FC",
     "joined": "01/07/2013",
     "contract_expiry": "30/06/2028"
+  },
+  {
+    "id": "986298",
+    "name": "Joachim Kayi Sanda",
+    "position": "Defender - Centre-Back",
+    "number": "39",
+    "age": "19",
+    "nationality": [
+      "France",
+      "DR Congo"
+    ],
+    "market_value": "€1.20m",
+    "team_id": "180",
+    "team_name": "Southampton",
+    "birth_date": "29/11/2006",
+    "birth_place": "Antony",
+    "height": "1,86 m",
+    "foot": "right",
+    "club": "Southampton FC",
+    "joined": "09/01/2025",
+    "contract_expiry": "30/06/2029"
   },
   {
     "id": "729264",
@@ -5626,6 +7733,72 @@
     "contract_expiry": "30/06/2027"
   },
   {
+    "id": "646478",
+    "name": "Elias Jelert",
+    "position": "Defender - Right-Back",
+    "number": "38",
+    "age": "22",
+    "nationality": [
+      "Denmark"
+    ],
+    "market_value": "€7.00m",
+    "team_id": "180",
+    "team_name": "Southampton",
+    "full_name": "Elias Jelert Kristensen",
+    "birth_date": "12/06/2003",
+    "birth_place": "Virum",
+    "height": "1,78 m",
+    "foot": "right",
+    "agent": "THE·TEAM",
+    "club": "Southampton FC",
+    "joined": "31/08/2025",
+    "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "391005",
+    "name": "Mads Roerslev",
+    "position": "Defender - Right-Back",
+    "number": "2",
+    "age": "26",
+    "nationality": [
+      "Denmark"
+    ],
+    "market_value": "€5.00m",
+    "team_id": "180",
+    "team_name": "Southampton",
+    "full_name": "Mads Roerslev Rasmussen",
+    "birth_date": "24/06/1999",
+    "birth_place": "København",
+    "height": "1,84 m",
+    "foot": "right",
+    "agent": "THE·TEAM",
+    "club": "Southampton FC",
+    "joined": "21/08/2025",
+    "contract_expiry": "30/06/2029"
+  },
+  {
+    "id": "324223",
+    "name": "James Bree",
+    "position": "Defender - Right-Back",
+    "number": "14",
+    "age": "28",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€2.50m",
+    "team_id": "180",
+    "team_name": "Southampton",
+    "full_name": "James Patrick Bree",
+    "birth_date": "11/12/1997",
+    "birth_place": "Wakefield",
+    "height": "1,82 m",
+    "foot": "right",
+    "agent": "THE·TEAM",
+    "club": "Southampton FC",
+    "joined": "26/01/2023",
+    "contract_expiry": "30/06/2026"
+  },
+  {
     "id": "506189",
     "name": "Flynn Downes",
     "position": "Midfield - Defensive Midfield",
@@ -5669,6 +7842,184 @@
     "contract_expiry": "30/06/2027"
   },
   {
+    "id": "66100",
+    "name": "Oriol Romeu",
+    "position": "Midfield - Defensive Midfield",
+    "number": "28",
+    "age": "34",
+    "nationality": [
+      "Spain"
+    ],
+    "market_value": "€700k",
+    "team_id": "180",
+    "team_name": "Southampton",
+    "full_name": "Oriol Romeu Vidal",
+    "birth_date": "24/09/1991",
+    "birth_place": "Ulldecona",
+    "height": "1,83 m",
+    "foot": "right",
+    "agent": "MagicPlayers",
+    "club": "Southampton FC",
+    "joined": "06/11/2025",
+    "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "696116",
+    "name": "Caspar Jander",
+    "position": "Midfield - Central Midfield",
+    "number": "20",
+    "age": "23",
+    "nationality": [
+      "Germany"
+    ],
+    "market_value": "€12.00m",
+    "team_id": "180",
+    "team_name": "Southampton",
+    "birth_date": "23/03/2003",
+    "birth_place": "Münster",
+    "height": "1,83 m",
+    "foot": "right",
+    "agent": "OSSC",
+    "club": "Southampton FC",
+    "joined": "29/08/2025",
+    "contract_expiry": "30/06/2028"
+  },
+  {
+    "id": "626319",
+    "name": "Tom Fellows",
+    "position": "Midfield - Right Midfield",
+    "number": "18",
+    "age": "22",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€8.00m",
+    "team_id": "180",
+    "team_name": "Southampton",
+    "full_name": "Tom Allen Fellows",
+    "birth_date": "25/07/2003",
+    "birth_place": "Solihull",
+    "height": "1,83 m",
+    "foot": "right",
+    "agent": "THE·TEAM",
+    "club": "Southampton FC",
+    "joined": "29/08/2025",
+    "contract_expiry": "30/06/2029"
+  },
+  {
+    "id": "480723",
+    "name": "Finn Azaz",
+    "position": "Midfield - Attacking Midfield",
+    "number": "10",
+    "age": "25",
+    "nationality": [
+      "Ireland",
+      "England"
+    ],
+    "market_value": "€18.00m",
+    "team_id": "180",
+    "team_name": "Southampton",
+    "full_name": "Finn Isaac Azaz",
+    "birth_date": "07/09/2000",
+    "birth_place": "London",
+    "height": "1,85 m",
+    "foot": "right",
+    "agent": "Unique Sports Group",
+    "club": "Southampton FC",
+    "joined": "29/08/2025",
+    "contract_expiry": "30/06/2029"
+  },
+  {
+    "id": "804219",
+    "name": "Léo Scienza",
+    "position": "Midfield - Attacking Midfield",
+    "number": "13",
+    "age": "27",
+    "nationality": [
+      "Brazil",
+      "Luxembourg"
+    ],
+    "market_value": "€10.00m",
+    "team_id": "180",
+    "team_name": "Southampton",
+    "full_name": "Leonardo Weschenfelder Scienza",
+    "birth_date": "13/09/1998",
+    "birth_place": "Venâncio Aires",
+    "height": "1,75 m",
+    "foot": "both",
+    "agent": "CM FOOTBALL ...",
+    "club": "Southampton FC",
+    "joined": "01/09/2025",
+    "contract_expiry": "30/06/2029"
+  },
+  {
+    "id": "902021",
+    "name": "Kuryu Matsuki",
+    "position": "Midfield - Attacking Midfield",
+    "number": "27",
+    "age": "23",
+    "nationality": [
+      "Japan"
+    ],
+    "market_value": "€2.40m",
+    "team_id": "180",
+    "team_name": "Southampton",
+    "full_name": "松木 玖生",
+    "birth_date": "30/04/2003",
+    "birth_place": "Muroran, Hokkaido",
+    "height": "1,80 m",
+    "foot": "left",
+    "agent": "Sports360 GmbH",
+    "club": "Southampton FC",
+    "joined": "29/07/2024",
+    "contract_expiry": "30/06/2028"
+  },
+  {
+    "id": "1045124",
+    "name": "Jay Robinson",
+    "position": "Attack - Left Winger",
+    "number": "46",
+    "age": "19",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€8.00m",
+    "team_id": "180",
+    "team_name": "Southampton",
+    "full_name": "Jay Steven Robinson",
+    "birth_date": "15/03/2007",
+    "birth_place": "London",
+    "height": "1,76 m",
+    "foot": "right",
+    "agent": "CAA Stellar",
+    "club": "Southampton FC",
+    "joined": "01/07/2025",
+    "contract_expiry": "30/06/2029"
+  },
+  {
+    "id": "680806",
+    "name": "Samuel Edozie",
+    "position": "Attack - Left Winger",
+    "number": "23",
+    "age": "23",
+    "nationality": [
+      "England",
+      "Nigeria"
+    ],
+    "market_value": "€5.00m",
+    "team_id": "180",
+    "team_name": "Southampton",
+    "full_name": "Samuel Ikechukwu Edozie",
+    "birth_date": "28/01/2003",
+    "birth_place": "London",
+    "height": "1,81 m",
+    "foot": "right",
+    "agent": "Golden Gate Group",
+    "club": "Southampton FC",
+    "joined": "01/09/2022",
+    "contract_expiry": "30/06/2027"
+  },
+  {
     "id": "533662",
     "name": "Cameron Archer",
     "position": "Attack - Centre-Forward",
@@ -5690,6 +8041,29 @@
     "club": "Southampton FC",
     "joined": "16/08/2024",
     "contract_expiry": "30/06/2028"
+  },
+  {
+    "id": "343463",
+    "name": "Cyle Larin",
+    "position": "Attack - Centre-Forward",
+    "number": "9",
+    "age": "31",
+    "nationality": [
+      "Canada",
+      "Jamaica"
+    ],
+    "market_value": "€3.50m",
+    "team_id": "180",
+    "team_name": "Southampton",
+    "full_name": "Cyle Christopher Larin",
+    "birth_date": "17/04/1995",
+    "birth_place": "Brampton, Ontario",
+    "height": "1,88 m",
+    "foot": "right",
+    "agent": "Axia Sports ...",
+    "club": "Southampton FC",
+    "joined": "02/02/2026",
+    "contract_expiry": "30/06/2026"
   },
   {
     "id": "447995",
@@ -5842,6 +8216,27 @@
     "contract_expiry": "30/06/2030"
   },
   {
+    "id": "263236",
+    "name": "Kevin Danso",
+    "position": "Defender - Centre-Back",
+    "number": "4",
+    "age": "27",
+    "nationality": [
+      "Austria"
+    ],
+    "market_value": "€20.00m",
+    "team_id": "148",
+    "team_name": "Spurs",
+    "birth_date": "19/09/1998",
+    "birth_place": "Voitsberg",
+    "height": "1,90 m",
+    "foot": "right",
+    "agent": "HD Sports",
+    "club": "Tottenham Hotspur",
+    "joined": "01/07/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
     "id": "192765",
     "name": "Ben Davies",
     "position": "Defender - Centre-Back",
@@ -5910,6 +8305,27 @@
     "contract_expiry": "30/06/2029"
   },
   {
+    "id": "1086258",
+    "name": "Souza",
+    "position": "Defender - Left-Back",
+    "number": "38",
+    "age": "19",
+    "nationality": [
+      "Brazil"
+    ],
+    "market_value": "€12.00m",
+    "team_id": "148",
+    "team_name": "Spurs",
+    "birth_date": "16/06/2006",
+    "birth_place": "Mauá",
+    "height": "1,83 m",
+    "foot": "left",
+    "agent": "Bertolucci Sports",
+    "club": "Tottenham Hotspur",
+    "joined": "22/01/2026",
+    "contract_expiry": "30/06/2031"
+  },
+  {
     "id": "553875",
     "name": "Pedro Porro",
     "position": "Defender - Right-Back",
@@ -5952,6 +8368,28 @@
     "club": "Tottenham Hotspur",
     "joined": "31/01/2022",
     "contract_expiry": "30/06/2029"
+  },
+  {
+    "id": "257455",
+    "name": "João Palhinha",
+    "position": "Midfield - Defensive Midfield",
+    "number": "6",
+    "age": "30",
+    "nationality": [
+      "Portugal"
+    ],
+    "market_value": "€18.00m",
+    "team_id": "148",
+    "team_name": "Spurs",
+    "full_name": "João Maria Lobo Alves Palhinha Gonçalves",
+    "birth_date": "09/07/1995",
+    "birth_place": "Lisboa",
+    "height": "1,90 m",
+    "foot": "right",
+    "agent": "Gonçalo Palhinha",
+    "club": "Tottenham Hotspur",
+    "joined": "03/08/2025",
+    "contract_expiry": "30/06/2026"
   },
   {
     "id": "410425",
@@ -6021,6 +8459,27 @@
     "contract_expiry": "30/06/2030"
   },
   {
+    "id": "488362",
+    "name": "Conor Gallagher",
+    "position": "Midfield - Central Midfield",
+    "number": "22",
+    "age": "26",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€35.00m",
+    "team_id": "148",
+    "team_name": "Spurs",
+    "birth_date": "06/02/2000",
+    "birth_place": "Epsom",
+    "height": "1,82 m",
+    "foot": "right",
+    "agent": "Elite Management ...",
+    "club": "Tottenham Hotspur",
+    "joined": "14/01/2026",
+    "contract_expiry": "30/06/2031"
+  },
+  {
     "id": "568693",
     "name": "Pape Matar Sarr",
     "position": "Midfield - Central Midfield",
@@ -6039,6 +8498,28 @@
     "agent": "no agent",
     "club": "Tottenham Hotspur",
     "joined": "27/08/2021",
+    "contract_expiry": "30/06/2030"
+  },
+  {
+    "id": "566931",
+    "name": "Xavi Simons",
+    "position": "Midfield - Attacking Midfield",
+    "number": "7",
+    "age": "23",
+    "nationality": [
+      "Netherlands",
+      "Suriname"
+    ],
+    "market_value": "€50.00m",
+    "team_id": "148",
+    "team_name": "Spurs",
+    "full_name": "Xavier Quentin Shay Simons",
+    "birth_date": "21/04/2003",
+    "birth_place": "Amsterdam",
+    "height": "1,79 m",
+    "foot": "right",
+    "club": "Tottenham Hotspur",
+    "joined": "29/08/2025",
     "contract_expiry": "30/06/2030"
   },
   {
@@ -6110,6 +8591,28 @@
     "contract_expiry": "30/06/2029"
   },
   {
+    "id": "543499",
+    "name": "Mohammed Kudus",
+    "position": "Attack - Right Winger",
+    "number": "20",
+    "age": "25",
+    "nationality": [
+      "Ghana"
+    ],
+    "market_value": "€55.00m",
+    "team_id": "148",
+    "team_name": "Spurs",
+    "full_name": "Kudus Mohammed",
+    "birth_date": "02/08/2000",
+    "birth_place": "Accra",
+    "height": "1,77 m",
+    "foot": "left",
+    "agent": "ROOF",
+    "club": "Tottenham Hotspur",
+    "joined": "10/07/2025",
+    "contract_expiry": "30/06/2031"
+  },
+  {
     "id": "258889",
     "name": "Dominic Solanke",
     "position": "Attack - Centre-Forward",
@@ -6154,6 +8657,71 @@
     "contract_expiry": "30/06/2027"
   },
   {
+    "id": "801734",
+    "name": "Mathys Tel",
+    "position": "Attack - Centre-Forward",
+    "number": "11",
+    "age": "21",
+    "nationality": [
+      "France",
+      "Guadeloupe"
+    ],
+    "market_value": "€25.00m",
+    "team_id": "148",
+    "team_name": "Spurs",
+    "full_name": "Mathys Henri Tel",
+    "birth_date": "27/04/2005",
+    "birth_place": "Sarcelles",
+    "height": "1,83 m",
+    "foot": "right",
+    "club": "Tottenham Hotspur",
+    "joined": "01/07/2025",
+    "contract_expiry": "30/06/2031"
+  },
+  {
+    "id": "487969",
+    "name": "Randal Kolo Muani",
+    "position": "Attack - Centre-Forward",
+    "number": "39",
+    "age": "27",
+    "nationality": [
+      "France",
+      "DR Congo"
+    ],
+    "market_value": "€22.00m",
+    "team_id": "148",
+    "team_name": "Spurs",
+    "birth_date": "05/12/1998",
+    "birth_place": "Bondy",
+    "height": "1,87 m",
+    "foot": "right",
+    "agent": "Relatives",
+    "club": "Tottenham Hotspur",
+    "joined": "01/09/2025",
+    "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "400536",
+    "name": "Mads Hermansen",
+    "position": "Goalkeeper",
+    "number": "1",
+    "age": "25",
+    "nationality": [
+      "Denmark"
+    ],
+    "market_value": "€15.00m",
+    "team_id": "379",
+    "team_name": "West Ham",
+    "birth_date": "11/07/2000",
+    "birth_place": "Odense",
+    "height": "1,87 m",
+    "foot": "right",
+    "agent": "CAA Stellar",
+    "club": "West Ham United",
+    "joined": "09/08/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
     "id": "120629",
     "name": "Alphonse Areola",
     "position": "Goalkeeper",
@@ -6177,6 +8745,51 @@
     "contract_expiry": "30/06/2027"
   },
   {
+    "id": "29692",
+    "name": "Lukasz Fabianski",
+    "position": "Goalkeeper",
+    "number": "22",
+    "age": "41",
+    "nationality": [
+      "Poland"
+    ],
+    "market_value": "€250k",
+    "team_id": "379",
+    "team_name": "West Ham",
+    "full_name": "Łukasz Marek Fabiański",
+    "birth_date": "18/04/1985",
+    "birth_place": "Kostrzyn nad Odrą",
+    "height": "1,90 m",
+    "foot": "right",
+    "agent": "ROOF",
+    "club": "West Ham United",
+    "joined": "10/09/2025",
+    "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "605184",
+    "name": "Jean-Clair Todibo",
+    "position": "Defender - Centre-Back",
+    "number": "25",
+    "age": "26",
+    "nationality": [
+      "France",
+      "French Guiana"
+    ],
+    "market_value": "€23.00m",
+    "team_id": "379",
+    "team_name": "West Ham",
+    "full_name": "Jean-Clair Dimitri Roger Todibo",
+    "birth_date": "30/12/1999",
+    "birth_place": "Cayenne",
+    "height": "1,90 m",
+    "foot": "right",
+    "agent": "ESN",
+    "club": "West Ham United",
+    "joined": "01/07/2025",
+    "contract_expiry": "-"
+  },
+  {
     "id": "525247",
     "name": "Maximilian Kilman",
     "position": "Defender - Centre-Back",
@@ -6198,6 +8811,28 @@
     "club": "West Ham United",
     "joined": "06/07/2024",
     "contract_expiry": "30/06/2031"
+  },
+  {
+    "id": "386047",
+    "name": "Axel Disasi",
+    "position": "Defender - Centre-Back",
+    "number": "4",
+    "age": "28",
+    "nationality": [
+      "France",
+      "DR Congo"
+    ],
+    "market_value": "€15.00m",
+    "team_id": "379",
+    "team_name": "West Ham",
+    "birth_date": "11/03/1998",
+    "birth_place": "Gonesse",
+    "height": "1,91 m",
+    "foot": "right",
+    "agent": "21 Corp",
+    "club": "West Ham United",
+    "joined": "02/02/2026",
+    "contract_expiry": "30/06/2026"
   },
   {
     "id": "415912",
@@ -6244,6 +8879,27 @@
     "contract_expiry": "30/06/2028"
   },
   {
+    "id": "1111589",
+    "name": "El Hadji Malick Diouf",
+    "position": "Defender - Left-Back",
+    "number": "12",
+    "age": "21",
+    "nationality": [
+      "Senegal"
+    ],
+    "market_value": "€28.00m",
+    "team_id": "379",
+    "team_name": "West Ham",
+    "birth_date": "28/12/2004",
+    "birth_place": "Ziguinchor",
+    "height": "1,83 m",
+    "foot": "left",
+    "agent": "PSM",
+    "club": "West Ham United",
+    "joined": "15/07/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
     "id": "922563",
     "name": "Oliver Scarles",
     "position": "Defender - Left-Back",
@@ -6288,6 +8944,51 @@
     "contract_expiry": "30/06/2031"
   },
   {
+    "id": "341051",
+    "name": "Kyle Walker-Peters",
+    "position": "Defender - Right-Back",
+    "number": "2",
+    "age": "29",
+    "nationality": [
+      "England",
+      "Jamaica"
+    ],
+    "market_value": "€13.00m",
+    "team_id": "379",
+    "team_name": "West Ham",
+    "full_name": "Kyle Leonardus Walker-Peters",
+    "birth_date": "13/04/1997",
+    "birth_place": "London",
+    "height": "1,73 m",
+    "foot": "right",
+    "agent": "CAA Base Ltd",
+    "club": "West Ham United",
+    "joined": "20/07/2025",
+    "contract_expiry": "30/06/2028"
+  },
+  {
+    "id": "745181",
+    "name": "Soungoutou Magassa",
+    "position": "Midfield - Defensive Midfield",
+    "number": "27",
+    "age": "22",
+    "nationality": [
+      "France",
+      "Mali"
+    ],
+    "market_value": "€17.00m",
+    "team_id": "379",
+    "team_name": "West Ham",
+    "birth_date": "08/10/2003",
+    "birth_place": "Stains",
+    "height": "1,90 m",
+    "foot": "right",
+    "agent": "Relatives",
+    "club": "West Ham United",
+    "joined": "29/08/2025",
+    "contract_expiry": "30/06/2031"
+  },
+  {
     "id": "283628",
     "name": "Tomáš Souček",
     "position": "Midfield - Defensive Midfield",
@@ -6308,6 +9009,71 @@
     "club": "West Ham United",
     "joined": "27/07/2020",
     "contract_expiry": "30/06/2027"
+  },
+  {
+    "id": "698164",
+    "name": "Freddie Potts",
+    "position": "Midfield - Defensive Midfield",
+    "number": "32",
+    "age": "22",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€10.00m",
+    "team_id": "379",
+    "team_name": "West Ham",
+    "birth_date": "12/09/2003",
+    "birth_place": "London",
+    "height": "1,83 m",
+    "foot": "right",
+    "agent": "CAA Stellar",
+    "club": "West Ham United",
+    "joined": "01/07/2025",
+    "contract_expiry": "30/06/2029"
+  },
+  {
+    "id": "1081995",
+    "name": "Mohamadou Kanté",
+    "position": "Midfield - Defensive Midfield",
+    "number": "55",
+    "age": "20",
+    "nationality": [
+      "France",
+      "Senegal"
+    ],
+    "market_value": "€300k",
+    "team_id": "379",
+    "team_name": "West Ham",
+    "birth_date": "20/09/2005",
+    "birth_place": "Paris",
+    "height": "1,89 m",
+    "foot": "right",
+    "agent": "442 Partners",
+    "club": "West Ham United",
+    "joined": "27/10/2025",
+    "contract_expiry": "30/06/2031"
+  },
+  {
+    "id": "880245",
+    "name": "Mateus Fernandes",
+    "position": "Midfield - Central Midfield",
+    "number": "18",
+    "age": "21",
+    "nationality": [
+      "Portugal"
+    ],
+    "market_value": "€35.00m",
+    "team_id": "379",
+    "team_name": "West Ham",
+    "full_name": "Mateus Gonçalo Espanha Fernandes",
+    "birth_date": "10/07/2004",
+    "birth_place": "Olhão",
+    "height": "1,80 m",
+    "foot": "right",
+    "agent": "Gestifute",
+    "club": "West Ham United",
+    "joined": "29/08/2025",
+    "contract_expiry": "30/06/2030"
   },
   {
     "id": "474701",
@@ -6333,6 +9099,29 @@
     "contract_expiry": "30/06/2029"
   },
   {
+    "id": "1004203",
+    "name": "Keiber Lamadrid",
+    "position": "Attack - Left Winger",
+    "number": "21",
+    "age": "22",
+    "nationality": [
+      "Venezuela",
+      "Colombia"
+    ],
+    "market_value": "€1.20m",
+    "team_id": "379",
+    "team_name": "West Ham",
+    "full_name": "Keiber Alberto Lamadrid Briceño",
+    "birth_date": "18/11/2003",
+    "birth_place": "Caracas",
+    "height": "1,77 m",
+    "foot": "left",
+    "agent": "IST",
+    "club": "West Ham United",
+    "joined": "22/01/2026",
+    "contract_expiry": "30/06/2026"
+  },
+  {
     "id": "314875",
     "name": "Jarrod Bowen",
     "position": "Attack - Right Winger",
@@ -6352,6 +9141,95 @@
     "club": "West Ham United",
     "joined": "31/01/2020",
     "contract_expiry": "30/06/2030"
+  },
+  {
+    "id": "204103",
+    "name": "Adama Traoré",
+    "position": "Attack - Right Winger",
+    "number": "17",
+    "age": "30",
+    "nationality": [
+      "Spain",
+      "Mali"
+    ],
+    "market_value": "€8.00m",
+    "team_id": "379",
+    "team_name": "West Ham",
+    "full_name": "Adama Traoré Diarra",
+    "birth_date": "25/01/1996",
+    "birth_place": "L'Hospitalet de Llobregat",
+    "height": "1,78 m",
+    "foot": "right",
+    "agent": "AS1",
+    "club": "West Ham United",
+    "joined": "28/01/2026",
+    "contract_expiry": "30/06/2026"
+  },
+  {
+    "id": "522784",
+    "name": "Taty Castellanos",
+    "position": "Attack - Centre-Forward",
+    "number": "11",
+    "age": "27",
+    "nationality": [
+      "Argentina"
+    ],
+    "market_value": "€28.00m",
+    "team_id": "379",
+    "team_name": "West Ham",
+    "full_name": "Valentín Mariano José Castellanos Giménez",
+    "birth_date": "03/10/1998",
+    "birth_place": "Mendoza",
+    "height": "1,78 m",
+    "foot": "right",
+    "club": "West Ham United",
+    "joined": "05/01/2026",
+    "contract_expiry": "30/06/2030"
+  },
+  {
+    "id": "817665",
+    "name": "Pablo",
+    "position": "Attack - Centre-Forward",
+    "number": "19",
+    "age": "22",
+    "nationality": [
+      "Brazil",
+      "Portugal"
+    ],
+    "market_value": "€18.00m",
+    "team_id": "379",
+    "team_name": "West Ham",
+    "birth_date": "02/01/2004",
+    "birth_place": "Braga",
+    "height": "1,84 m",
+    "foot": "right",
+    "agent": "Gestifute",
+    "club": "West Ham United",
+    "joined": "02/01/2026",
+    "contract_expiry": "30/06/2030"
+  },
+  {
+    "id": "123682",
+    "name": "Callum Wilson",
+    "position": "Attack - Centre-Forward",
+    "number": "9",
+    "age": "34",
+    "nationality": [
+      "England",
+      "Ireland"
+    ],
+    "market_value": "€5.00m",
+    "team_id": "379",
+    "team_name": "West Ham",
+    "full_name": "Callum Eddie Graham Wilson",
+    "birth_date": "27/02/1992",
+    "birth_place": "Coventry",
+    "height": "1,80 m",
+    "foot": "right",
+    "agent": "Unique Sports Group",
+    "club": "West Ham United",
+    "joined": "02/08/2025",
+    "contract_expiry": "30/06/2026"
   },
   {
     "id": "249994",
@@ -6416,6 +9294,28 @@
     "club": "Wolverhampton Wanderers",
     "joined": "25/01/2023",
     "contract_expiry": "30/06/2027"
+  },
+  {
+    "id": "345911",
+    "name": "Ladislav Krejčí",
+    "position": "Defender - Centre-Back",
+    "number": "37",
+    "age": "27",
+    "nationality": [
+      "Czech Republic"
+    ],
+    "market_value": "€22.00m",
+    "team_id": "543",
+    "team_name": "Wolves",
+    "full_name": "Ladislav Krejčí",
+    "birth_date": "20/04/1999",
+    "birth_place": "Rosice",
+    "height": "1,91 m",
+    "foot": "left",
+    "agent": "SEG",
+    "club": "Wolverhampton Wanderers",
+    "joined": "28/08/2025",
+    "contract_expiry": "30/06/2026"
   },
   {
     "id": "606718",
@@ -6483,6 +9383,92 @@
     "club": "Wolverhampton Wanderers",
     "joined": "31/08/2023",
     "contract_expiry": "30/06/2028"
+  },
+  {
+    "id": "698678",
+    "name": "Hugo Bueno",
+    "position": "Defender - Left-Back",
+    "number": "3",
+    "age": "23",
+    "nationality": [
+      "Spain"
+    ],
+    "market_value": "€12.00m",
+    "team_id": "543",
+    "team_name": "Wolves",
+    "full_name": "Hugo Bueno López",
+    "birth_date": "18/09/2002",
+    "birth_place": "Vigo",
+    "height": "1,80 m",
+    "foot": "left",
+    "agent": "Footfeel ISM",
+    "club": "Wolverhampton Wanderers",
+    "joined": "01/07/2022",
+    "contract_expiry": "30/06/2028"
+  },
+  {
+    "id": "661427",
+    "name": "David Møller Wolfe",
+    "position": "Defender - Left-Back",
+    "number": "6",
+    "age": "24",
+    "nationality": [
+      "Norway"
+    ],
+    "market_value": "€10.00m",
+    "team_id": "543",
+    "team_name": "Wolves",
+    "birth_date": "23/04/2002",
+    "birth_place": "Bergen",
+    "height": "1,87 m",
+    "foot": "left",
+    "agent": "Forza Sports Group",
+    "club": "Wolverhampton Wanderers",
+    "joined": "02/08/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
+    "id": "848509",
+    "name": "Jackson Tchatchoua",
+    "position": "Defender - Right-Back",
+    "number": "38",
+    "age": "24",
+    "nationality": [
+      "Cameroon",
+      "Belgium"
+    ],
+    "market_value": "€12.00m",
+    "team_id": "543",
+    "team_name": "Wolves",
+    "birth_date": "14/09/2001",
+    "birth_place": "Ixelles",
+    "height": "1,80 m",
+    "foot": "right",
+    "agent": "DWMA",
+    "club": "Wolverhampton Wanderers",
+    "joined": "19/08/2025",
+    "contract_expiry": "30/06/2030"
+  },
+  {
+    "id": "1193867",
+    "name": "Pedro Lima",
+    "position": "Defender - Right-Back",
+    "number": "17",
+    "age": "19",
+    "nationality": [
+      "Brazil"
+    ],
+    "market_value": "€4.00m",
+    "team_id": "543",
+    "team_name": "Wolves",
+    "birth_date": "01/07/2006",
+    "birth_place": "Cabedelo",
+    "height": "1,74 m",
+    "foot": "right",
+    "agent": "PHSPORT",
+    "club": "Wolverhampton Wanderers",
+    "joined": "01/07/2024",
+    "contract_expiry": "30/06/2029"
   },
   {
     "id": "171679",
@@ -6594,6 +9580,52 @@
     "contract_expiry": "30/06/2029"
   },
   {
+    "id": "1230661",
+    "name": "Mateus Mané",
+    "position": "Midfield - Attacking Midfield",
+    "number": "36",
+    "age": "18",
+    "nationality": [
+      "Portugal",
+      "England"
+    ],
+    "market_value": "€20.00m",
+    "team_id": "543",
+    "team_name": "Wolves",
+    "full_name": "Mateus Bula Dami Mané",
+    "birth_date": "16/09/2007",
+    "birth_place": "Barreiro",
+    "height": "1,75 m",
+    "foot": "right",
+    "agent": "Enhance",
+    "club": "Wolverhampton Wanderers",
+    "joined": "01/07/2025",
+    "contract_expiry": "30/06/2029"
+  },
+  {
+    "id": "392770",
+    "name": "Angel Gomes",
+    "position": "Midfield - Attacking Midfield",
+    "number": "47",
+    "age": "25",
+    "nationality": [
+      "England",
+      "Portugal"
+    ],
+    "market_value": "€12.00m",
+    "team_id": "543",
+    "team_name": "Wolves",
+    "full_name": "Adilson Angel Abreu de Almeida Gomés",
+    "birth_date": "31/08/2000",
+    "birth_place": "London",
+    "height": "1,68 m",
+    "foot": "right",
+    "agent": "ROOF",
+    "club": "Wolverhampton Wanderers",
+    "joined": "02/02/2026",
+    "contract_expiry": "30/06/2026"
+  },
+  {
     "id": "1060740",
     "name": "Enso González",
     "position": "Attack - Left Winger",
@@ -6613,6 +9645,50 @@
     "agent": "Pedro Aldave Ortuzar",
     "club": "Wolverhampton Wanderers",
     "joined": "31/08/2023",
+    "contract_expiry": "30/06/2029"
+  },
+  {
+    "id": "683571",
+    "name": "Tolu Arokodare",
+    "position": "Attack - Centre-Forward",
+    "number": "14",
+    "age": "25",
+    "nationality": [
+      "Nigeria"
+    ],
+    "market_value": "€22.00m",
+    "team_id": "543",
+    "team_name": "Wolves",
+    "full_name": "Toluwalase Emmanuel Arokodare",
+    "birth_date": "23/11/2000",
+    "birth_place": "Festac",
+    "height": "1,97 m",
+    "foot": "right",
+    "agent": "CAA Base Ltd",
+    "club": "Wolverhampton Wanderers",
+    "joined": "01/09/2025",
+    "contract_expiry": "30/06/2029"
+  },
+  {
+    "id": "250426",
+    "name": "Adam Armstrong",
+    "position": "Attack - Centre-Forward",
+    "number": "9",
+    "age": "29",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€8.00m",
+    "team_id": "543",
+    "team_name": "Wolves",
+    "full_name": "Adam James Armstrong",
+    "birth_date": "10/02/1997",
+    "birth_place": "West Denton",
+    "height": "1,73 m",
+    "foot": "right",
+    "agent": "CAA Stellar",
+    "club": "Wolverhampton Wanderers",
+    "joined": "02/02/2026",
     "contract_expiry": "30/06/2029"
   },
   {

@@ -67,6 +67,17 @@
     "market_value": "€20.00m"
   },
   {
+    "id": "263236",
+    "name": "Kevin Danso",
+    "position": "Centre-Back",
+    "number": "4",
+    "age": "27",
+    "nationality": [
+      "Austria"
+    ],
+    "market_value": "€20.00m"
+  },
+  {
     "id": "192765",
     "name": "Ben Davies",
     "position": "Centre-Back",
@@ -102,6 +113,17 @@
     "market_value": "€30.00m"
   },
   {
+    "id": "1086258",
+    "name": "Souza",
+    "position": "Left-Back",
+    "number": "38",
+    "age": "19",
+    "nationality": [
+      "Brazil"
+    ],
+    "market_value": "€12.00m"
+  },
+  {
     "id": "553875",
     "name": "Pedro Porro",
     "position": "Right-Back",
@@ -122,6 +144,17 @@
       "Uruguay"
     ],
     "market_value": "€22.00m"
+  },
+  {
+    "id": "257455",
+    "name": "João Palhinha",
+    "position": "Defensive Midfield",
+    "number": "6",
+    "age": "30",
+    "nationality": [
+      "Portugal"
+    ],
+    "market_value": "€18.00m"
   },
   {
     "id": "410425",
@@ -159,6 +192,17 @@
     "market_value": "€35.00m"
   },
   {
+    "id": "488362",
+    "name": "Conor Gallagher",
+    "position": "Central Midfield",
+    "number": "22",
+    "age": "26",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€35.00m"
+  },
+  {
     "id": "568693",
     "name": "Pape Matar Sarr",
     "position": "Central Midfield",
@@ -168,6 +212,18 @@
       "Senegal"
     ],
     "market_value": "€32.00m"
+  },
+  {
+    "id": "566931",
+    "name": "Xavi Simons",
+    "position": "Attacking Midfield",
+    "number": "7",
+    "age": "23",
+    "nationality": [
+      "Netherlands",
+      "Suriname"
+    ],
+    "market_value": "€50.00m"
   },
   {
     "id": "431755",
@@ -206,6 +262,17 @@
     "market_value": "€20.00m"
   },
   {
+    "id": "543499",
+    "name": "Mohammed Kudus",
+    "position": "Right Winger",
+    "number": "20",
+    "age": "25",
+    "nationality": [
+      "Ghana"
+    ],
+    "market_value": "€55.00m"
+  },
+  {
     "id": "258889",
     "name": "Dominic Solanke",
     "position": "Centre-Forward",
@@ -227,5 +294,29 @@
       "Brazil"
     ],
     "market_value": "€28.00m"
+  },
+  {
+    "id": "801734",
+    "name": "Mathys Tel",
+    "position": "Centre-Forward",
+    "number": "11",
+    "age": "21",
+    "nationality": [
+      "France",
+      "Guadeloupe"
+    ],
+    "market_value": "€25.00m"
+  },
+  {
+    "id": "487969",
+    "name": "Randal Kolo Muani",
+    "position": "Centre-Forward",
+    "number": "39",
+    "age": "27",
+    "nationality": [
+      "France",
+      "DR Congo"
+    ],
+    "market_value": "€22.00m"
   }
 ]

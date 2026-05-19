@@ -15,7 +15,7 @@ DATA_DIR = os.path.join(os.path.dirname(__file__), 'data')
 CHECKPOINT = os.path.join(DATA_DIR, '_checkpoint.json')
 RATE = 3.5
 
-# Premier League 2024/25 teams with verified Transfermarkt IDs
+# Premier League 2025/26 teams with verified Transfermarkt IDs
 TEAMS = [
     {'id': '11', 'name': 'Arsenal'},
     {'id': '405', 'name': 'Aston Villa'},
@@ -109,12 +109,6 @@ def crawl_squads():
                 if not name or len(name) < 2:
                     continue
 
-                # Filter out recommended players from other teams.
-                # Real squad: td[1] has 1 link (player profile).
-                # Recommeded: td[1] has extra team links.
-                if len(tds[1].select('a')) > 1:
-                    continue
-
                 # td[0] = shirt number
                 num = tds[0].get_text(strip=True)
 
@@ -174,7 +168,15 @@ def crawl_squads():
 
     total_players = sum(t.get('player_count', 0) for t in final_teams)
     log(f"Squad crawl complete. {len(final_teams)} teams, {total_players} players")
-    save_checkpoint({'step': 'squads_done', 'total_players': total_players})
+    # Preserve any existing done_details from a previous partial crawl
+    existing = load_checkpoint()
+    done_details = existing.get('done_details', [])
+    progress = existing.get('progress', '')
+    cp = {'step': 'squads_done', 'done_squads': [t['id'] for t in TEAMS], 'total_players': total_players}
+    if done_details:
+        cp['done_details'] = done_details
+        cp['progress'] = progress
+    save_checkpoint(cp)
     return total_players
 
 # ==================== STEP 2: Crawl player details ====================
@@ -275,7 +277,7 @@ def crawl_player_details():
     # Build summary
     summary = {
         'league': 'Premier League',
-        'season': '2024/2025',
+        'season': '2025/2026',
         'teams': [{'id': t['id'], 'name': t['name'], 'player_count': t.get('player_count', 0)} for t in TEAMS],
         'total_players': len(all_players),
         'last_updated': time.strftime('%Y-%m-%d %H:%M:%S'),

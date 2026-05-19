@@ -15,6 +15,29 @@
         "market_value": "€35.00m"
       },
       {
+        "id": "192279",
+        "name": "Kepa Arrizabalaga",
+        "position": "Goalkeeper",
+        "number": "13",
+        "age": "31",
+        "nationality": [
+          "Spain"
+        ],
+        "market_value": "€7.00m"
+      },
+      {
+        "id": "848753",
+        "name": "Tommy Setford",
+        "position": "Goalkeeper",
+        "number": "35",
+        "age": "20",
+        "nationality": [
+          "England",
+          "Netherlands"
+        ],
+        "market_value": "-"
+      },
+      {
         "id": "495666",
         "name": "William Saliba",
         "position": "Centre-Back",
@@ -36,6 +59,29 @@
           "Brazil"
         ],
         "market_value": "€75.00m"
+      },
+      {
+        "id": "659813",
+        "name": "Piero Hincapié",
+        "position": "Centre-Back",
+        "number": "5",
+        "age": "24",
+        "nationality": [
+          "Ecuador"
+        ],
+        "market_value": "€50.00m"
+      },
+      {
+        "id": "646750",
+        "name": "Cristhian Mosquera",
+        "position": "Centre-Back",
+        "number": "3",
+        "age": "21",
+        "nationality": [
+          "Spain",
+          "Colombia"
+        ],
+        "market_value": "€35.00m"
       },
       {
         "id": "502821",
@@ -84,6 +130,28 @@
         "market_value": "€30.00m"
       },
       {
+        "id": "423440",
+        "name": "Martín Zubimendi",
+        "position": "Defensive Midfield",
+        "number": "36",
+        "age": "27",
+        "nationality": [
+          "Spain"
+        ],
+        "market_value": "€80.00m"
+      },
+      {
+        "id": "148367",
+        "name": "Christian Nørgaard",
+        "position": "Defensive Midfield",
+        "number": "16",
+        "age": "32",
+        "nationality": [
+          "Denmark"
+        ],
+        "market_value": "€7.00m"
+      },
+      {
         "id": "357662",
         "name": "Declan Rice",
         "position": "Central Midfield",
@@ -116,6 +184,18 @@
           "Norway"
         ],
         "market_value": "€65.00m"
+      },
+      {
+        "id": "479999",
+        "name": "Eberechi Eze",
+        "position": "Attacking Midfield",
+        "number": "10",
+        "age": "27",
+        "nationality": [
+          "England",
+          "Nigeria"
+        ],
+        "market_value": "€60.00m"
       },
       {
         "id": "655488",
@@ -153,6 +233,41 @@
         "market_value": "€120.00m"
       },
       {
+        "id": "503987",
+        "name": "Noni Madueke",
+        "position": "Right Winger",
+        "number": "20",
+        "age": "24",
+        "nationality": [
+          "England",
+          "Nigeria"
+        ],
+        "market_value": "€50.00m"
+      },
+      {
+        "id": "1187629",
+        "name": "Max Dowman",
+        "position": "Right Winger",
+        "number": "56",
+        "age": "16",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€20.00m"
+      },
+      {
+        "id": "325443",
+        "name": "Viktor Gyökeres",
+        "position": "Centre-Forward",
+        "number": "14",
+        "age": "27",
+        "nationality": [
+          "Sweden",
+          "Hungary"
+        ],
+        "market_value": "€65.00m"
+      },
+      {
         "id": "309400",
         "name": "Kai Havertz",
         "position": "Centre-Forward",
@@ -175,7 +290,7 @@
         "market_value": "€20.00m"
       }
     ],
-    "player_count": 15
+    "player_count": 25
   },
   {
     "id": "405",
@@ -192,6 +307,17 @@
           "Spain"
         ],
         "market_value": "€15.00m"
+      },
+      {
+        "id": "124884",
+        "name": "Marco Bizot",
+        "position": "Goalkeeper",
+        "number": "40",
+        "age": "35",
+        "nationality": [
+          "Netherlands"
+        ],
+        "market_value": "€2.50m"
       },
       {
         "id": "413403",
@@ -215,6 +341,17 @@
           "Spain"
         ],
         "market_value": "€22.00m"
+      },
+      {
+        "id": "184573",
+        "name": "Victor Lindelöf",
+        "position": "Centre-Back",
+        "number": "3",
+        "age": "31",
+        "nationality": [
+          "Sweden"
+        ],
+        "market_value": "€6.00m"
       },
       {
         "id": "253677",
@@ -322,6 +459,17 @@
         "market_value": "€35.00m"
       },
       {
+        "id": "447661",
+        "name": "Douglas Luiz",
+        "position": "Central Midfield",
+        "number": "21",
+        "age": "28",
+        "nationality": [
+          "Brazil"
+        ],
+        "market_value": "€20.00m"
+      },
+      {
         "id": "193116",
         "name": "John McGinn",
         "position": "Central Midfield",
@@ -355,6 +503,63 @@
         "market_value": "€80.00m"
       },
       {
+        "id": "565822",
+        "name": "Harvey Elliott",
+        "position": "Attacking Midfield",
+        "number": "9",
+        "age": "23",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€22.00m"
+      },
+      {
+        "id": "321247",
+        "name": "Emiliano Buendía",
+        "position": "Attacking Midfield",
+        "number": "10",
+        "age": "29",
+        "nationality": [
+          "Argentina",
+          "Spain"
+        ],
+        "market_value": "€18.00m"
+      },
+      {
+        "id": "401173",
+        "name": "Jadon Sancho",
+        "position": "Left Winger",
+        "number": "19",
+        "age": "26",
+        "nationality": [
+          "England",
+          "Jamaica"
+        ],
+        "market_value": "€20.00m"
+      },
+      {
+        "id": "387626",
+        "name": "Leon Bailey",
+        "position": "Right Winger",
+        "number": "31",
+        "age": "28",
+        "nationality": [
+          "Jamaica"
+        ],
+        "market_value": "€16.00m"
+      },
+      {
+        "id": "1005583",
+        "name": "Alysson",
+        "position": "Right Winger",
+        "number": "47",
+        "age": "20",
+        "nationality": [
+          "Brazil"
+        ],
+        "market_value": "€10.00m"
+      },
+      {
         "id": "324358",
         "name": "Ollie Watkins",
         "position": "Centre-Forward",
@@ -364,14 +569,94 @@
           "England"
         ],
         "market_value": "€30.00m"
+      },
+      {
+        "id": "331726",
+        "name": "Tammy Abraham",
+        "position": "Centre-Forward",
+        "number": "18",
+        "age": "28",
+        "nationality": [
+          "England",
+          "Nigeria"
+        ],
+        "market_value": "€20.00m"
       }
     ],
-    "player_count": 16
+    "player_count": 25
   },
   {
     "id": "989",
     "name": "Bournemouth",
     "players": [
+      {
+        "id": "465555",
+        "name": "Djordje Petrovic",
+        "position": "Goalkeeper",
+        "number": "1",
+        "age": "26",
+        "nationality": [
+          "Serbia"
+        ],
+        "market_value": "€28.00m"
+      },
+      {
+        "id": "481675",
+        "name": "Christos Mandas",
+        "position": "Goalkeeper",
+        "number": "29",
+        "age": "24",
+        "nationality": [
+          "Greece"
+        ],
+        "market_value": "€10.00m"
+      },
+      {
+        "id": "52570",
+        "name": "Fraser Forster",
+        "position": "Goalkeeper",
+        "number": "17",
+        "age": "38",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€600k"
+      },
+      {
+        "id": "463605",
+        "name": "Bafodé Diakité",
+        "position": "Centre-Back",
+        "number": "18",
+        "age": "25",
+        "nationality": [
+          "France",
+          "Guinea"
+        ],
+        "market_value": "€30.00m"
+      },
+      {
+        "id": "469781",
+        "name": "Marcos Senesi",
+        "position": "Centre-Back",
+        "number": "5",
+        "age": "29",
+        "nationality": [
+          "Argentina",
+          "Italy"
+        ],
+        "market_value": "€22.00m"
+      },
+      {
+        "id": "989112",
+        "name": "Veljko Milosavljevic",
+        "position": "Centre-Back",
+        "number": "44",
+        "age": "18",
+        "nationality": [
+          "Serbia"
+        ],
+        "market_value": "€20.00m"
+      },
       {
         "id": "611793",
         "name": "James Hill",
@@ -396,6 +681,18 @@
         "market_value": "€1.00m"
       },
       {
+        "id": "654539",
+        "name": "Adrien Truffert",
+        "position": "Left-Back",
+        "number": "3",
+        "age": "24",
+        "nationality": [
+          "France",
+          "Belgium"
+        ],
+        "market_value": "€25.00m"
+      },
+      {
         "id": "1009658",
         "name": "Julio Soler",
         "position": "Left-Back",
@@ -406,6 +703,17 @@
           "Paraguay"
         ],
         "market_value": "€8.00m"
+      },
+      {
+        "id": "741257",
+        "name": "Álex Jiménez",
+        "position": "Right-Back",
+        "number": "20",
+        "age": "21",
+        "nationality": [
+          "Spain"
+        ],
+        "market_value": "€22.00m"
       },
       {
         "id": "61841",
@@ -453,6 +761,17 @@
         "market_value": "€13.00m"
       },
       {
+        "id": "998101",
+        "name": "Alex Tóth",
+        "position": "Central Midfield",
+        "number": "27",
+        "age": "20",
+        "nationality": [
+          "Hungary"
+        ],
+        "market_value": "€12.00m"
+      },
+      {
         "id": "188077",
         "name": "Ryan Christie",
         "position": "Central Midfield",
@@ -487,6 +806,40 @@
         "market_value": "€23.00m"
       },
       {
+        "id": "532776",
+        "name": "Amine Adli",
+        "position": "Left Winger",
+        "number": "21",
+        "age": "26",
+        "nationality": [
+          "Morocco",
+          "France"
+        ],
+        "market_value": "€20.00m"
+      },
+      {
+        "id": "1012564",
+        "name": "Rayan",
+        "position": "Right Winger",
+        "number": "37",
+        "age": "19",
+        "nationality": [
+          "Brazil"
+        ],
+        "market_value": "€40.00m"
+      },
+      {
+        "id": "719673",
+        "name": "Ben Gannon-Doak",
+        "position": "Right Winger",
+        "number": "11",
+        "age": "20",
+        "nationality": [
+          "Scotland"
+        ],
+        "market_value": "€16.00m"
+      },
+      {
         "id": "277033",
         "name": "David Brooks",
         "position": "Right Winger",
@@ -497,6 +850,18 @@
           "England"
         ],
         "market_value": "€14.00m"
+      },
+      {
+        "id": "955357",
+        "name": "Junior Kroupi",
+        "position": "Centre-Forward",
+        "number": "22",
+        "age": "19",
+        "nationality": [
+          "France",
+          "Portugal"
+        ],
+        "market_value": "€40.00m"
       },
       {
         "id": "711337",
@@ -521,12 +886,23 @@
         "market_value": "€8.00m"
       }
     ],
-    "player_count": 13
+    "player_count": 26
   },
   {
     "id": "1148",
     "name": "Brentford",
     "players": [
+      {
+        "id": "340918",
+        "name": "Caoimhín Kelleher",
+        "position": "Goalkeeper",
+        "number": "1",
+        "age": "27",
+        "nationality": [
+          "Ireland"
+        ],
+        "market_value": "€25.00m"
+      },
       {
         "id": "488935",
         "name": "Hákon Valdimarsson",
@@ -537,6 +913,29 @@
           "Iceland"
         ],
         "market_value": "€2.50m"
+      },
+      {
+        "id": "456292",
+        "name": "Ellery Balcombe",
+        "position": "Goalkeeper",
+        "number": "31",
+        "age": "26",
+        "nationality": [
+          "England",
+          "St. Vincent & Grenadinen"
+        ],
+        "market_value": "€400k"
+      },
+      {
+        "id": "1008553",
+        "name": "Julian Eyestone",
+        "position": "Goalkeeper",
+        "number": "41",
+        "age": "20",
+        "nationality": [
+          "United States"
+        ],
+        "market_value": "-"
       },
       {
         "id": "541231",
@@ -596,6 +995,18 @@
         "market_value": "€15.00m"
       },
       {
+        "id": "823486",
+        "name": "Michael Kayode",
+        "position": "Right-Back",
+        "number": "33",
+        "age": "21",
+        "nationality": [
+          "Italy",
+          "Nigeria"
+        ],
+        "market_value": "€35.00m"
+      },
+      {
         "id": "591949",
         "name": "Aaron Hickey",
         "position": "Right-Back",
@@ -617,6 +1028,17 @@
           "Bosnia-Herzegovina"
         ],
         "market_value": "€18.00m"
+      },
+      {
+        "id": "61651",
+        "name": "Jordan Henderson",
+        "position": "Defensive Midfield",
+        "number": "6",
+        "age": "35",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€2.00m"
       },
       {
         "id": "717411",
@@ -641,6 +1063,18 @@
         "market_value": "€12.00m"
       },
       {
+        "id": "340321",
+        "name": "Josh Dasilva",
+        "position": "Central Midfield",
+        "number": "10",
+        "age": "27",
+        "nationality": [
+          "England",
+          "Angola"
+        ],
+        "market_value": "€2.00m"
+      },
+      {
         "id": "644401",
         "name": "Keane Lewis-Potter",
         "position": "Left Midfield",
@@ -661,6 +1095,18 @@
           "Denmark"
         ],
         "market_value": "€30.00m"
+      },
+      {
+        "id": "683620",
+        "name": "Antoni Milambo",
+        "position": "Attacking Midfield",
+        "number": "17",
+        "age": "21",
+        "nationality": [
+          "Netherlands",
+          "DR Congo"
+        ],
+        "market_value": "€20.00m"
       },
       {
         "id": "559263",
@@ -686,6 +1132,41 @@
         "market_value": "€35.00m"
       },
       {
+        "id": "340325",
+        "name": "Reiss Nelson",
+        "position": "Left Winger",
+        "number": "11",
+        "age": "26",
+        "nationality": [
+          "England",
+          "Jamaica"
+        ],
+        "market_value": "€12.00m"
+      },
+      {
+        "id": "823231",
+        "name": "Dango Ouattara",
+        "position": "Right Winger",
+        "number": "19",
+        "age": "24",
+        "nationality": [
+          "Burkina Faso"
+        ],
+        "market_value": "€35.00m"
+      },
+      {
+        "id": "1091562",
+        "name": "Romelle Donovan",
+        "position": "Right Winger",
+        "number": "45",
+        "age": "19",
+        "nationality": [
+          "England",
+          "St. Kitts & Nevis"
+        ],
+        "market_value": "€3.50m"
+      },
+      {
         "id": "739443",
         "name": "Igor Thiago",
         "position": "Centre-Forward",
@@ -696,9 +1177,21 @@
           "Bulgaria"
         ],
         "market_value": "€50.00m"
+      },
+      {
+        "id": "1011936",
+        "name": "Kaye Furo",
+        "position": "Centre-Forward",
+        "number": "47",
+        "age": "19",
+        "nationality": [
+          "Belgium",
+          "Nigeria"
+        ],
+        "market_value": "€8.00m"
       }
     ],
-    "player_count": 15
+    "player_count": 26
   },
   {
     "id": "1237",
@@ -751,6 +1244,29 @@
         "market_value": "€35.00m"
       },
       {
+        "id": "318508",
+        "name": "Olivier Boscagli",
+        "position": "Centre-Back",
+        "number": "21",
+        "age": "28",
+        "nationality": [
+          "France",
+          "Monaco"
+        ],
+        "market_value": "€15.00m"
+      },
+      {
+        "id": "380350",
+        "name": "Igor Julio",
+        "position": "Centre-Back",
+        "number": "3",
+        "age": "28",
+        "nationality": [
+          "Brazil"
+        ],
+        "market_value": "€12.00m"
+      },
+      {
         "id": "212847",
         "name": "Adam Webster",
         "position": "Centre-Back",
@@ -783,6 +1299,17 @@
           "Netherlands"
         ],
         "market_value": "€30.00m"
+      },
+      {
+        "id": "429915",
+        "name": "Maxim De Cuyper",
+        "position": "Left-Back",
+        "number": "29",
+        "age": "25",
+        "nationality": [
+          "Belgium"
+        ],
+        "market_value": "€22.00m"
       },
       {
         "id": "415381",
@@ -852,6 +1379,29 @@
         "market_value": "€25.00m"
       },
       {
+        "id": "406634",
+        "name": "Matt O'Riley",
+        "position": "Central Midfield",
+        "number": "33",
+        "age": "25",
+        "nationality": [
+          "Denmark",
+          "England"
+        ],
+        "market_value": "€20.00m"
+      },
+      {
+        "id": "82873",
+        "name": "Pascal Groß",
+        "position": "Central Midfield",
+        "number": "30",
+        "age": "34",
+        "nationality": [
+          "Germany"
+        ],
+        "market_value": "€3.50m"
+      },
+      {
         "id": "3333",
         "name": "James Milner",
         "position": "Central Midfield",
@@ -908,6 +1458,28 @@
         "market_value": "€30.00m"
       },
       {
+        "id": "1060087",
+        "name": "Charalampos Kostoulas",
+        "position": "Centre-Forward",
+        "number": "19",
+        "age": "18",
+        "nationality": [
+          "Greece"
+        ],
+        "market_value": "€25.00m"
+      },
+      {
+        "id": "950091",
+        "name": "Stefanos Tzimas",
+        "position": "Centre-Forward",
+        "number": "9",
+        "age": "20",
+        "nationality": [
+          "Greece"
+        ],
+        "market_value": "€20.00m"
+      },
+      {
         "id": "67063",
         "name": "Danny Welbeck",
         "position": "Centre-Forward",
@@ -920,7 +1492,7 @@
         "market_value": "€4.00m"
       }
     ],
-    "player_count": 19
+    "player_count": 26
   },
   {
     "id": "631",
@@ -963,6 +1535,28 @@
         "market_value": "€3.50m"
       },
       {
+        "id": "731466",
+        "name": "Teddy Sharman-Lowe",
+        "position": "Goalkeeper",
+        "number": "28",
+        "age": "23",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€550k"
+      },
+      {
+        "id": "503765",
+        "name": "James Hillson",
+        "position": "Goalkeeper",
+        "number": "-",
+        "age": "25",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "-"
+      },
+      {
         "id": "614258",
         "name": "Levi Colwill",
         "position": "Centre-Back",
@@ -998,6 +1592,18 @@
         "market_value": "€28.00m"
       },
       {
+        "id": "910905",
+        "name": "Mamadou Sarr",
+        "position": "Centre-Back",
+        "number": "19",
+        "age": "20",
+        "nationality": [
+          "Senegal",
+          "France"
+        ],
+        "market_value": "€25.00m"
+      },
+      {
         "id": "258878",
         "name": "Tosin Adarabioyo",
         "position": "Centre-Back",
@@ -1031,6 +1637,29 @@
           "Spain"
         ],
         "market_value": "€50.00m"
+      },
+      {
+        "id": "904802",
+        "name": "Jorrel Hato",
+        "position": "Left-Back",
+        "number": "21",
+        "age": "20",
+        "nationality": [
+          "Netherlands",
+          "Curacao"
+        ],
+        "market_value": "€35.00m"
+      },
+      {
+        "id": "746833",
+        "name": "Caleb Wiley",
+        "position": "Left-Back",
+        "number": "-",
+        "age": "21",
+        "nationality": [
+          "United States"
+        ],
+        "market_value": "€8.00m"
       },
       {
         "id": "472423",
@@ -1091,6 +1720,18 @@
         "market_value": "€25.00m"
       },
       {
+        "id": "670717",
+        "name": "Dário Essugo",
+        "position": "Defensive Midfield",
+        "number": "14",
+        "age": "21",
+        "nationality": [
+          "Portugal",
+          "Angola"
+        ],
+        "market_value": "€17.00m"
+      },
+      {
         "id": "648195",
         "name": "Enzo Fernández",
         "position": "Central Midfield",
@@ -1125,6 +1766,30 @@
         "market_value": "€110.00m"
       },
       {
+        "id": "811779",
+        "name": "Alejandro Garnacho",
+        "position": "Left Winger",
+        "number": "49",
+        "age": "21",
+        "nationality": [
+          "Argentina",
+          "Spain"
+        ],
+        "market_value": "€40.00m"
+      },
+      {
+        "id": "670882",
+        "name": "Jamie Gittens",
+        "position": "Left Winger",
+        "number": "11",
+        "age": "21",
+        "nationality": [
+          "England",
+          "Barbados"
+        ],
+        "market_value": "€35.00m"
+      },
+      {
         "id": "537860",
         "name": "Mykhaylo Mudryk",
         "position": "Left Winger",
@@ -1136,6 +1801,17 @@
         "market_value": "-"
       },
       {
+        "id": "1056993",
+        "name": "Estêvão",
+        "position": "Right Winger",
+        "number": "41",
+        "age": "19",
+        "nationality": [
+          "Brazil"
+        ],
+        "market_value": "€80.00m"
+      },
+      {
         "id": "487465",
         "name": "Pedro Neto",
         "position": "Right Winger",
@@ -1145,9 +1821,43 @@
           "Portugal"
         ],
         "market_value": "€60.00m"
+      },
+      {
+        "id": "626724",
+        "name": "João Pedro",
+        "position": "Centre-Forward",
+        "number": "20",
+        "age": "24",
+        "nationality": [
+          "Brazil"
+        ],
+        "market_value": "€75.00m"
+      },
+      {
+        "id": "610849",
+        "name": "Liam Delap",
+        "position": "Centre-Forward",
+        "number": "9",
+        "age": "23",
+        "nationality": [
+          "England",
+          "Ireland"
+        ],
+        "market_value": "€32.00m"
+      },
+      {
+        "id": "938158",
+        "name": "Marc Guiu",
+        "position": "Centre-Forward",
+        "number": "38",
+        "age": "20",
+        "nationality": [
+          "Spain"
+        ],
+        "market_value": "€12.00m"
       }
     ],
-    "player_count": 19
+    "player_count": 31
   },
   {
     "id": "873",
@@ -1163,6 +1873,18 @@
           "England"
         ],
         "market_value": "€28.00m"
+      },
+      {
+        "id": "296802",
+        "name": "Walter Benítez",
+        "position": "Goalkeeper",
+        "number": "44",
+        "age": "33",
+        "nationality": [
+          "Argentina",
+          "France"
+        ],
+        "market_value": "€5.00m"
       },
       {
         "id": "196722",
@@ -1199,6 +1921,18 @@
         "market_value": "€25.00m"
       },
       {
+        "id": "1006411",
+        "name": "Jaydee Canvot",
+        "position": "Centre-Back",
+        "number": "23",
+        "age": "19",
+        "nationality": [
+          "France",
+          "Senegal"
+        ],
+        "market_value": "€20.00m"
+      },
+      {
         "id": "689637",
         "name": "Chadi Riad",
         "position": "Centre-Back",
@@ -1221,6 +1955,30 @@
           "Jamaica"
         ],
         "market_value": "€25.00m"
+      },
+      {
+        "id": "293194",
+        "name": "Borna Sosa",
+        "position": "Left-Back",
+        "number": "24",
+        "age": "28",
+        "nationality": [
+          "Croatia",
+          "Germany"
+        ],
+        "market_value": "€4.00m"
+      },
+      {
+        "id": "1047257",
+        "name": "Rio Cardines",
+        "position": "Left-Back",
+        "number": "59",
+        "age": "19",
+        "nationality": [
+          "Trinidad and Tobago",
+          "England"
+        ],
+        "market_value": "€300k"
       },
       {
         "id": "493003",
@@ -1291,6 +2049,17 @@
         "market_value": "€8.00m"
       },
       {
+        "id": "860078",
+        "name": "Kaden Rodney",
+        "position": "Defensive Midfield",
+        "number": "42",
+        "age": "21",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€200k"
+      },
+      {
         "id": "207014",
         "name": "Will Hughes",
         "position": "Central Midfield",
@@ -1336,6 +2105,52 @@
         "market_value": "€35.00m"
       },
       {
+        "id": "568157",
+        "name": "Yéremy Pino",
+        "position": "Right Winger",
+        "number": "10",
+        "age": "23",
+        "nationality": [
+          "Spain"
+        ],
+        "market_value": "€35.00m"
+      },
+      {
+        "id": "470607",
+        "name": "Brennan Johnson",
+        "position": "Right Winger",
+        "number": "11",
+        "age": "24",
+        "nationality": [
+          "Wales",
+          "England"
+        ],
+        "market_value": "€35.00m"
+      },
+      {
+        "id": "500689",
+        "name": "Evann Guessand",
+        "position": "Right Winger",
+        "number": "29",
+        "age": "24",
+        "nationality": [
+          "Cote d'Ivoire",
+          "France"
+        ],
+        "market_value": "€28.00m"
+      },
+      {
+        "id": "429983",
+        "name": "Jørgen Strand Larsen",
+        "position": "Centre-Forward",
+        "number": "22",
+        "age": "26",
+        "nationality": [
+          "Norway"
+        ],
+        "market_value": "€45.00m"
+      },
+      {
         "id": "420002",
         "name": "Jean-Philippe Mateta",
         "position": "Centre-Forward",
@@ -1346,6 +2161,17 @@
           "DR Congo"
         ],
         "market_value": "€35.00m"
+      },
+      {
+        "id": "1124005",
+        "name": "Christantus Uche",
+        "position": "Centre-Forward",
+        "number": "12",
+        "age": "23",
+        "nationality": [
+          "Nigeria"
+        ],
+        "market_value": "€15.00m"
       },
       {
         "id": "340324",
@@ -1360,7 +2186,7 @@
         "market_value": "€14.00m"
       }
     ],
-    "player_count": 18
+    "player_count": 28
   },
   {
     "id": "29",
@@ -1376,6 +2202,29 @@
           "England"
         ],
         "market_value": "€15.00m"
+      },
+      {
+        "id": "357658",
+        "name": "Mark Travers",
+        "position": "Goalkeeper",
+        "number": "12",
+        "age": "27",
+        "nationality": [
+          "Ireland"
+        ],
+        "market_value": "€4.00m"
+      },
+      {
+        "id": "215810",
+        "name": "Tom King",
+        "position": "Goalkeeper",
+        "number": "31",
+        "age": "31",
+        "nationality": [
+          "Wales",
+          "England"
+        ],
+        "market_value": "€150k"
       },
       {
         "id": "661053",
@@ -1424,6 +2273,18 @@
         "market_value": "€25.00m"
       },
       {
+        "id": "938146",
+        "name": "Adam Aznou",
+        "position": "Left-Back",
+        "number": "39",
+        "age": "19",
+        "nationality": [
+          "Morocco",
+          "Spain"
+        ],
+        "market_value": "€7.00m"
+      },
+      {
         "id": "711544",
         "name": "Jake O'Brien",
         "position": "Right-Back",
@@ -1444,6 +2305,17 @@
           "Scotland"
         ],
         "market_value": "€10.00m"
+      },
+      {
+        "id": "68390",
+        "name": "Séamus Coleman",
+        "position": "Right-Back",
+        "number": "23",
+        "age": "37",
+        "nationality": [
+          "Ireland"
+        ],
+        "market_value": "€300k"
       },
       {
         "id": "505219",
@@ -1468,6 +2340,29 @@
         "market_value": "€1.00m"
       },
       {
+        "id": "475188",
+        "name": "Kiernan Dewsbury-Hall",
+        "position": "Central Midfield",
+        "number": "22",
+        "age": "27",
+        "nationality": [
+          "England",
+          "Ireland"
+        ],
+        "market_value": "€32.00m"
+      },
+      {
+        "id": "748319",
+        "name": "Carlos Alcaraz",
+        "position": "Central Midfield",
+        "number": "24",
+        "age": "23",
+        "nationality": [
+          "Argentina"
+        ],
+        "market_value": "€15.00m"
+      },
+      {
         "id": "696589",
         "name": "Tim Iroegbunam",
         "position": "Central Midfield",
@@ -1478,6 +2373,52 @@
           "Nigeria"
         ],
         "market_value": "€15.00m"
+      },
+      {
+        "id": "1107733",
+        "name": "Harrison Armstrong",
+        "position": "Central Midfield",
+        "number": "45",
+        "age": "19",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€12.00m"
+      },
+      {
+        "id": "608832",
+        "name": "Merlin Röhl",
+        "position": "Attacking Midfield",
+        "number": "34",
+        "age": "23",
+        "nationality": [
+          "Germany"
+        ],
+        "market_value": "€16.00m"
+      },
+      {
+        "id": "203460",
+        "name": "Jack Grealish",
+        "position": "Left Winger",
+        "number": "18",
+        "age": "30",
+        "nationality": [
+          "England",
+          "Ireland"
+        ],
+        "market_value": "€25.00m"
+      },
+      {
+        "id": "936874",
+        "name": "Tyrique George",
+        "position": "Left Winger",
+        "number": "19",
+        "age": "20",
+        "nationality": [
+          "England",
+          "Nigeria"
+        ],
+        "market_value": "€22.00m"
       },
       {
         "id": "584769",
@@ -1504,6 +2445,29 @@
         "market_value": "€50.00m"
       },
       {
+        "id": "866655",
+        "name": "Tyler Dibling",
+        "position": "Right Winger",
+        "number": "20",
+        "age": "20",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€22.00m"
+      },
+      {
+        "id": "937941",
+        "name": "Thierno Barry",
+        "position": "Centre-Forward",
+        "number": "11",
+        "age": "23",
+        "nationality": [
+          "France",
+          "Guinea"
+        ],
+        "market_value": "€30.00m"
+      },
+      {
         "id": "595809",
         "name": "Beto",
         "position": "Centre-Forward",
@@ -1516,7 +2480,7 @@
         "market_value": "€20.00m"
       }
     ],
-    "player_count": 13
+    "player_count": 25
   },
   {
     "id": "931",
@@ -1532,6 +2496,17 @@
           "Germany"
         ],
         "market_value": "€8.00m"
+      },
+      {
+        "id": "127181",
+        "name": "Benjamin Lecomte",
+        "position": "Goalkeeper",
+        "number": "23",
+        "age": "35",
+        "nationality": [
+          "France"
+        ],
+        "market_value": "€1.20m"
       },
       {
         "id": "461883",
@@ -1693,6 +2668,17 @@
         "market_value": "€20.00m"
       },
       {
+        "id": "900195",
+        "name": "Kevin",
+        "position": "Left Winger",
+        "number": "22",
+        "age": "23",
+        "nationality": [
+          "Brazil"
+        ],
+        "market_value": "€30.00m"
+      },
+      {
         "id": "242631",
         "name": "Alex Iwobi",
         "position": "Left Winger",
@@ -1705,6 +2691,18 @@
         "market_value": "€25.00m"
       },
       {
+        "id": "661207",
+        "name": "Oscar Bobb",
+        "position": "Right Winger",
+        "number": "14",
+        "age": "22",
+        "nationality": [
+          "Norway",
+          "The Gambia"
+        ],
+        "market_value": "€30.00m"
+      },
+      {
         "id": "279455",
         "name": "Harry Wilson",
         "position": "Right Winger",
@@ -1715,6 +2713,17 @@
           "England"
         ],
         "market_value": "€25.00m"
+      },
+      {
+        "id": "401922",
+        "name": "Samuel Chukwueze",
+        "position": "Right Winger",
+        "number": "19",
+        "age": "26",
+        "nationality": [
+          "Nigeria"
+        ],
+        "market_value": "€15.00m"
       },
       {
         "id": "735571",
@@ -1737,9 +2746,21 @@
           "Mexico"
         ],
         "market_value": "€4.00m"
+      },
+      {
+        "id": "1069512",
+        "name": "Jonah Kusi-Asare",
+        "position": "Centre-Forward",
+        "number": "18",
+        "age": "18",
+        "nationality": [
+          "Sweden",
+          "Ghana"
+        ],
+        "market_value": "€4.00m"
       }
     ],
-    "player_count": 19
+    "player_count": 24
   },
   {
     "id": "677",
@@ -1768,6 +2789,17 @@
         "market_value": "€1.00m"
       },
       {
+        "id": "61814",
+        "name": "David Button",
+        "position": "Goalkeeper",
+        "number": "27",
+        "age": "37",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€50k"
+      },
+      {
         "id": "401320",
         "name": "Dara O'Shea",
         "position": "Centre-Back",
@@ -1788,6 +2820,30 @@
           "England"
         ],
         "market_value": "€14.00m"
+      },
+      {
+        "id": "364827",
+        "name": "Cédric Kipré",
+        "position": "Centre-Back",
+        "number": "4",
+        "age": "29",
+        "nationality": [
+          "Cote d'Ivoire",
+          "France"
+        ],
+        "market_value": "€2.00m"
+      },
+      {
+        "id": "758030",
+        "name": "Elkan Baggott",
+        "position": "Centre-Back",
+        "number": "25",
+        "age": "23",
+        "nationality": [
+          "Indonesia",
+          "England"
+        ],
+        "market_value": "€200k"
       },
       {
         "id": "596446",
@@ -1823,6 +2879,76 @@
         "market_value": "€7.00m"
       },
       {
+        "id": "351755",
+        "name": "Darnell Furlong",
+        "position": "Right-Back",
+        "number": "19",
+        "age": "30",
+        "nationality": [
+          "England",
+          "Montserrat"
+        ],
+        "market_value": "€3.00m"
+      },
+      {
+        "id": "14086",
+        "name": "Ashley Young",
+        "position": "Right-Back",
+        "number": "15",
+        "age": "40",
+        "nationality": [
+          "England",
+          "Jamaica"
+        ],
+        "market_value": "€400k"
+      },
+      {
+        "id": "315145",
+        "name": "Azor Matusiwa",
+        "position": "Defensive Midfield",
+        "number": "5",
+        "age": "28",
+        "nationality": [
+          "Netherlands",
+          "Angola"
+        ],
+        "market_value": "€11.00m"
+      },
+      {
+        "id": "468066",
+        "name": "Jens Cajuste",
+        "position": "Defensive Midfield",
+        "number": "12",
+        "age": "26",
+        "nationality": [
+          "Sweden",
+          "United States"
+        ],
+        "market_value": "€8.00m"
+      },
+      {
+        "id": "715558",
+        "name": "Marcelino Núñez",
+        "position": "Central Midfield",
+        "number": "32",
+        "age": "26",
+        "nationality": [
+          "Chile"
+        ],
+        "market_value": "€10.00m"
+      },
+      {
+        "id": "570336",
+        "name": "Dan Neil",
+        "position": "Central Midfield",
+        "number": "6",
+        "age": "24",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€5.50m"
+      },
+      {
         "id": "458178",
         "name": "Jack Taylor",
         "position": "Central Midfield",
@@ -1835,6 +2961,18 @@
         "market_value": "€3.00m"
       },
       {
+        "id": "621193",
+        "name": "Kasey McAteer",
+        "position": "Right Midfield",
+        "number": "20",
+        "age": "24",
+        "nationality": [
+          "Ireland",
+          "England"
+        ],
+        "market_value": "€10.00m"
+      },
+      {
         "id": "255731",
         "name": "Wes Burns",
         "position": "Right Midfield",
@@ -1844,6 +2982,18 @@
           "Wales"
         ],
         "market_value": "€1.80m"
+      },
+      {
+        "id": "530813",
+        "name": "Anis Mehmeti",
+        "position": "Attacking Midfield",
+        "number": "33",
+        "age": "25",
+        "nationality": [
+          "Albania",
+          "England"
+        ],
+        "market_value": "€14.00m"
       },
       {
         "id": "665390",
@@ -1869,6 +3019,17 @@
         "market_value": "€18.00m"
       },
       {
+        "id": "923504",
+        "name": "Sindre Walle Egeli",
+        "position": "Right Winger",
+        "number": "8",
+        "age": "19",
+        "nationality": [
+          "Norway"
+        ],
+        "market_value": "€18.00m"
+      },
+      {
         "id": "420808",
         "name": "George Hirst",
         "position": "Centre-Forward",
@@ -1879,9 +3040,32 @@
           "England"
         ],
         "market_value": "€8.00m"
+      },
+      {
+        "id": "197642",
+        "name": "Chuba Akpom",
+        "position": "Centre-Forward",
+        "number": "29",
+        "age": "30",
+        "nationality": [
+          "England",
+          "Nigeria"
+        ],
+        "market_value": "€5.00m"
+      },
+      {
+        "id": "633306",
+        "name": "Iván Azón",
+        "position": "Centre-Forward",
+        "number": "31",
+        "age": "23",
+        "nationality": [
+          "Spain"
+        ],
+        "market_value": "€4.00m"
       }
     ],
-    "player_count": 12
+    "player_count": 26
   },
   {
     "id": "1003",
@@ -1899,6 +3083,29 @@
         "market_value": "€1.80m"
       },
       {
+        "id": "551182",
+        "name": "Fran Vieites",
+        "position": "Goalkeeper",
+        "number": "13",
+        "age": "27",
+        "nationality": [
+          "Spain"
+        ],
+        "market_value": "€1.80m"
+      },
+      {
+        "id": "33873",
+        "name": "Asmir Begovic",
+        "position": "Goalkeeper",
+        "number": "31",
+        "age": "38",
+        "nationality": [
+          "Bosnia-Herzegovina",
+          "Canada"
+        ],
+        "market_value": "€200k"
+      },
+      {
         "id": "461833",
         "name": "Caleb Okoli",
         "position": "Centre-Back",
@@ -1909,6 +3116,18 @@
           "Nigeria"
         ],
         "market_value": "€12.00m"
+      },
+      {
+        "id": "298091",
+        "name": "Harry Souttar",
+        "position": "Centre-Back",
+        "number": "15",
+        "age": "27",
+        "nationality": [
+          "Australia",
+          "Scotland"
+        ],
+        "market_value": "€5.00m"
       },
       {
         "id": "99331",
@@ -1935,6 +3154,18 @@
         "market_value": "€1.20m"
       },
       {
+        "id": "183318",
+        "name": "Jamaal Lascelles",
+        "position": "Centre-Back",
+        "number": "24",
+        "age": "32",
+        "nationality": [
+          "England",
+          "Barbados"
+        ],
+        "market_value": "€1.20m"
+      },
+      {
         "id": "564529",
         "name": "Victor Kristiansen",
         "position": "Left-Back",
@@ -1955,6 +3186,30 @@
           "England"
         ],
         "market_value": "€6.00m"
+      },
+      {
+        "id": "215876",
+        "name": "Ricardo Pereira",
+        "position": "Right-Back",
+        "number": "21",
+        "age": "32",
+        "nationality": [
+          "Portugal",
+          "Cape Verde"
+        ],
+        "market_value": "€3.00m"
+      },
+      {
+        "id": "1135364",
+        "name": "Olabade Aluko",
+        "position": "Right-Back",
+        "number": "56",
+        "age": "19",
+        "nationality": [
+          "England",
+          "Nigeria"
+        ],
+        "market_value": "€250k"
       },
       {
         "id": "406638",
@@ -1979,6 +3234,53 @@
         "market_value": "€5.00m"
       },
       {
+        "id": "341501",
+        "name": "Hamza Choudhury",
+        "position": "Defensive Midfield",
+        "number": "17",
+        "age": "28",
+        "nationality": [
+          "Bangladesh",
+          "England"
+        ],
+        "market_value": "€5.00m"
+      },
+      {
+        "id": "667517",
+        "name": "Jordan James",
+        "position": "Central Midfield",
+        "number": "6",
+        "age": "21",
+        "nationality": [
+          "Wales",
+          "England"
+        ],
+        "market_value": "€12.00m"
+      },
+      {
+        "id": "468198",
+        "name": "Joe Aribo",
+        "position": "Central Midfield",
+        "number": "18",
+        "age": "29",
+        "nationality": [
+          "Nigeria",
+          "England"
+        ],
+        "market_value": "€2.80m"
+      },
+      {
+        "id": "1078155",
+        "name": "Louis Page",
+        "position": "Central Midfield",
+        "number": "25",
+        "age": "17",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€2.00m"
+      },
+      {
         "id": "936842",
         "name": "Michael Golding",
         "position": "Central Midfield",
@@ -1991,6 +3293,29 @@
         "market_value": "€1.50m"
       },
       {
+        "id": "646658",
+        "name": "Aaron Ramsey",
+        "position": "Attacking Midfield",
+        "number": "30",
+        "age": "23",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€8.00m"
+      },
+      {
+        "id": "1047280",
+        "name": "Divine Mukasa",
+        "position": "Attacking Midfield",
+        "number": "29",
+        "age": "18",
+        "nationality": [
+          "England",
+          "Uganda"
+        ],
+        "market_value": "€5.00m"
+      },
+      {
         "id": "186186",
         "name": "Bobby De Cordova-Reid",
         "position": "Attacking Midfield",
@@ -2001,6 +3326,18 @@
           "England"
         ],
         "market_value": "€1.00m"
+      },
+      {
+        "id": "1245948",
+        "name": "Jeremy Monga",
+        "position": "Left Winger",
+        "number": "28",
+        "age": "16",
+        "nationality": [
+          "England",
+          "Zambia"
+        ],
+        "market_value": "€10.00m"
       },
       {
         "id": "340328",
@@ -2026,6 +3363,18 @@
         "market_value": "€24.00m"
       },
       {
+        "id": "670988",
+        "name": "Wanya Marçal",
+        "position": "Right Winger",
+        "number": "27",
+        "age": "23",
+        "nationality": [
+          "Portugal",
+          "Angola"
+        ],
+        "market_value": "€300k"
+      },
+      {
         "id": "365172",
         "name": "Patson Daka",
         "position": "Centre-Forward",
@@ -2047,14 +3396,36 @@
           "France"
         ],
         "market_value": "€1.80m"
+      },
+      {
+        "id": "1020267",
+        "name": "Dujuan Richards",
+        "position": "Centre-Forward",
+        "number": "12",
+        "age": "20",
+        "nationality": [
+          "Jamaica"
+        ],
+        "market_value": "€500k"
       }
     ],
-    "player_count": 14
+    "player_count": 29
   },
   {
     "id": "31",
     "name": "Liverpool",
     "players": [
+      {
+        "id": "502676",
+        "name": "Giorgi Mamardashvili",
+        "position": "Goalkeeper",
+        "number": "25",
+        "age": "25",
+        "nationality": [
+          "Georgia"
+        ],
+        "market_value": "€28.00m"
+      },
       {
         "id": "105470",
         "name": "Alisson",
@@ -2067,6 +3438,28 @@
         "market_value": "€17.00m"
       },
       {
+        "id": "226049",
+        "name": "Freddie Woodman",
+        "position": "Goalkeeper",
+        "number": "28",
+        "age": "29",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€3.00m"
+      },
+      {
+        "id": "706815",
+        "name": "Harvey Davies",
+        "position": "Goalkeeper",
+        "number": "95",
+        "age": "22",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€500k"
+      },
+      {
         "id": "357119",
         "name": "Ibrahima Konaté",
         "position": "Centre-Back",
@@ -2077,6 +3470,17 @@
           "Mali"
         ],
         "market_value": "€50.00m"
+      },
+      {
+        "id": "1086619",
+        "name": "Giovanni Leoni",
+        "position": "Centre-Back",
+        "number": "15",
+        "age": "19",
+        "nationality": [
+          "Italy"
+        ],
+        "market_value": "€25.00m"
       },
       {
         "id": "139208",
@@ -2103,6 +3507,53 @@
         "market_value": "€15.00m"
       },
       {
+        "id": "503679",
+        "name": "Rhys Williams",
+        "position": "Centre-Back",
+        "number": "46",
+        "age": "25",
+        "nationality": [
+          "England",
+          "Jamaica"
+        ],
+        "market_value": "€500k"
+      },
+      {
+        "id": "730861",
+        "name": "Milos Kerkez",
+        "position": "Left-Back",
+        "number": "6",
+        "age": "22",
+        "nationality": [
+          "Hungary",
+          "Serbia"
+        ],
+        "market_value": "€40.00m"
+      },
+      {
+        "id": "234803",
+        "name": "Andrew Robertson",
+        "position": "Left-Back",
+        "number": "26",
+        "age": "32",
+        "nationality": [
+          "Scotland"
+        ],
+        "market_value": "€10.00m"
+      },
+      {
+        "id": "484547",
+        "name": "Jeremie Frimpong",
+        "position": "Right-Back",
+        "number": "30",
+        "age": "25",
+        "nationality": [
+          "Netherlands",
+          "Ghana"
+        ],
+        "market_value": "€35.00m"
+      },
+      {
         "id": "624258",
         "name": "Conor Bradley",
         "position": "Right-Back",
@@ -2112,6 +3563,17 @@
           "Northern Ireland"
         ],
         "market_value": "€30.00m"
+      },
+      {
+        "id": "633652",
+        "name": "Calvin Ramsay",
+        "position": "Right-Back",
+        "number": "47",
+        "age": "22",
+        "nationality": [
+          "Scotland"
+        ],
+        "market_value": "€1.50m"
       },
       {
         "id": "478573",
@@ -2133,6 +3595,18 @@
         "age": "33",
         "nationality": [
           "Japan"
+        ],
+        "market_value": "€5.00m"
+      },
+      {
+        "id": "864799",
+        "name": "Stefan Bajcetic",
+        "position": "Defensive Midfield",
+        "number": "43",
+        "age": "21",
+        "nationality": [
+          "Spain",
+          "Serbia"
         ],
         "market_value": "€5.00m"
       },
@@ -2160,6 +3634,29 @@
         "market_value": "€35.00m"
       },
       {
+        "id": "1045123",
+        "name": "Trey Nyoni",
+        "position": "Central Midfield",
+        "number": "42",
+        "age": "18",
+        "nationality": [
+          "England",
+          "Zimbabwe"
+        ],
+        "market_value": "€6.00m"
+      },
+      {
+        "id": "598577",
+        "name": "Florian Wirtz",
+        "position": "Attacking Midfield",
+        "number": "7",
+        "age": "23",
+        "nationality": [
+          "Germany"
+        ],
+        "market_value": "€110.00m"
+      },
+      {
         "id": "451276",
         "name": "Dominik Szoboszlai",
         "position": "Attacking Midfield",
@@ -2183,6 +3680,29 @@
         "market_value": "€65.00m"
       },
       {
+        "id": "1108466",
+        "name": "Rio Ngumoha",
+        "position": "Left Winger",
+        "number": "73",
+        "age": "17",
+        "nationality": [
+          "England",
+          "Nigeria"
+        ],
+        "market_value": "€20.00m"
+      },
+      {
+        "id": "148455",
+        "name": "Mohamed Salah",
+        "position": "Right Winger",
+        "number": "11",
+        "age": "33",
+        "nationality": [
+          "Egypt"
+        ],
+        "market_value": "€30.00m"
+      },
+      {
         "id": "341092",
         "name": "Federico Chiesa",
         "position": "Right Winger",
@@ -2192,14 +3712,72 @@
           "Italy"
         ],
         "market_value": "€15.00m"
+      },
+      {
+        "id": "349066",
+        "name": "Alexander Isak",
+        "position": "Centre-Forward",
+        "number": "9",
+        "age": "26",
+        "nationality": [
+          "Sweden",
+          "Eritrea"
+        ],
+        "market_value": "€100.00m"
+      },
+      {
+        "id": "709726",
+        "name": "Hugo Ekitiké",
+        "position": "Centre-Forward",
+        "number": "22",
+        "age": "23",
+        "nationality": [
+          "France",
+          "Cameroon"
+        ],
+        "market_value": "€90.00m"
       }
     ],
-    "player_count": 12
+    "player_count": 28
   },
   {
     "id": "281",
     "name": "Man City",
     "players": [
+      {
+        "id": "315858",
+        "name": "Gianluigi Donnarumma",
+        "position": "Goalkeeper",
+        "number": "25",
+        "age": "27",
+        "nationality": [
+          "Italy"
+        ],
+        "market_value": "€45.00m"
+      },
+      {
+        "id": "566799",
+        "name": "James Trafford",
+        "position": "Goalkeeper",
+        "number": "1",
+        "age": "23",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€25.00m"
+      },
+      {
+        "id": "116648",
+        "name": "Marcus Bettinelli",
+        "position": "Goalkeeper",
+        "number": "13",
+        "age": "33",
+        "nationality": [
+          "England",
+          "Italy"
+        ],
+        "market_value": "€500k"
+      },
       {
         "id": "475959",
         "name": "Josko Gvardiol",
@@ -2210,6 +3788,18 @@
           "Croatia"
         ],
         "market_value": "€70.00m"
+      },
+      {
+        "id": "392757",
+        "name": "Marc Guéhi",
+        "position": "Centre-Back",
+        "number": "15",
+        "age": "25",
+        "nationality": [
+          "England",
+          "Cote d'Ivoire"
+        ],
+        "market_value": "€65.00m"
       },
       {
         "id": "258004",
@@ -2234,6 +3824,17 @@
         "market_value": "€35.00m"
       },
       {
+        "id": "186590",
+        "name": "John Stones",
+        "position": "Centre-Back",
+        "number": "5",
+        "age": "31",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€15.00m"
+      },
+      {
         "id": "177476",
         "name": "Nathan Aké",
         "position": "Centre-Back",
@@ -2246,6 +3847,18 @@
         "market_value": "€15.00m"
       },
       {
+        "id": "843595",
+        "name": "Max Alleyne",
+        "position": "Centre-Back",
+        "number": "68",
+        "age": "20",
+        "nationality": [
+          "England",
+          "Barbados"
+        ],
+        "market_value": "€8.00m"
+      },
+      {
         "id": "743413",
         "name": "Nico O'Reilly",
         "position": "Left-Back",
@@ -2256,6 +3869,18 @@
           "Jamaica"
         ],
         "market_value": "€50.00m"
+      },
+      {
+        "id": "578391",
+        "name": "Rayan Aït-Nouri",
+        "position": "Left-Back",
+        "number": "21",
+        "age": "24",
+        "nationality": [
+          "Algeria",
+          "France"
+        ],
+        "market_value": "€40.00m"
       },
       {
         "id": "601883",
@@ -2304,6 +3929,28 @@
         "market_value": "€45.00m"
       },
       {
+        "id": "460939",
+        "name": "Tijjani Reijnders",
+        "position": "Central Midfield",
+        "number": "4",
+        "age": "27",
+        "nationality": [
+          "Netherlands"
+        ],
+        "market_value": "€60.00m"
+      },
+      {
+        "id": "911736",
+        "name": "Sverre Nypan",
+        "position": "Central Midfield",
+        "number": "41",
+        "age": "19",
+        "nationality": [
+          "Norway"
+        ],
+        "market_value": "€15.00m"
+      },
+      {
         "id": "51471",
         "name": "Mateo Kovacic",
         "position": "Central Midfield",
@@ -2324,6 +3971,29 @@
           "England"
         ],
         "market_value": "€80.00m"
+      },
+      {
+        "id": "607223",
+        "name": "Rayan Cherki",
+        "position": "Attacking Midfield",
+        "number": "10",
+        "age": "22",
+        "nationality": [
+          "France",
+          "Algeria"
+        ],
+        "market_value": "€65.00m"
+      },
+      {
+        "id": "241641",
+        "name": "Bernardo Silva",
+        "position": "Attacking Midfield",
+        "number": "20",
+        "age": "31",
+        "nationality": [
+          "Portugal"
+        ],
+        "market_value": "€27.00m"
       },
       {
         "id": "486049",
@@ -2349,6 +4019,18 @@
         "market_value": "€40.00m"
       },
       {
+        "id": "583255",
+        "name": "Antoine Semenyo",
+        "position": "Right Winger",
+        "number": "42",
+        "age": "26",
+        "nationality": [
+          "Ghana",
+          "England"
+        ],
+        "market_value": "€75.00m"
+      },
+      {
         "id": "418560",
         "name": "Erling Haaland",
         "position": "Centre-Forward",
@@ -2372,12 +4054,23 @@
         "market_value": "€60.00m"
       }
     ],
-    "player_count": 15
+    "player_count": 27
   },
   {
     "id": "985",
     "name": "Man United",
     "players": [
+      {
+        "id": "503883",
+        "name": "Senne Lammens",
+        "position": "Goalkeeper",
+        "number": "31",
+        "age": "23",
+        "nationality": [
+          "Belgium"
+        ],
+        "market_value": "€30.00m"
+      },
       {
         "id": "336077",
         "name": "Altay Bayındır",
@@ -2481,6 +4174,18 @@
         "market_value": "€10.00m"
       },
       {
+        "id": "339340",
+        "name": "Tyrell Malacia",
+        "position": "Left-Back",
+        "number": "12",
+        "age": "26",
+        "nationality": [
+          "Netherlands",
+          "Curacao"
+        ],
+        "market_value": "€5.00m"
+      },
+      {
         "id": "357147",
         "name": "Diogo Dalot",
         "position": "Right-Back",
@@ -2513,6 +4218,18 @@
           "Uruguay"
         ],
         "market_value": "€30.00m"
+      },
+      {
+        "id": "16306",
+        "name": "Casemiro",
+        "position": "Defensive Midfield",
+        "number": "18",
+        "age": "34",
+        "nationality": [
+          "Brazil",
+          "Spain"
+        ],
+        "market_value": "€8.00m"
       },
       {
         "id": "820374",
@@ -2549,6 +4266,18 @@
         "market_value": "€30.00m"
       },
       {
+        "id": "413039",
+        "name": "Bryan Mbeumo",
+        "position": "Right Winger",
+        "number": "19",
+        "age": "26",
+        "nationality": [
+          "Cameroon",
+          "France"
+        ],
+        "market_value": "€80.00m"
+      },
+      {
         "id": "536835",
         "name": "Amad Diallo",
         "position": "Right Winger",
@@ -2561,6 +4290,28 @@
         "market_value": "€50.00m"
       },
       {
+        "id": "517894",
+        "name": "Matheus Cunha",
+        "position": "Centre-Forward",
+        "number": "10",
+        "age": "26",
+        "nationality": [
+          "Brazil"
+        ],
+        "market_value": "€70.00m"
+      },
+      {
+        "id": "627442",
+        "name": "Benjamin Sesko",
+        "position": "Centre-Forward",
+        "number": "30",
+        "age": "22",
+        "nationality": [
+          "Slovenia"
+        ],
+        "market_value": "€65.00m"
+      },
+      {
         "id": "435648",
         "name": "Joshua Zirkzee",
         "position": "Centre-Forward",
@@ -2571,14 +4322,37 @@
           "Nigeria"
         ],
         "market_value": "€22.00m"
+      },
+      {
+        "id": "1042886",
+        "name": "Chido Obi",
+        "position": "Centre-Forward",
+        "number": "32",
+        "age": "18",
+        "nationality": [
+          "Denmark",
+          "Nigeria"
+        ],
+        "market_value": "€5.00m"
       }
     ],
-    "player_count": 17
+    "player_count": 24
   },
   {
     "id": "762",
     "name": "Newcastle",
     "players": [
+      {
+        "id": "427568",
+        "name": "Aaron Ramsdale",
+        "position": "Goalkeeper",
+        "number": "32",
+        "age": "28",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€12.00m"
+      },
       {
         "id": "192080",
         "name": "Nick Pope",
@@ -2611,6 +4385,18 @@
           "England"
         ],
         "market_value": "€100k"
+      },
+      {
+        "id": "521964",
+        "name": "Malick Thiaw",
+        "position": "Centre-Back",
+        "number": "12",
+        "age": "24",
+        "nationality": [
+          "Germany",
+          "Finland"
+        ],
+        "market_value": "€45.00m"
       },
       {
         "id": "361093",
@@ -2657,6 +4443,17 @@
         "market_value": "€35.00m"
       },
       {
+        "id": "900601",
+        "name": "Alex Murphy",
+        "position": "Left-Back",
+        "number": "37",
+        "age": "21",
+        "nationality": [
+          "Ireland"
+        ],
+        "market_value": "€1.50m"
+      },
+      {
         "id": "503981",
         "name": "Tino Livramento",
         "position": "Right-Back",
@@ -2667,6 +4464,28 @@
           "Scotland"
         ],
         "market_value": "€40.00m"
+      },
+      {
+        "id": "95810",
+        "name": "Kieran Trippier",
+        "position": "Right-Back",
+        "number": "2",
+        "age": "35",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€2.50m"
+      },
+      {
+        "id": "184528",
+        "name": "Emil Krafth",
+        "position": "Right-Back",
+        "number": "17",
+        "age": "31",
+        "nationality": [
+          "Sweden"
+        ],
+        "market_value": "€1.00m"
       },
       {
         "id": "397033",
@@ -2690,6 +4509,17 @@
           "Spain"
         ],
         "market_value": "€75.00m"
+      },
+      {
+        "id": "503749",
+        "name": "Jacob Ramsey",
+        "position": "Central Midfield",
+        "number": "41",
+        "age": "24",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€35.00m"
       },
       {
         "id": "333241",
@@ -2749,6 +4579,18 @@
         "market_value": "€32.00m"
       },
       {
+        "id": "583189",
+        "name": "Anthony Elanga",
+        "position": "Right Winger",
+        "number": "20",
+        "age": "24",
+        "nationality": [
+          "Sweden",
+          "Cameroon"
+        ],
+        "market_value": "€40.00m"
+      },
+      {
         "id": "199527",
         "name": "Jacob Murphy",
         "position": "Right Winger",
@@ -2759,6 +4601,29 @@
           "Ireland"
         ],
         "market_value": "€15.00m"
+      },
+      {
+        "id": "455661",
+        "name": "Nick Woltemade",
+        "position": "Centre-Forward",
+        "number": "27",
+        "age": "24",
+        "nationality": [
+          "Germany"
+        ],
+        "market_value": "€65.00m"
+      },
+      {
+        "id": "388165",
+        "name": "Yoane Wissa",
+        "position": "Centre-Forward",
+        "number": "9",
+        "age": "29",
+        "nationality": [
+          "DR Congo",
+          "France"
+        ],
+        "market_value": "€30.00m"
       },
       {
         "id": "609556",
@@ -2773,12 +4638,36 @@
         "market_value": "€15.00m"
       }
     ],
-    "player_count": 17
+    "player_count": 26
   },
   {
     "id": "703",
     "name": "Nott'm Forest",
     "players": [
+      {
+        "id": "432914",
+        "name": "John Victor",
+        "position": "Goalkeeper",
+        "number": "13",
+        "age": "30",
+        "nationality": [
+          "Brazil",
+          "Portugal"
+        ],
+        "market_value": "€7.00m"
+      },
+      {
+        "id": "85941",
+        "name": "Stefan Ortega",
+        "position": "Goalkeeper",
+        "number": "27",
+        "age": "33",
+        "nationality": [
+          "Germany",
+          "Spain"
+        ],
+        "market_value": "€5.00m"
+      },
       {
         "id": "127202",
         "name": "Matz Sels",
@@ -2789,6 +4678,18 @@
           "Belgium"
         ],
         "market_value": "€4.00m"
+      },
+      {
+        "id": "201574",
+        "name": "Angus Gunn",
+        "position": "Goalkeeper",
+        "number": "18",
+        "age": "30",
+        "nationality": [
+          "Scotland",
+          "England"
+        ],
+        "market_value": "€1.50m"
       },
       {
         "id": "1005649",
@@ -2824,6 +4725,28 @@
         "market_value": "€14.00m"
       },
       {
+        "id": "984096",
+        "name": "Jair Cunha",
+        "position": "Centre-Back",
+        "number": "23",
+        "age": "21",
+        "nationality": [
+          "Brazil"
+        ],
+        "market_value": "€12.00m"
+      },
+      {
+        "id": "933017",
+        "name": "Zach Abbott",
+        "position": "Centre-Back",
+        "number": "44",
+        "age": "20",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€3.00m"
+      },
+      {
         "id": "142310",
         "name": "Willy Boly",
         "position": "Centre-Back",
@@ -2847,6 +4770,17 @@
         "market_value": "€25.00m"
       },
       {
+        "id": "524285",
+        "name": "Luca Netz",
+        "position": "Left-Back",
+        "number": "25",
+        "age": "23",
+        "nationality": [
+          "Germany"
+        ],
+        "market_value": "€6.00m"
+      },
+      {
         "id": "236490",
         "name": "Ola Aina",
         "position": "Right-Back",
@@ -2857,6 +4791,29 @@
           "England"
         ],
         "market_value": "€20.00m"
+      },
+      {
+        "id": "708072",
+        "name": "Nicolò Savona",
+        "position": "Right-Back",
+        "number": "37",
+        "age": "23",
+        "nationality": [
+          "Italy"
+        ],
+        "market_value": "€18.00m"
+      },
+      {
+        "id": "897481",
+        "name": "Eric da Silva Moreira",
+        "position": "Right-Back",
+        "number": "17",
+        "age": "20",
+        "nationality": [
+          "Germany",
+          "Portugal"
+        ],
+        "market_value": "€1.00m"
       },
       {
         "id": "375885",
@@ -2917,6 +4874,29 @@
         "market_value": "€60.00m"
       },
       {
+        "id": "741238",
+        "name": "Omari Hutchinson",
+        "position": "Attacking Midfield",
+        "number": "21",
+        "age": "22",
+        "nationality": [
+          "England",
+          "Jamaica"
+        ],
+        "market_value": "€30.00m"
+      },
+      {
+        "id": "583199",
+        "name": "James McAtee",
+        "position": "Attacking Midfield",
+        "number": "24",
+        "age": "23",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€20.00m"
+      },
+      {
         "id": "392768",
         "name": "Callum Hudson-Odoi",
         "position": "Left Winger",
@@ -2927,6 +4907,53 @@
           "Ghana"
         ],
         "market_value": "€30.00m"
+      },
+      {
+        "id": "365108",
+        "name": "Dan Ndoye",
+        "position": "Right Winger",
+        "number": "14",
+        "age": "25",
+        "nationality": [
+          "Switzerland",
+          "Senegal"
+        ],
+        "market_value": "€35.00m"
+      },
+      {
+        "id": "540664",
+        "name": "Dilane Bakwa",
+        "position": "Right Winger",
+        "number": "29",
+        "age": "23",
+        "nationality": [
+          "France",
+          "DR Congo"
+        ],
+        "market_value": "€28.00m"
+      },
+      {
+        "id": "572265",
+        "name": "Lorenzo Lucca",
+        "position": "Centre-Forward",
+        "number": "20",
+        "age": "25",
+        "nationality": [
+          "Italy"
+        ],
+        "market_value": "€25.00m"
+      },
+      {
+        "id": "432164",
+        "name": "Igor Jesus",
+        "position": "Centre-Forward",
+        "number": "19",
+        "age": "25",
+        "nationality": [
+          "Brazil",
+          "United Arab Emirates"
+        ],
+        "market_value": "€22.00m"
       },
       {
         "id": "295313",
@@ -2951,12 +4978,24 @@
         "market_value": "€6.00m"
       }
     ],
-    "player_count": 15
+    "player_count": 29
   },
   {
     "id": "180",
     "name": "Southampton",
     "players": [
+      {
+        "id": "468539",
+        "name": "Daniel Peretz",
+        "position": "Goalkeeper",
+        "number": "41",
+        "age": "25",
+        "nationality": [
+          "Israel",
+          "Germany"
+        ],
+        "market_value": "€2.00m"
+      },
       {
         "id": "95976",
         "name": "Alex McCarthy",
@@ -2967,6 +5006,28 @@
           "England"
         ],
         "market_value": "€300k"
+      },
+      {
+        "id": "151334",
+        "name": "George Long",
+        "position": "Goalkeeper",
+        "number": "25",
+        "age": "32",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€200k"
+      },
+      {
+        "id": "57057",
+        "name": "Jamie Jones",
+        "position": "Goalkeeper",
+        "number": "32",
+        "age": "37",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "-"
       },
       {
         "id": "503977",
@@ -2992,6 +5053,18 @@
         "market_value": "€6.00m"
       },
       {
+        "id": "790918",
+        "name": "Joshua Quarshie",
+        "position": "Centre-Back",
+        "number": "17",
+        "age": "21",
+        "nationality": [
+          "Germany",
+          "Ghana"
+        ],
+        "market_value": "€4.00m"
+      },
+      {
         "id": "163744",
         "name": "Jack Stephens",
         "position": "Centre-Back",
@@ -2999,6 +5072,18 @@
         "age": "32",
         "nationality": [
           "England"
+        ],
+        "market_value": "€1.20m"
+      },
+      {
+        "id": "986298",
+        "name": "Joachim Kayi Sanda",
+        "position": "Centre-Back",
+        "number": "39",
+        "age": "19",
+        "nationality": [
+          "France",
+          "DR Congo"
         ],
         "market_value": "€1.20m"
       },
@@ -3025,6 +5110,39 @@
         "market_value": "€2.80m"
       },
       {
+        "id": "646478",
+        "name": "Elias Jelert",
+        "position": "Right-Back",
+        "number": "38",
+        "age": "22",
+        "nationality": [
+          "Denmark"
+        ],
+        "market_value": "€7.00m"
+      },
+      {
+        "id": "391005",
+        "name": "Mads Roerslev",
+        "position": "Right-Back",
+        "number": "2",
+        "age": "26",
+        "nationality": [
+          "Denmark"
+        ],
+        "market_value": "€5.00m"
+      },
+      {
+        "id": "324223",
+        "name": "James Bree",
+        "position": "Right-Back",
+        "number": "14",
+        "age": "28",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€2.50m"
+      },
+      {
         "id": "506189",
         "name": "Flynn Downes",
         "position": "Defensive Midfield",
@@ -3048,6 +5166,97 @@
         "market_value": "€12.00m"
       },
       {
+        "id": "66100",
+        "name": "Oriol Romeu",
+        "position": "Defensive Midfield",
+        "number": "28",
+        "age": "34",
+        "nationality": [
+          "Spain"
+        ],
+        "market_value": "€700k"
+      },
+      {
+        "id": "696116",
+        "name": "Caspar Jander",
+        "position": "Central Midfield",
+        "number": "20",
+        "age": "23",
+        "nationality": [
+          "Germany"
+        ],
+        "market_value": "€12.00m"
+      },
+      {
+        "id": "626319",
+        "name": "Tom Fellows",
+        "position": "Right Midfield",
+        "number": "18",
+        "age": "22",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€8.00m"
+      },
+      {
+        "id": "480723",
+        "name": "Finn Azaz",
+        "position": "Attacking Midfield",
+        "number": "10",
+        "age": "25",
+        "nationality": [
+          "Ireland",
+          "England"
+        ],
+        "market_value": "€18.00m"
+      },
+      {
+        "id": "804219",
+        "name": "Léo Scienza",
+        "position": "Attacking Midfield",
+        "number": "13",
+        "age": "27",
+        "nationality": [
+          "Brazil",
+          "Luxembourg"
+        ],
+        "market_value": "€10.00m"
+      },
+      {
+        "id": "902021",
+        "name": "Kuryu Matsuki",
+        "position": "Attacking Midfield",
+        "number": "27",
+        "age": "23",
+        "nationality": [
+          "Japan"
+        ],
+        "market_value": "€2.40m"
+      },
+      {
+        "id": "1045124",
+        "name": "Jay Robinson",
+        "position": "Left Winger",
+        "number": "46",
+        "age": "19",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€8.00m"
+      },
+      {
+        "id": "680806",
+        "name": "Samuel Edozie",
+        "position": "Left Winger",
+        "number": "23",
+        "age": "23",
+        "nationality": [
+          "England",
+          "Nigeria"
+        ],
+        "market_value": "€5.00m"
+      },
+      {
         "id": "533662",
         "name": "Cameron Archer",
         "position": "Centre-Forward",
@@ -3058,6 +5267,18 @@
           "Jamaica"
         ],
         "market_value": "€8.00m"
+      },
+      {
+        "id": "343463",
+        "name": "Cyle Larin",
+        "position": "Centre-Forward",
+        "number": "9",
+        "age": "31",
+        "nationality": [
+          "Canada",
+          "Jamaica"
+        ],
+        "market_value": "€3.50m"
       },
       {
         "id": "447995",
@@ -3071,7 +5292,7 @@
         "market_value": "€2.80m"
       }
     ],
-    "player_count": 10
+    "player_count": 27
   },
   {
     "id": "148",
@@ -3145,6 +5366,17 @@
         "market_value": "€20.00m"
       },
       {
+        "id": "263236",
+        "name": "Kevin Danso",
+        "position": "Centre-Back",
+        "number": "4",
+        "age": "27",
+        "nationality": [
+          "Austria"
+        ],
+        "market_value": "€20.00m"
+      },
+      {
         "id": "192765",
         "name": "Ben Davies",
         "position": "Centre-Back",
@@ -3180,6 +5412,17 @@
         "market_value": "€30.00m"
       },
       {
+        "id": "1086258",
+        "name": "Souza",
+        "position": "Left-Back",
+        "number": "38",
+        "age": "19",
+        "nationality": [
+          "Brazil"
+        ],
+        "market_value": "€12.00m"
+      },
+      {
         "id": "553875",
         "name": "Pedro Porro",
         "position": "Right-Back",
@@ -3200,6 +5443,17 @@
           "Uruguay"
         ],
         "market_value": "€22.00m"
+      },
+      {
+        "id": "257455",
+        "name": "João Palhinha",
+        "position": "Defensive Midfield",
+        "number": "6",
+        "age": "30",
+        "nationality": [
+          "Portugal"
+        ],
+        "market_value": "€18.00m"
       },
       {
         "id": "410425",
@@ -3237,6 +5491,17 @@
         "market_value": "€35.00m"
       },
       {
+        "id": "488362",
+        "name": "Conor Gallagher",
+        "position": "Central Midfield",
+        "number": "22",
+        "age": "26",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€35.00m"
+      },
+      {
         "id": "568693",
         "name": "Pape Matar Sarr",
         "position": "Central Midfield",
@@ -3246,6 +5511,18 @@
           "Senegal"
         ],
         "market_value": "€32.00m"
+      },
+      {
+        "id": "566931",
+        "name": "Xavi Simons",
+        "position": "Attacking Midfield",
+        "number": "7",
+        "age": "23",
+        "nationality": [
+          "Netherlands",
+          "Suriname"
+        ],
+        "market_value": "€50.00m"
       },
       {
         "id": "431755",
@@ -3284,6 +5561,17 @@
         "market_value": "€20.00m"
       },
       {
+        "id": "543499",
+        "name": "Mohammed Kudus",
+        "position": "Right Winger",
+        "number": "20",
+        "age": "25",
+        "nationality": [
+          "Ghana"
+        ],
+        "market_value": "€55.00m"
+      },
+      {
         "id": "258889",
         "name": "Dominic Solanke",
         "position": "Centre-Forward",
@@ -3305,14 +5593,49 @@
           "Brazil"
         ],
         "market_value": "€28.00m"
+      },
+      {
+        "id": "801734",
+        "name": "Mathys Tel",
+        "position": "Centre-Forward",
+        "number": "11",
+        "age": "21",
+        "nationality": [
+          "France",
+          "Guadeloupe"
+        ],
+        "market_value": "€25.00m"
+      },
+      {
+        "id": "487969",
+        "name": "Randal Kolo Muani",
+        "position": "Centre-Forward",
+        "number": "39",
+        "age": "27",
+        "nationality": [
+          "France",
+          "DR Congo"
+        ],
+        "market_value": "€22.00m"
       }
     ],
-    "player_count": 20
+    "player_count": 28
   },
   {
     "id": "379",
     "name": "West Ham",
     "players": [
+      {
+        "id": "400536",
+        "name": "Mads Hermansen",
+        "position": "Goalkeeper",
+        "number": "1",
+        "age": "25",
+        "nationality": [
+          "Denmark"
+        ],
+        "market_value": "€15.00m"
+      },
       {
         "id": "120629",
         "name": "Alphonse Areola",
@@ -3326,6 +5649,29 @@
         "market_value": "€5.00m"
       },
       {
+        "id": "29692",
+        "name": "Lukasz Fabianski",
+        "position": "Goalkeeper",
+        "number": "22",
+        "age": "41",
+        "nationality": [
+          "Poland"
+        ],
+        "market_value": "€250k"
+      },
+      {
+        "id": "605184",
+        "name": "Jean-Clair Todibo",
+        "position": "Centre-Back",
+        "number": "25",
+        "age": "26",
+        "nationality": [
+          "France",
+          "French Guiana"
+        ],
+        "market_value": "€23.00m"
+      },
+      {
         "id": "525247",
         "name": "Maximilian Kilman",
         "position": "Centre-Back",
@@ -3336,6 +5682,18 @@
           "Ukraine"
         ],
         "market_value": "€16.00m"
+      },
+      {
+        "id": "386047",
+        "name": "Axel Disasi",
+        "position": "Centre-Back",
+        "number": "4",
+        "age": "28",
+        "nationality": [
+          "France",
+          "DR Congo"
+        ],
+        "market_value": "€15.00m"
       },
       {
         "id": "415912",
@@ -3361,6 +5719,17 @@
         "market_value": "€1.20m"
       },
       {
+        "id": "1111589",
+        "name": "El Hadji Malick Diouf",
+        "position": "Left-Back",
+        "number": "12",
+        "age": "21",
+        "nationality": [
+          "Senegal"
+        ],
+        "market_value": "€28.00m"
+      },
+      {
         "id": "922563",
         "name": "Oliver Scarles",
         "position": "Left-Back",
@@ -3384,6 +5753,30 @@
         "market_value": "€22.00m"
       },
       {
+        "id": "341051",
+        "name": "Kyle Walker-Peters",
+        "position": "Right-Back",
+        "number": "2",
+        "age": "29",
+        "nationality": [
+          "England",
+          "Jamaica"
+        ],
+        "market_value": "€13.00m"
+      },
+      {
+        "id": "745181",
+        "name": "Soungoutou Magassa",
+        "position": "Defensive Midfield",
+        "number": "27",
+        "age": "22",
+        "nationality": [
+          "France",
+          "Mali"
+        ],
+        "market_value": "€17.00m"
+      },
+      {
         "id": "283628",
         "name": "Tomáš Souček",
         "position": "Defensive Midfield",
@@ -3393,6 +5786,40 @@
           "Czech Republic"
         ],
         "market_value": "€12.00m"
+      },
+      {
+        "id": "698164",
+        "name": "Freddie Potts",
+        "position": "Defensive Midfield",
+        "number": "32",
+        "age": "22",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€10.00m"
+      },
+      {
+        "id": "1081995",
+        "name": "Mohamadou Kanté",
+        "position": "Defensive Midfield",
+        "number": "55",
+        "age": "20",
+        "nationality": [
+          "France",
+          "Senegal"
+        ],
+        "market_value": "€300k"
+      },
+      {
+        "id": "880245",
+        "name": "Mateus Fernandes",
+        "position": "Central Midfield",
+        "number": "18",
+        "age": "21",
+        "nationality": [
+          "Portugal"
+        ],
+        "market_value": "€35.00m"
       },
       {
         "id": "474701",
@@ -3407,6 +5834,18 @@
         "market_value": "€30.00m"
       },
       {
+        "id": "1004203",
+        "name": "Keiber Lamadrid",
+        "position": "Left Winger",
+        "number": "21",
+        "age": "22",
+        "nationality": [
+          "Venezuela",
+          "Colombia"
+        ],
+        "market_value": "€1.20m"
+      },
+      {
         "id": "314875",
         "name": "Jarrod Bowen",
         "position": "Right Winger",
@@ -3416,9 +5855,56 @@
           "England"
         ],
         "market_value": "€35.00m"
+      },
+      {
+        "id": "204103",
+        "name": "Adama Traoré",
+        "position": "Right Winger",
+        "number": "17",
+        "age": "30",
+        "nationality": [
+          "Spain",
+          "Mali"
+        ],
+        "market_value": "€8.00m"
+      },
+      {
+        "id": "522784",
+        "name": "Taty Castellanos",
+        "position": "Centre-Forward",
+        "number": "11",
+        "age": "27",
+        "nationality": [
+          "Argentina"
+        ],
+        "market_value": "€28.00m"
+      },
+      {
+        "id": "817665",
+        "name": "Pablo",
+        "position": "Centre-Forward",
+        "number": "19",
+        "age": "22",
+        "nationality": [
+          "Brazil",
+          "Portugal"
+        ],
+        "market_value": "€18.00m"
+      },
+      {
+        "id": "123682",
+        "name": "Callum Wilson",
+        "position": "Centre-Forward",
+        "number": "9",
+        "age": "34",
+        "nationality": [
+          "England",
+          "Ireland"
+        ],
+        "market_value": "€5.00m"
       }
     ],
-    "player_count": 9
+    "player_count": 24
   },
   {
     "id": "543",
@@ -3458,6 +5944,17 @@
         "market_value": "€1.00m"
       },
       {
+        "id": "345911",
+        "name": "Ladislav Krejčí",
+        "position": "Centre-Back",
+        "number": "37",
+        "age": "27",
+        "nationality": [
+          "Czech Republic"
+        ],
+        "market_value": "€22.00m"
+      },
+      {
         "id": "606718",
         "name": "Toti",
         "position": "Centre-Back",
@@ -3491,6 +5988,51 @@
           "Italy"
         ],
         "market_value": "€10.00m"
+      },
+      {
+        "id": "698678",
+        "name": "Hugo Bueno",
+        "position": "Left-Back",
+        "number": "3",
+        "age": "23",
+        "nationality": [
+          "Spain"
+        ],
+        "market_value": "€12.00m"
+      },
+      {
+        "id": "661427",
+        "name": "David Møller Wolfe",
+        "position": "Left-Back",
+        "number": "6",
+        "age": "24",
+        "nationality": [
+          "Norway"
+        ],
+        "market_value": "€10.00m"
+      },
+      {
+        "id": "848509",
+        "name": "Jackson Tchatchoua",
+        "position": "Right-Back",
+        "number": "38",
+        "age": "24",
+        "nationality": [
+          "Cameroon",
+          "Belgium"
+        ],
+        "market_value": "€12.00m"
+      },
+      {
+        "id": "1193867",
+        "name": "Pedro Lima",
+        "position": "Right-Back",
+        "number": "17",
+        "age": "19",
+        "nationality": [
+          "Brazil"
+        ],
+        "market_value": "€4.00m"
       },
       {
         "id": "171679",
@@ -3549,6 +6091,30 @@
         "market_value": "€15.00m"
       },
       {
+        "id": "1230661",
+        "name": "Mateus Mané",
+        "position": "Attacking Midfield",
+        "number": "36",
+        "age": "18",
+        "nationality": [
+          "Portugal",
+          "England"
+        ],
+        "market_value": "€20.00m"
+      },
+      {
+        "id": "392770",
+        "name": "Angel Gomes",
+        "position": "Attacking Midfield",
+        "number": "47",
+        "age": "25",
+        "nationality": [
+          "England",
+          "Portugal"
+        ],
+        "market_value": "€12.00m"
+      },
+      {
         "id": "1060740",
         "name": "Enso González",
         "position": "Left Winger",
@@ -3558,6 +6124,28 @@
           "Paraguay"
         ],
         "market_value": "€3.00m"
+      },
+      {
+        "id": "683571",
+        "name": "Tolu Arokodare",
+        "position": "Centre-Forward",
+        "number": "14",
+        "age": "25",
+        "nationality": [
+          "Nigeria"
+        ],
+        "market_value": "€22.00m"
+      },
+      {
+        "id": "250426",
+        "name": "Adam Armstrong",
+        "position": "Centre-Forward",
+        "number": "9",
+        "age": "29",
+        "nationality": [
+          "England"
+        ],
+        "market_value": "€8.00m"
       },
       {
         "id": "292246",
@@ -3583,6 +6171,6 @@
         "market_value": "€600k"
       }
     ],
-    "player_count": 14
+    "player_count": 23
   }
 ]

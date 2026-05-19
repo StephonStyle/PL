@@ -12,6 +12,17 @@
     "market_value": "€15.00m"
   },
   {
+    "id": "124884",
+    "name": "Marco Bizot",
+    "position": "Goalkeeper",
+    "number": "40",
+    "age": "35",
+    "nationality": [
+      "Netherlands"
+    ],
+    "market_value": "€2.50m"
+  },
+  {
     "id": "413403",
     "name": "Ezri Konsa",
     "position": "Centre-Back",
@@ -33,6 +44,17 @@
       "Spain"
     ],
     "market_value": "€22.00m"
+  },
+  {
+    "id": "184573",
+    "name": "Victor Lindelöf",
+    "position": "Centre-Back",
+    "number": "3",
+    "age": "31",
+    "nationality": [
+      "Sweden"
+    ],
+    "market_value": "€6.00m"
   },
   {
     "id": "253677",
@@ -140,6 +162,17 @@
     "market_value": "€35.00m"
   },
   {
+    "id": "447661",
+    "name": "Douglas Luiz",
+    "position": "Central Midfield",
+    "number": "21",
+    "age": "28",
+    "nationality": [
+      "Brazil"
+    ],
+    "market_value": "€20.00m"
+  },
+  {
     "id": "193116",
     "name": "John McGinn",
     "position": "Central Midfield",
@@ -173,6 +206,63 @@
     "market_value": "€80.00m"
   },
   {
+    "id": "565822",
+    "name": "Harvey Elliott",
+    "position": "Attacking Midfield",
+    "number": "9",
+    "age": "23",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€22.00m"
+  },
+  {
+    "id": "321247",
+    "name": "Emiliano Buendía",
+    "position": "Attacking Midfield",
+    "number": "10",
+    "age": "29",
+    "nationality": [
+      "Argentina",
+      "Spain"
+    ],
+    "market_value": "€18.00m"
+  },
+  {
+    "id": "401173",
+    "name": "Jadon Sancho",
+    "position": "Left Winger",
+    "number": "19",
+    "age": "26",
+    "nationality": [
+      "England",
+      "Jamaica"
+    ],
+    "market_value": "€20.00m"
+  },
+  {
+    "id": "387626",
+    "name": "Leon Bailey",
+    "position": "Right Winger",
+    "number": "31",
+    "age": "28",
+    "nationality": [
+      "Jamaica"
+    ],
+    "market_value": "€16.00m"
+  },
+  {
+    "id": "1005583",
+    "name": "Alysson",
+    "position": "Right Winger",
+    "number": "47",
+    "age": "20",
+    "nationality": [
+      "Brazil"
+    ],
+    "market_value": "€10.00m"
+  },
+  {
     "id": "324358",
     "name": "Ollie Watkins",
     "position": "Centre-Forward",
@@ -182,5 +272,17 @@
       "England"
     ],
     "market_value": "€30.00m"
+  },
+  {
+    "id": "331726",
+    "name": "Tammy Abraham",
+    "position": "Centre-Forward",
+    "number": "18",
+    "age": "28",
+    "nationality": [
+      "England",
+      "Nigeria"
+    ],
+    "market_value": "€20.00m"
   }
 ]

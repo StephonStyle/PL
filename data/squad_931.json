@@ -11,6 +11,17 @@
     "market_value": "€8.00m"
   },
   {
+    "id": "127181",
+    "name": "Benjamin Lecomte",
+    "position": "Goalkeeper",
+    "number": "23",
+    "age": "35",
+    "nationality": [
+      "France"
+    ],
+    "market_value": "€1.20m"
+  },
+  {
     "id": "461883",
     "name": "Calvin Bassey",
     "position": "Centre-Back",
@@ -170,6 +181,17 @@
     "market_value": "€20.00m"
   },
   {
+    "id": "900195",
+    "name": "Kevin",
+    "position": "Left Winger",
+    "number": "22",
+    "age": "23",
+    "nationality": [
+      "Brazil"
+    ],
+    "market_value": "€30.00m"
+  },
+  {
     "id": "242631",
     "name": "Alex Iwobi",
     "position": "Left Winger",
@@ -182,6 +204,18 @@
     "market_value": "€25.00m"
   },
   {
+    "id": "661207",
+    "name": "Oscar Bobb",
+    "position": "Right Winger",
+    "number": "14",
+    "age": "22",
+    "nationality": [
+      "Norway",
+      "The Gambia"
+    ],
+    "market_value": "€30.00m"
+  },
+  {
     "id": "279455",
     "name": "Harry Wilson",
     "position": "Right Winger",
@@ -192,6 +226,17 @@
       "England"
     ],
     "market_value": "€25.00m"
+  },
+  {
+    "id": "401922",
+    "name": "Samuel Chukwueze",
+    "position": "Right Winger",
+    "number": "19",
+    "age": "26",
+    "nationality": [
+      "Nigeria"
+    ],
+    "market_value": "€15.00m"
   },
   {
     "id": "735571",
@@ -212,6 +257,18 @@
     "age": "35",
     "nationality": [
       "Mexico"
+    ],
+    "market_value": "€4.00m"
+  },
+  {
+    "id": "1069512",
+    "name": "Jonah Kusi-Asare",
+    "position": "Centre-Forward",
+    "number": "18",
+    "age": "18",
+    "nationality": [
+      "Sweden",
+      "Ghana"
     ],
     "market_value": "€4.00m"
   }

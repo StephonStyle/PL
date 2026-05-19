@@ -36,6 +36,28 @@
     "market_value": "€3.50m"
   },
   {
+    "id": "731466",
+    "name": "Teddy Sharman-Lowe",
+    "position": "Goalkeeper",
+    "number": "28",
+    "age": "23",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€550k"
+  },
+  {
+    "id": "503765",
+    "name": "James Hillson",
+    "position": "Goalkeeper",
+    "number": "-",
+    "age": "25",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "-"
+  },
+  {
     "id": "614258",
     "name": "Levi Colwill",
     "position": "Centre-Back",
@@ -71,6 +93,18 @@
     "market_value": "€28.00m"
   },
   {
+    "id": "910905",
+    "name": "Mamadou Sarr",
+    "position": "Centre-Back",
+    "number": "19",
+    "age": "20",
+    "nationality": [
+      "Senegal",
+      "France"
+    ],
+    "market_value": "€25.00m"
+  },
+  {
     "id": "258878",
     "name": "Tosin Adarabioyo",
     "position": "Centre-Back",
@@ -104,6 +138,29 @@
       "Spain"
     ],
     "market_value": "€50.00m"
+  },
+  {
+    "id": "904802",
+    "name": "Jorrel Hato",
+    "position": "Left-Back",
+    "number": "21",
+    "age": "20",
+    "nationality": [
+      "Netherlands",
+      "Curacao"
+    ],
+    "market_value": "€35.00m"
+  },
+  {
+    "id": "746833",
+    "name": "Caleb Wiley",
+    "position": "Left-Back",
+    "number": "-",
+    "age": "21",
+    "nationality": [
+      "United States"
+    ],
+    "market_value": "€8.00m"
   },
   {
     "id": "472423",
@@ -164,6 +221,18 @@
     "market_value": "€25.00m"
   },
   {
+    "id": "670717",
+    "name": "Dário Essugo",
+    "position": "Defensive Midfield",
+    "number": "14",
+    "age": "21",
+    "nationality": [
+      "Portugal",
+      "Angola"
+    ],
+    "market_value": "€17.00m"
+  },
+  {
     "id": "648195",
     "name": "Enzo Fernández",
     "position": "Central Midfield",
@@ -198,6 +267,30 @@
     "market_value": "€110.00m"
   },
   {
+    "id": "811779",
+    "name": "Alejandro Garnacho",
+    "position": "Left Winger",
+    "number": "49",
+    "age": "21",
+    "nationality": [
+      "Argentina",
+      "Spain"
+    ],
+    "market_value": "€40.00m"
+  },
+  {
+    "id": "670882",
+    "name": "Jamie Gittens",
+    "position": "Left Winger",
+    "number": "11",
+    "age": "21",
+    "nationality": [
+      "England",
+      "Barbados"
+    ],
+    "market_value": "€35.00m"
+  },
+  {
     "id": "537860",
     "name": "Mykhaylo Mudryk",
     "position": "Left Winger",
@@ -209,6 +302,17 @@
     "market_value": "-"
   },
   {
+    "id": "1056993",
+    "name": "Estêvão",
+    "position": "Right Winger",
+    "number": "41",
+    "age": "19",
+    "nationality": [
+      "Brazil"
+    ],
+    "market_value": "€80.00m"
+  },
+  {
     "id": "487465",
     "name": "Pedro Neto",
     "position": "Right Winger",
@@ -218,5 +322,39 @@
       "Portugal"
     ],
     "market_value": "€60.00m"
+  },
+  {
+    "id": "626724",
+    "name": "João Pedro",
+    "position": "Centre-Forward",
+    "number": "20",
+    "age": "24",
+    "nationality": [
+      "Brazil"
+    ],
+    "market_value": "€75.00m"
+  },
+  {
+    "id": "610849",
+    "name": "Liam Delap",
+    "position": "Centre-Forward",
+    "number": "9",
+    "age": "23",
+    "nationality": [
+      "England",
+      "Ireland"
+    ],
+    "market_value": "€32.00m"
+  },
+  {
+    "id": "938158",
+    "name": "Marc Guiu",
+    "position": "Centre-Forward",
+    "number": "38",
+    "age": "20",
+    "nationality": [
+      "Spain"
+    ],
+    "market_value": "€12.00m"
   }
 ]

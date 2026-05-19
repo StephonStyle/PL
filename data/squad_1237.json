@@ -46,6 +46,29 @@
     "market_value": "€35.00m"
   },
   {
+    "id": "318508",
+    "name": "Olivier Boscagli",
+    "position": "Centre-Back",
+    "number": "21",
+    "age": "28",
+    "nationality": [
+      "France",
+      "Monaco"
+    ],
+    "market_value": "€15.00m"
+  },
+  {
+    "id": "380350",
+    "name": "Igor Julio",
+    "position": "Centre-Back",
+    "number": "3",
+    "age": "28",
+    "nationality": [
+      "Brazil"
+    ],
+    "market_value": "€12.00m"
+  },
+  {
     "id": "212847",
     "name": "Adam Webster",
     "position": "Centre-Back",
@@ -78,6 +101,17 @@
       "Netherlands"
     ],
     "market_value": "€30.00m"
+  },
+  {
+    "id": "429915",
+    "name": "Maxim De Cuyper",
+    "position": "Left-Back",
+    "number": "29",
+    "age": "25",
+    "nationality": [
+      "Belgium"
+    ],
+    "market_value": "€22.00m"
   },
   {
     "id": "415381",
@@ -147,6 +181,29 @@
     "market_value": "€25.00m"
   },
   {
+    "id": "406634",
+    "name": "Matt O'Riley",
+    "position": "Central Midfield",
+    "number": "33",
+    "age": "25",
+    "nationality": [
+      "Denmark",
+      "England"
+    ],
+    "market_value": "€20.00m"
+  },
+  {
+    "id": "82873",
+    "name": "Pascal Groß",
+    "position": "Central Midfield",
+    "number": "30",
+    "age": "34",
+    "nationality": [
+      "Germany"
+    ],
+    "market_value": "€3.50m"
+  },
+  {
     "id": "3333",
     "name": "James Milner",
     "position": "Central Midfield",
@@ -201,6 +258,28 @@
       "Martinique"
     ],
     "market_value": "€30.00m"
+  },
+  {
+    "id": "1060087",
+    "name": "Charalampos Kostoulas",
+    "position": "Centre-Forward",
+    "number": "19",
+    "age": "18",
+    "nationality": [
+      "Greece"
+    ],
+    "market_value": "€25.00m"
+  },
+  {
+    "id": "950091",
+    "name": "Stefanos Tzimas",
+    "position": "Centre-Forward",
+    "number": "9",
+    "age": "20",
+    "nationality": [
+      "Greece"
+    ],
+    "market_value": "€20.00m"
   },
   {
     "id": "67063",

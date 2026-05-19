@@ -1,5 +1,17 @@
 [
   {
+    "id": "468539",
+    "name": "Daniel Peretz",
+    "position": "Goalkeeper",
+    "number": "41",
+    "age": "25",
+    "nationality": [
+      "Israel",
+      "Germany"
+    ],
+    "market_value": "€2.00m"
+  },
+  {
     "id": "95976",
     "name": "Alex McCarthy",
     "position": "Goalkeeper",
@@ -9,6 +21,28 @@
       "England"
     ],
     "market_value": "€300k"
+  },
+  {
+    "id": "151334",
+    "name": "George Long",
+    "position": "Goalkeeper",
+    "number": "25",
+    "age": "32",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€200k"
+  },
+  {
+    "id": "57057",
+    "name": "Jamie Jones",
+    "position": "Goalkeeper",
+    "number": "32",
+    "age": "37",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "-"
   },
   {
     "id": "503977",
@@ -34,6 +68,18 @@
     "market_value": "€6.00m"
   },
   {
+    "id": "790918",
+    "name": "Joshua Quarshie",
+    "position": "Centre-Back",
+    "number": "17",
+    "age": "21",
+    "nationality": [
+      "Germany",
+      "Ghana"
+    ],
+    "market_value": "€4.00m"
+  },
+  {
     "id": "163744",
     "name": "Jack Stephens",
     "position": "Centre-Back",
@@ -41,6 +87,18 @@
     "age": "32",
     "nationality": [
       "England"
+    ],
+    "market_value": "€1.20m"
+  },
+  {
+    "id": "986298",
+    "name": "Joachim Kayi Sanda",
+    "position": "Centre-Back",
+    "number": "39",
+    "age": "19",
+    "nationality": [
+      "France",
+      "DR Congo"
     ],
     "market_value": "€1.20m"
   },
@@ -67,6 +125,39 @@
     "market_value": "€2.80m"
   },
   {
+    "id": "646478",
+    "name": "Elias Jelert",
+    "position": "Right-Back",
+    "number": "38",
+    "age": "22",
+    "nationality": [
+      "Denmark"
+    ],
+    "market_value": "€7.00m"
+  },
+  {
+    "id": "391005",
+    "name": "Mads Roerslev",
+    "position": "Right-Back",
+    "number": "2",
+    "age": "26",
+    "nationality": [
+      "Denmark"
+    ],
+    "market_value": "€5.00m"
+  },
+  {
+    "id": "324223",
+    "name": "James Bree",
+    "position": "Right-Back",
+    "number": "14",
+    "age": "28",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€2.50m"
+  },
+  {
     "id": "506189",
     "name": "Flynn Downes",
     "position": "Defensive Midfield",
@@ -90,6 +181,97 @@
     "market_value": "€12.00m"
   },
   {
+    "id": "66100",
+    "name": "Oriol Romeu",
+    "position": "Defensive Midfield",
+    "number": "28",
+    "age": "34",
+    "nationality": [
+      "Spain"
+    ],
+    "market_value": "€700k"
+  },
+  {
+    "id": "696116",
+    "name": "Caspar Jander",
+    "position": "Central Midfield",
+    "number": "20",
+    "age": "23",
+    "nationality": [
+      "Germany"
+    ],
+    "market_value": "€12.00m"
+  },
+  {
+    "id": "626319",
+    "name": "Tom Fellows",
+    "position": "Right Midfield",
+    "number": "18",
+    "age": "22",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€8.00m"
+  },
+  {
+    "id": "480723",
+    "name": "Finn Azaz",
+    "position": "Attacking Midfield",
+    "number": "10",
+    "age": "25",
+    "nationality": [
+      "Ireland",
+      "England"
+    ],
+    "market_value": "€18.00m"
+  },
+  {
+    "id": "804219",
+    "name": "Léo Scienza",
+    "position": "Attacking Midfield",
+    "number": "13",
+    "age": "27",
+    "nationality": [
+      "Brazil",
+      "Luxembourg"
+    ],
+    "market_value": "€10.00m"
+  },
+  {
+    "id": "902021",
+    "name": "Kuryu Matsuki",
+    "position": "Attacking Midfield",
+    "number": "27",
+    "age": "23",
+    "nationality": [
+      "Japan"
+    ],
+    "market_value": "€2.40m"
+  },
+  {
+    "id": "1045124",
+    "name": "Jay Robinson",
+    "position": "Left Winger",
+    "number": "46",
+    "age": "19",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€8.00m"
+  },
+  {
+    "id": "680806",
+    "name": "Samuel Edozie",
+    "position": "Left Winger",
+    "number": "23",
+    "age": "23",
+    "nationality": [
+      "England",
+      "Nigeria"
+    ],
+    "market_value": "€5.00m"
+  },
+  {
     "id": "533662",
     "name": "Cameron Archer",
     "position": "Centre-Forward",
@@ -100,6 +282,18 @@
       "Jamaica"
     ],
     "market_value": "€8.00m"
+  },
+  {
+    "id": "343463",
+    "name": "Cyle Larin",
+    "position": "Centre-Forward",
+    "number": "9",
+    "age": "31",
+    "nationality": [
+      "Canada",
+      "Jamaica"
+    ],
+    "market_value": "€3.50m"
   },
   {
     "id": "447995",

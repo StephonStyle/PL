@@ -11,6 +11,18 @@
     "market_value": "€28.00m"
   },
   {
+    "id": "296802",
+    "name": "Walter Benítez",
+    "position": "Goalkeeper",
+    "number": "44",
+    "age": "33",
+    "nationality": [
+      "Argentina",
+      "France"
+    ],
+    "market_value": "€5.00m"
+  },
+  {
     "id": "196722",
     "name": "Remi Matthews",
     "position": "Goalkeeper",
@@ -45,6 +57,18 @@
     "market_value": "€25.00m"
   },
   {
+    "id": "1006411",
+    "name": "Jaydee Canvot",
+    "position": "Centre-Back",
+    "number": "23",
+    "age": "19",
+    "nationality": [
+      "France",
+      "Senegal"
+    ],
+    "market_value": "€20.00m"
+  },
+  {
     "id": "689637",
     "name": "Chadi Riad",
     "position": "Centre-Back",
@@ -67,6 +91,30 @@
       "Jamaica"
     ],
     "market_value": "€25.00m"
+  },
+  {
+    "id": "293194",
+    "name": "Borna Sosa",
+    "position": "Left-Back",
+    "number": "24",
+    "age": "28",
+    "nationality": [
+      "Croatia",
+      "Germany"
+    ],
+    "market_value": "€4.00m"
+  },
+  {
+    "id": "1047257",
+    "name": "Rio Cardines",
+    "position": "Left-Back",
+    "number": "59",
+    "age": "19",
+    "nationality": [
+      "Trinidad and Tobago",
+      "England"
+    ],
+    "market_value": "€300k"
   },
   {
     "id": "493003",
@@ -137,6 +185,17 @@
     "market_value": "€8.00m"
   },
   {
+    "id": "860078",
+    "name": "Kaden Rodney",
+    "position": "Defensive Midfield",
+    "number": "42",
+    "age": "21",
+    "nationality": [
+      "England"
+    ],
+    "market_value": "€200k"
+  },
+  {
     "id": "207014",
     "name": "Will Hughes",
     "position": "Central Midfield",
@@ -182,6 +241,52 @@
     "market_value": "€35.00m"
   },
   {
+    "id": "568157",
+    "name": "Yéremy Pino",
+    "position": "Right Winger",
+    "number": "10",
+    "age": "23",
+    "nationality": [
+      "Spain"
+    ],
+    "market_value": "€35.00m"
+  },
+  {
+    "id": "470607",
+    "name": "Brennan Johnson",
+    "position": "Right Winger",
+    "number": "11",
+    "age": "24",
+    "nationality": [
+      "Wales",
+      "England"
+    ],
+    "market_value": "€35.00m"
+  },
+  {
+    "id": "500689",
+    "name": "Evann Guessand",
+    "position": "Right Winger",
+    "number": "29",
+    "age": "24",
+    "nationality": [
+      "Cote d'Ivoire",
+      "France"
+    ],
+    "market_value": "€28.00m"
+  },
+  {
+    "id": "429983",
+    "name": "Jørgen Strand Larsen",
+    "position": "Centre-Forward",
+    "number": "22",
+    "age": "26",
+    "nationality": [
+      "Norway"
+    ],
+    "market_value": "€45.00m"
+  },
+  {
     "id": "420002",
     "name": "Jean-Philippe Mateta",
     "position": "Centre-Forward",
@@ -192,6 +297,17 @@
       "DR Congo"
     ],
     "market_value": "€35.00m"
+  },
+  {
+    "id": "1124005",
+    "name": "Christantus Uche",
+    "position": "Centre-Forward",
+    "number": "12",
+    "age": "23",
+    "nationality": [
+      "Nigeria"
+    ],
+    "market_value": "€15.00m"
   },
   {
     "id": "340324",
