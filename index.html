@@ -395,7 +395,7 @@ function renderOverview(){
   if (!teams.length) { el.innerHTML = '<div class="loading"><div class="spin"></div><p>加载中...</p></div>'; return; }
 
   const sorted = [...teams].sort((a,b) => {
-    const va = parseFloat((b.players||[]).reduce((s,p) => s + parseValueToM(p.market_value), 0);
+    const va = (b.players||[]).reduce((s,p) => s + parseValueToM(p.market_value), 0);
     const vb = (a.players||[]).reduce((s,p) => s + parseValueToM(p.market_value), 0);
     return va - vb;
   });
